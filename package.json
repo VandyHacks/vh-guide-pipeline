@@ -12,7 +12,9 @@
     "react-markdown": "^4.0.3"
   },
   "scripts": {
-    "dev": "node ./src/server/index.js",
+    "build": "webpack -p --config webpack.prod.js",
+    "dev": "webpack --config webpack.dev.js",
+    "watch": "webpack -w --config webpack.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
