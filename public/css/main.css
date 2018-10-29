@@ -14,7 +14,7 @@ body {
     sans-serif;
   font-size: 13px;
   line-height: 18px;
-  background-color: #fce8bf;
+  background-color: #f7ebd2;
   margin: 10px 13px 10px 13px;
 }
 table {
@@ -42,7 +42,7 @@ a img {
 }
 p {
   margin-bottom: 9px;
-  color: #e89087;
+  color: #ed725a;
 }
 
 ul {
@@ -51,7 +51,7 @@ ul {
 
 li,
 li a {
-  color: #e89087;
+  color: #ed725a;
 }
 
 h1,
