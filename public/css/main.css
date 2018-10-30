@@ -12,13 +12,10 @@ blockquote {
 
 p,
 blockquote,
-ul,
-ol,
-dl,
-li,
 table,
 pre {
   margin: 15px 0;
+  line-height: 1.5;
 }
 
 body {
@@ -64,6 +61,11 @@ ul {
 li,
 li a {
   color: #ed725a;
+}
+
+li p {
+  margin: 0;
+  padding: 0;
 }
 
 h1,
@@ -181,5 +183,5 @@ sup {
 }
 
 footer {
-  text-align: center;
+  padding: 15px 0;
 }
