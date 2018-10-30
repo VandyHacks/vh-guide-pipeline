@@ -26,11 +26,11 @@ For a live schedule and important info, head over to our [day-of page](dayof.van
 - [Resources](#resources)
 - [Emergencies](#emergencies)
 
-# What is a hackathon?
+# <a name='what-is-a-hackathon'></a>What is a hackathon?
 
 A hackathon is a sprint of innovation. The purpose is to meet new friends, learn new skills, and connect with potential employers. This still holds true whether it’s your first or 50th hackathon. If you’ve never done a hackathon before, you’re in for a treat. Never made your own website before? Check out our Web Dev beginner workshop track! Always wanted to create a virtual reality game? Stop by our hardware lab and get started! We’ve provided you with free food, travel, hardware, and mentors – everything you need to have an amazing weekend.
 
-# What to Bring
+# <a name='what-to-bring'></a>What to Bring
 
 We’ll have a sleeping room with sleeping bags and mats, so bring a pillow! We also have showers available at our venue to use on Saturday, so make sure you have a towel and any shower supplies. If you want to rent any hardware, a government-issued ID is required, no exceptions. Please do not bring weapons, drugs, or alcohol. If you’re not sure, please ask us ahead of time!
 
@@ -41,7 +41,7 @@ We’ll have a sleeping room with sleeping bags and mats, so bring a pillow! We 
 - Pillow
 - Toiletries (shampoo, toothbrush + toothpaste, deodorant, towel, shower shoes)
 
-# How to Prepare
+# <a name='how-to-prepare'></a>How to Prepare
 
 - Read this guide completely. Make sure you understand the schedule and venue. You don’t want any logistics to distract you while you’re “in the zone” this weekend, so get all of your the questions out of the way beforehand!
 
@@ -49,27 +49,27 @@ We’ll have a sleeping room with sleeping bags and mats, so bring a pillow! We 
 
 - Join our Slack [here](slack.vandyhacks.org). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
 
-- Look at previous projects. All of the projects from VandyHacks I, II, III, and IV can be found here: [VH1](https://vandyhacks.devpost.com/submissions), [VH2](https://vandyhacks2.devpost.com/submissions), [VH3]( https://vandyhacks3.devpost.com/submissions), and [VH4](https://vandyhacksiv.devpost.com/submissions).
+- Look at previous projects. All of the projects from VandyHacks I, II, III, and IV can be found here: [VH1](https://vandyhacks.devpost.com/submissions), [VH2](https://vandyhacks2.devpost.com/submissions), [VH3](https://vandyhacks3.devpost.com/submissions), and [VH4](https://vandyhacksiv.devpost.com/submissions).
 
 - Get your homework done. This may sound silly, but double-check that you have all of your work done for Monday. You’ll be exhausted, so make sure to do it before or earlier in the weekend.
 
-# Finding a Team
+# <a name='finding-a-team'></a>Finding a Team
 
 There are a couple of ways to find a team. If you join our Facebook event, listed above, you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
 
 We will be providing a Slack channel (#teamfinding) to help facilitate team creation, as well as a meetup session right after the opening ceremony.
 
-# Electronics & Hardware
+# <a name='electronics-and-hardware'></a>Electronics & Hardware
 
 You can use our WiFi by connecting to the network with SSID “vummiv”. If you’re having trouble, check out [Vanderbilt's IT site](https://it.vanderbilt.edu/services/network/wireless/vu-guests.php) for troubleshooting. We will also have power strips and ethernet cords available at our hardware desk for checkout. Ethernet ports will be active on the second floor.
 
 A list of available hardware can be found [here](https://hardware.mlh.io/).
 
-# Sleeping & Eating
+# <a name='sleeping-&-eating'></a>Sleeping & Eating
 
 We will have a sleeping room on the third floor of the Wondr’y with sleeping bags, so bring a pillow! Free food and drink will be provided. If you have any dietary restrictions, please confirm with an organizer or volunteer before getting meals. Those with dietary restrictions will eat first, so please be there early if you need special accommodation.
 
-# Composting
+# <a name='composting'></a>Composting
 
 This year, we're super excited to have composting available! Keep an eye out for signs indicating which items can and can't be composted.
 
@@ -82,15 +82,15 @@ Please DO NOT place the following items into compost bins:
 
 - Recyclable materials (these go in recycle bins!)
 
-# Opening Ceremony
+# <a name='opening-ceremony'></a>Opening Ceremony
 
 Opening ceremony will be held at Langford Auditorium. You’ll hear from our sponsors and get all of the logistics for the weekend. We’ll cover what a hackathon is, how to get the most out of your weekend, prizes, mentors, and hardware. By the end of the opening ceremony, you’ll have everything you need to get hacking!
 
-# Closing Ceremony
+# <a name='closing-ceremony'></a>Closing Ceremony
 
 Closing ceremony will be held in the Student Life Center. The top five teams will present their projects at this time, and all prizes will be awarded. Buses will leave immediately following the ceremony.
 
-# Prizes
+# <a name='prizes'></a>Prizes
 
 Pro-Grammy (best overall) and Rising Star (best overall runner up) will be selected from the top five projects, which will be presented during closing ceremony. Each team member for all awards will receive a prize, unless otherwise noted. Here are our prize categories:
 
@@ -102,19 +102,19 @@ Pro-Grammy (best overall) and Rising Star (best overall runner up) will be selec
 
 - **Zero to Hero** - Amazon Echoes. Awarded to the best hack from a team with minimal to none prior experience.
 
-- **Code For Good** - Nimble Portable Chargers + $30 to a charity of your choice. Awarded to the best hack dedicated to social good. *VandyHacks reserves the right to decline donations to certian charities.*
+- **Code For Good** - Nimble Portable Chargers + $30 to a charity of your choice. Awarded to the best hack dedicated to social good. _VandyHacks reserves the right to decline donations to certian charities._
 
-- **A(lan)esthetic** - Wacom Intuos Tablet. Awarded to the best individual design incorporating the letters "VH". *Single winner only. Does not need to be associated with a project. Dedicated to our Director of Design, Alan.*
+- **A(lan)esthetic** - Wacom Intuos Tablet. Awarded to the best individual design incorporating the letters "VH". _Single winner only. Does not need to be associated with a project. Dedicated to our Director of Design, Alan._
 
-- **#VandyHacks** - Fujifilm Polaroid Camera. Awarded to the best individual social media post (make sure to post with #VandyHacks and #VH5 and tag @VandyHacks). *Single winner only.*
+- **#VandyHacks** - Fujifilm Polaroid Camera. Awarded to the best individual social media post (make sure to post with #VandyHacks and #VH5 and tag @VandyHacks). _Single winner only._
 
 - **Sponsor Prizes** - TBA.
 
-# Submitting Your Project
+# <a name='submitting-your-project'></a>Submitting Your Project
 
 You have a project, mock up, slide deck, demo, anything! You will be submitting hard work online via [Devpost](vandyhacksv.devpost.com). All submissions are due by 9AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project, along with what prizes your project is eligible to win. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
-# Presenting Your Project
+# <a name='presenting-your-project'></a>Presenting Your Project
 
 After everyone has submitted their project, you will get a chance to present yours during the expo round! The expo will take place in the Wond’ry starting at 10:00 AM on Sunday. Your team will be assigned a table number, so make sure you get to your table early so that you can smooth out any technical difficulties. We’ll have power strips ready for you, but be sure to have a demo and your pitch planned out. If you’re not sure how to demo, don’t worry! We’ll be hosting a how to demo talk from 9-10 AM teaching you how to present your project to judges and other hackers.
 
@@ -122,17 +122,17 @@ In order to encourage people to check out other teams’ projects, we require th
 
 During the expo, judges will be walking around to score your project. This is when they will pick the prize category winners for the weekend (and winners of our sponsor categories), so be friendly, have a demo ready, and be prepared to answer any questions they ask you!
 
-# Reimbursements
+# <a name='reimbursements'></a>Reimbursements
 
 In order to receive travel reimbursement, you must have already been contacted and had the reimbursement confirmed. You will also need to fill out a form on Saturday at the event, so make sure you’ve filled it out before you leave. You will need to know your social security number to complete the form, so have it ready to go. Check out our travel reimbursement polciy [here](travel.vandyhacks.org).
 
-# Parking
+# <a name='parking'></a>Parking
 
 Parking will be provided free of charge at the 25th Avenue Parking Garage located at 2461 Highland Ave, Nashville, TN 37212. Please use the Highland Avenue entrance, located along Highland Ave between 25th Ave S and 24th Ave S. Park in any non-reserved Zone 3 parking space.
 
 ![Parking Garage]()
 
-# Venue
+# <a name='venue'></a>Venue
 
 VandyHacks will be hosted in The Wond’ry and Vanderbilt’s Engineering and Science Building (they’re the same building) located directly across the street from the 25th Avenue Garage. Just in case, here’s the address:
 
@@ -142,11 +142,11 @@ VandyHacks will be hosted in The Wond’ry and Vanderbilt’s Engineering and Sc
 
 ![Walking Map]()
 
-# Code of Conduct
+# <a name='code-of-conduct'></a>Code of Conduct
 
 By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, it can be found here. If at any time you feel uncomfortable, please contact an organizer or talk to our MLH coach.
 
-# Event Descriptions
+# <a name='event-descriptions'></a>Event Descriptions
 
 - **Pitch Session** - Meet with other hackers and form teams
 
@@ -156,19 +156,19 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you�
 
 - **BOS Sponsor Talk** -
 
-- **MicroStrategy Sponsor Talk** - 
+- **MicroStrategy Sponsor Talk** -
 
-- **Fulcrum GT Sponsor Talk** - 
+- **Fulcrum GT Sponsor Talk** -
 
-- **___ Sponsor Talk** - 
+- **\_\_\_ Sponsor Talk** -
 
-- **___ Sponsor Talk** - 
+- **\_\_\_ Sponsor Talk** -
 
-- **___ Sponsor Talk** - 
+- **\_\_\_ Sponsor Talk** -
 
-- **___ Sponsor Talk** - 
+- **\_\_\_ Sponsor Talk** -
 
-- **___ Sponsor Talk** - 
+- **\_\_\_ Sponsor Talk** -
 
 - **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa
 
@@ -176,17 +176,17 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you�
 
 - **Lightning Talks** - Stop by to hear talks given by other hackers on a large variety of topics
 
-- **Women in Computing Meetup** - 
+- **Women in Computing Meetup** -
 
-- **Karaoke Night** - 
+- **Karaoke Night** -
 
 - **How to Demo Talk** - Learn how to present your project’s best face before demoing
 
-# Resources
+# <a name='resources'></a>Resources
 
 - [Github Student Developer Pack](https://education.github.com/pack)
 - [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/free-account-students-faq/)
 
-# Emergencies
+# <a name='emergencies'></a>Emergencies
 
 While we don’t expect any serious problems, if you should see anything that requires our immediate attention, please feel free to contact our organizing team through the #emergencies channel on slack, or find someone wearing the green organizer shirt. For extreme circumstances, call Vanderbilt Police Department at (615) 322-2745. If someone is hurt, please call 911.
