@@ -9,6 +9,18 @@ blockquote {
   margin: 0;
   padding: 0;
 }
+
+p,
+blockquote,
+ul,
+ol,
+dl,
+li,
+table,
+pre {
+  margin: 15px 0;
+}
+
 body {
   font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial,
     sans-serif;
@@ -46,7 +58,7 @@ p {
 }
 
 ul {
-  list-style-image: url("../assets/arrow.svg");
+  list-style-type: circle;
 }
 
 li,
@@ -166,4 +178,8 @@ sup {
   pre {
     page-break-inside: avoid;
   }
+}
+
+footer {
+  text-align: center;
 }
