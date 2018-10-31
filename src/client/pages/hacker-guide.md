@@ -2,17 +2,19 @@
 
 We’re super excited to have you at VandyHacks V from November 2nd-4th! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, hardware/API/credits, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
 
-For a live schedule and important info, head over to our day-of page at [dayof.vandyhacks.org](https://dayof.vandyhacks.org). Now, let's jump right into things!
+Our live schedule page is coming soon! In the meantime, we've created a Google Calendar at [calendar.vandyhacks.org](https://calendar.vandyhacks.org). Please note that this  guide is still a work in progress. Now, let's jump right into things!
+
+_NOTE: Daylight Savings Time ends on Sunday, Nov. 4, so you will need to set your clocks back an hour at 2:00 AM._
 
 ## Expected Weather (high/low)
 
-- Nov. 2nd: 56°F / 42°F
-- Nov. 3rd: 62°F / 42°F
-- Nov. 4th: 62°F / 48°F
+- Nov. 2nd: 56°F / 45°F, chance of AM showers
+- Nov. 3rd: 61°F / 42°F, sunny
+- Nov. 4th: 66°F / 42°F, cloudy
 
 ## Table of Contents
 
-- [What is a hackathon?](#what-is-a-hackathon?)
+- [What is a Hackathon?](#what-is-a-hackathon?)
 - [What to Bring](#what-to-bring)
 - [How to Prepare](#how-to-prepare)
 - [Finding a Team](#finding-a-team)
@@ -33,7 +35,7 @@ For a live schedule and important info, head over to our day-of page at [dayof.v
 - [Resources](#resources)
 - [Emergencies](#emergencies)
 
-# <a name="what-is-a-hackathon"></a>What is a hackathon?
+# <a name="what-is-a-hackathon"></a>What is a Hackathon?
 
 A hackathon is a sprint of innovation. The purpose is to meet new friends, learn new skills, and connect with potential employers. This still holds true whether it’s your first or 50th hackathon. If you’ve never done a hackathon before, you’re in for a treat. Never made your own website before? Check out our Web Dev beginner workshop track! Always wanted to create a virtual reality game? Stop by our hardware lab and get started! We’ve provided you with free food, travel, hardware, and mentors – everything you need to have an amazing weekend.
 
@@ -90,12 +92,10 @@ Showers will be provided at our venue on Saturday afternoon on each floor. Shamp
 
 This year, we're super excited to have composting available! Keep an eye out for signs indicating which items can and can't be composted.
 
-![Composting Sign]()
-
 Please make sure to place the following items into compost bins:
 
 - Food scraps/leftovers
-- Plates, napkins, and cutlery
+- Plates, napkins, bowls, and cutlery
 
 Please DO NOT place the following items into compost bins:
 
@@ -117,7 +117,7 @@ Pro-Grammy (best overall) and Rising Star (best overall runner up) will be selec
 
 - **Rising Star** - JBL Flip 4 Speakers. Awarded to the second best project all around.
 
-- **Workshop Warrior** - 1MORE Earphones. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
+- **Workshop Warrior** - 1MORE Triple Drivers. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
 
 - **Zero to Hero** - Amazon Echoes. Awarded to the best hack from a team with minimal to none prior experience.
 
@@ -127,9 +127,7 @@ Pro-Grammy (best overall) and Rising Star (best overall runner up) will be selec
 
 - **#VandyHacks** - Fujifilm Polaroid Camera. Awarded to the best individual social media post (make sure to post with #VandyHacks and #VH5 and tag @VandyHacks). _Single winner only._
 
-- **MicroStrategy Grand Prize** - Nintendo Switch, Swag Backpack. Awarded to best use of MicroStrategy (Usher, Embedded Analytics or both!).
-
-- **MicroStrategy Raffle Prize** - $25 Starbucks Gift Card, Swag. Secure your hack with Usher API.
+- **MicroStrategy** - Nintendo Switch, Swag Backpack. Awarded to best use of MicroStrategy (Usher, Embedded Analytics or both!).
 
 - **Other Sponsor Prizes** - TBA.
 
@@ -137,7 +135,7 @@ Pro-Grammy (best overall) and Rising Star (best overall runner up) will be selec
 
 # <a name="submitting-your-project"></a>Submitting Your Project
 
-You have a project, mock up, slide deck, demo, anything! You will be submitting hard work online via [Devpost](vandyhacksv.devpost.com). All submissions are due by 9AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project, along with what prizes your project is eligible to win. Remember, this is something you can show off to recruiters, family, and friends in the future!
+You have a project, mock up, slide deck, demo, anything! You will be submitting hard work online via [Devpost](https://vandyhacksv.devpost.com). All submissions are due by 9AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project, along with what prizes your project is eligible to win. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
 # <a name="presenting-your-project"></a>Presenting Your Project
 
@@ -155,7 +153,7 @@ In order to receive travel reimbursement, you must have already been contacted a
 
 Parking will be provided free of charge at the 25th Avenue Parking Garage located at 2461 Highland Ave, Nashville, TN 37212. Please use the Highland Avenue entrance, located along Highland Ave between 25th Ave S and 24th Ave S. Park in any non-reserved Zone 3 parking space.
 
-![Parking Garage]()
+![Parking Garage](./images/25th-parking.jpg)
 
 # <a name="venue"></a>Venue
 
@@ -163,9 +161,7 @@ VandyHacks will be hosted in The Wond’ry and Vanderbilt’s Engineering and Sc
 
 2414 Highland Avenue Nashville, TN, 37212
 
-![The Wond'ry]()
-
-![Walking Map]()
+![The Wond'ry](./images/wondry.jpg)
 
 # <a name="code-of-conduct"></a>Code of Conduct
 
@@ -219,4 +215,4 @@ While we don’t expect any serious problems, if you should see anything that re
 
 <br>
 
-_Last Updated: October 29th, 2018_
+_Last Updated: October 31st, 2018_
