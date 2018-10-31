@@ -1,10 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 .title {
+  color: #07889b;
   font-size: 40px;
   margin: 30px;
   text-align: center;
   font-family: "Open Sans"
+}
+
+strong {
+  /* color: #07889b; */
+  font-weight: bold;
 }
 
 h1,
@@ -30,7 +36,7 @@ pre {
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-size: 1.14rem;
-  background-color: #F2F2F2;
+  background-color: #f9f1e4;
   margin: 10px 13px 10px 13px;
 }
 table {
@@ -47,9 +53,12 @@ th {
 }
 
 a {
+  /* color: #1a1a1a; */
   color: #07889b;
+  font-weight: bold;
 }
 a:hover {
+  /* color: #1a1a1a; */
   color: #07889b;
   text-decoration: none;
 }
@@ -58,7 +67,7 @@ a img {
 }
 p {
   margin-bottom: .7em;
-  color: #5C008A;
+  color: #1a1a1a;
   text-indent: 3em;
   line-height: 1.5em;
 }
@@ -67,9 +76,10 @@ ul {
   list-style-type: circle;
 }
 
-li,
 li a {
+  /* color: #1a1a1a; */
   color: #07889b;
+  /* font-weight: bold; */
 }
 
 li p {
@@ -89,8 +99,8 @@ h4,
 h5,
 h6 {
   font-family: "Lato", Arial, sans-serif;
-  color: #07889b;
   line-height: 36px;
+  color: #e47325;
 }
 h1 {
   margin-bottom: 18px;
@@ -203,17 +213,6 @@ sup {
   }
 }
 @media print {
-  body,
-  code,
-  pre code,
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: black;
-  }
   table,
   pre {
     page-break-inside: avoid;
