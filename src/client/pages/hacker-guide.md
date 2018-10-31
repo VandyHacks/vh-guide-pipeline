@@ -1,6 +1,7 @@
+This guide is a list of everything you need to know to have the best possible weekend here at VandyHacks!
 ## Dear Hacker,
 
-We’re super excited to have you at VandyHacks V from [November 2nd-4th](calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, hardware/API/credits, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
+We’re super excited to have you at VandyHacks V from [November 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, hardware/API/credits, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
 
 For a live schedule and important info, head over to our day-of page at [dayof.vandyhacks.org](https://dayof.vandyhacks.org). Now, let's jump right into things!
 
