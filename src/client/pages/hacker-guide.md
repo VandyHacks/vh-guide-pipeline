@@ -56,7 +56,7 @@ We’ll have a sleeping room with sleeping bags and mats, so bring a pillow! We 
 
 - Join our Slack at [slack.vandyhacks.org](https://slack.vandyhacks.org). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
 
-- Look at previous projects. All of the projects from VandyHacks I, II, III, and IV can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII]( https://vandyhacks3.devpost.com/submissions), and [VHIV](https://vandyhacksiv.devpost.com/submissions).
+- Look at previous projects. All of the projects from VandyHacks I, II, III, and IV can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), and [VHIV](https://vandyhacksiv.devpost.com/submissions).
 
 - Get your homework done. This may sound silly, but double-check that you have all of your work done for Monday. You’ll be exhausted, so make sure to do it before or earlier in the weekend.
 
@@ -117,15 +117,15 @@ Pro-Grammy (best overall) and Rising Star (best overall runner up) will be selec
 
 - **Rising Star** - JBL Flip 4 Speakers. Awarded to the second best project all around.
 
-- **Workshop Warrior** - 1MORE Earphones. Awarded to the best hack utilizing a tool or tech taught in a workshop. *Winners must have attended the corresponding workshop.*
+- **Workshop Warrior** - 1MORE Earphones. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
 
 - **Zero to Hero** - Amazon Echoes. Awarded to the best hack from a team with minimal to none prior experience.
 
-- **Code For Good** - Nimble Portable Chargers + $30 to a charity of your choice. Awarded to the best hack dedicated to social good. *VandyHacks reserves the right to decline donations to certain charities.*
+- **Code For Good** - Nimble Portable Chargers + $30 to a charity of your choice. Awarded to the best hack dedicated to social good. _VandyHacks reserves the right to decline donations to certain charities._
 
-- **A(lan)esthetic** - Wacom Intuos Tablet. Awarded to the best individual design incorporating the letters "VH". *Single winner only. Does not need to be associated with a project. Dedicated to our Director of Design, Alan.*
+- **A(lan)esthetic** - Wacom Intuos Tablet. Awarded to the best individual design incorporating the letters "VH". _Single winner only. Does not need to be associated with a project. Dedicated to our Director of Design, Alan._
 
-- **#VandyHacks** - Fujifilm Polaroid Camera. Awarded to the best individual social media post (make sure to post with #VandyHacks and #VH5 and tag @VandyHacks). *Single winner only.*
+- **#VandyHacks** - Fujifilm Polaroid Camera. Awarded to the best individual social media post (make sure to post with #VandyHacks and #VH5 and tag @VandyHacks). _Single winner only._
 
 - **MicroStrategy Grand Prize** - Nintendo Switch, Swag Backpack. Awarded to best use of MicroStrategy (Usher, Embedded Analytics or both!).
 
@@ -219,4 +219,4 @@ While we don’t expect any serious problems, if you should see anything that re
 
 <br>
 
-*Last Updated: October 29th, 2018*
+_Last Updated: October 29th, 2018_
