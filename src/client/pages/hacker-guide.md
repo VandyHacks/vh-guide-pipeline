@@ -1,6 +1,6 @@
 ## Dear Hacker,
 
-We’re super excited to have you at VandyHacks V from November 2nd-4th! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, hardware/API/credits, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
+We’re super excited to have you at VandyHacks V from [November 2nd-4th](calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, hardware/API/credits, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
 
 For a live schedule and important info, head over to our day-of page at [dayof.vandyhacks.org](https://dayof.vandyhacks.org). Now, let's jump right into things!
 
@@ -137,7 +137,7 @@ Pro-Grammy (best overall) and Rising Star (best overall runner up) will be selec
 
 # <a name="submitting-your-project"></a>Submitting Your Project
 
-You have a project, mock up, slide deck, demo, anything! You will be submitting hard work online via [Devpost](vandyhacksv.devpost.com). All submissions are due by 9AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project, along with what prizes your project is eligible to win. Remember, this is something you can show off to recruiters, family, and friends in the future!
+You have a project, mock up, slide deck, demo, anything! You will be submitting hard work online via [Devpost](https://vandyhacksv.devpost.com). All submissions are due by 9AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project, along with what prizes your project is eligible to win. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
 # <a name="presenting-your-project"></a>Presenting Your Project
 
