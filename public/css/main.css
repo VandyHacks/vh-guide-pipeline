@@ -1,5 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 .title {
-  font-size: 36px;
+  color: #07889b;
+  font-size: 40px;
+  margin: 30px;
+  text-align: center;
+  font-family: "Open Sans"
+}
+
+strong {
+  /* color: #07889b; */
+  font-weight: bold;
 }
 
 h1,
@@ -23,11 +34,9 @@ pre {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial,
-    sans-serif;
-  font-size: 1rem;
-  line-height: 18px;
-  background-color: #f7ebd2;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 1.14rem;
+  background-color: #f9f1e4;
   margin: 10px 13px 10px 13px;
 }
 table {
@@ -44,9 +53,12 @@ th {
 }
 
 a {
+  /* color: #1a1a1a; */
   color: #07889b;
+  font-weight: bold;
 }
 a:hover {
+  /* color: #1a1a1a; */
   color: #07889b;
   text-decoration: none;
 }
@@ -54,22 +66,26 @@ a img {
   border: none;
 }
 p {
-  margin-bottom: 9px;
-  color: #ed725a;
+  margin-bottom: .7em;
+  color: #1a1a1a;
+  text-indent: 3em;
+  line-height: 1.5em;
 }
 
 ul {
   list-style-type: circle;
 }
 
-li,
 li a {
+  /* color: #1a1a1a; */
   color: #07889b;
+  /* font-weight: bold; */
 }
 
 li p {
-  margin: 0;
+  margin: .5em;
   padding: 0;
+  text-indent: 0;
 }
 
 li {
@@ -82,12 +98,14 @@ h3,
 h4,
 h5,
 h6 {
-  color: #07889b;
+  font-family: "Lato", Arial, sans-serif;
   line-height: 36px;
+  color: #e47325;
 }
 h1 {
   margin-bottom: 18px;
   font-size: 30px;
+  margin-top: 1.3em;
 }
 h2 {
   font-size: 24px;
@@ -172,18 +190,29 @@ sup {
     margin: 10px auto;
   }
 }
-@media print {
-  body,
-  code,
-  pre code,
+
+/* smaller font on mobile */
+@media screen and (max-width: 640px) {
   h1,
   h2,
   h3,
   h4,
   h5,
   h6 {
-    color: black;
+    font-family: "Lato", Arial, sans-serif;
+    color: #07889b;
+    line-height: 30px;
   }
+  h1 {
+    margin-bottom: 18px;
+    font-size: 24px;
+    margin-top: 1.3em;
+  }
+  p {
+    font-size: .8em;
+  }
+}
+@media print {
   table,
   pre {
     page-break-inside: avoid;

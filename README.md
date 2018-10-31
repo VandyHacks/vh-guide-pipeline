@@ -9,7 +9,7 @@ Dev
 
 ```
 npm i
-npm run dev
+npm run watch
 ```
 
 then open `public/index.html` in a browser!
