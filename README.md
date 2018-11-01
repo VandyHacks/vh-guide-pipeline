@@ -7,14 +7,18 @@ Markdown --> HTML rendering pipeline via Webpack!
 Dev
 ---
 
-Uses [React-markdown](https://github.com/rexxars/react-markdown)
+Uses [React-markdown](https://github.com/rexxars/react-markdown).
 
-- Edit markdown in `./src/client/pages`
-- Style css in `./public/css`
+- Edit markdown files in `./src/client/pages`
+- Style shared css in `./src/client/css`
+
+`./src/common.js` contains the rendering pipeline logic, shared by all .md file conversions.
+
+All other `./src/*.js` are .md file-specific logic, usually just a path change.
 
 ```
 npm i
 npm run watch # hot-reload changes
 ```
 
-then open `public/index.html` in a browser!
+Then open `public/index.html` or `mentor/index.html` in a browser!
