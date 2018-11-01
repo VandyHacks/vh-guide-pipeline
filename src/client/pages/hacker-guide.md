@@ -72,9 +72,9 @@ We will be providing a Slack channel (#teamfinding) to help facilitate team crea
 
 # <a name="getting-help"></a>Getting Help
 
-This year, we're implementing a help queue to help hackers find help. You can login to the help queue at [help.vandyhacks.org](https://help.vandyhacks.org) with your email as your username and your phone number as your password. This will be used as the main method for connecting hackers with mentors.
+This year, we're implementing a help queue to help hackers find help. At the event, you'll be able to login to the help queue at [help.vandyhacks.org](https://help.vandyhacks.org) with your email as your username and your phone number as your password. This will let you reach out to mentors for help!
 
-You can get help by first submitting a help ticket providing information on what you need help with, where you're located, and how you can best be contacted. Then, just wait for a mentor to show up or contact you! Please note that you can only have one active ticket at a time. Mentors can mark your ticket as complete after your problem is solved, or you can cancel your ticket if you no longer need help.
+You can request a mentor anytime by submitting a help ticket. Then, just wait for an available mentor to show up or contact you! Please note that you can only have one active ticket at a time. You may also cancel your ticket if you no longer need help.
 
 # <a name="wifi-electronics-&-hardware"></a>Wifi, Electronics, & Hardware
 
@@ -141,7 +141,7 @@ You have a project, mock up, slide deck, demo, anything! You will be submitting 
 
 # <a name="presenting-your-project"></a>Presenting Your Project
 
-After everyone has submitted their project, you will get a chance to present yours during the expo round! The expo will take place in the Wond’ry starting at 10:00 AM on Sunday. Your team will be assigned a table number, so make sure you get to your table early so that you can smooth out any technical difficulties. We’ll have power strips ready for you, but be sure to have a demo and your pitch planned out. If you’re not sure how to demo, don’t worry! We’ll be hosting a how to demo talk from 9-10 AM teaching you how to present your project to judges and other hackers.
+After everyone has submitted their project, you will get a chance to present yours during the expo round! The expo will take place in the Wond’ry starting at 10:00 AM on Sunday. Your team will be assigned a table number, so make sure you get to your table early so that you can smooth out any technical difficulties. We’ll have power strips ready for you, but be sure to have a demo and your pitch planned out. If you’re not sure how to demo, don’t worry! We’ll be hosting a "How To Demo" talk from 9-10 AM Sunday teaching you how to present your project to judges and other hackers.
 
 In order to encourage people to check out other teams’ projects, we require that only one team member be at the table each time. Walk around, check out other projects, and ask them questions! Plan with your team how you want to rotate shifts. If your presentation absolutely needs more than one member at a time, please talk to an organizer first.
 
@@ -175,7 +175,7 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you�
 
 - **Beginner Workshop** - Learn about a variety of tools and skills to take VandyHacks by storm! We'll cover hackathon basics, getting started and finding teammates, project examples, and how to use Git and Github to collaborate with your teammates
 
-- **Tech Talks** - Come learn something new or brush up your hacking skills. Sessions will be held on: Data Science, Front End, Flask, Node, Unity/VR, and Cryptography
+- **Tech Talks** - Come learn something new or brush up your hacking skills. Sessions will be held on: Data Science, Front End, [Flask](http://flask.pocoo.org/), [Node.js](https://nodejs.org/en/), [Unity](https://unity3d.com/)/VR, and Cryptography
 
 - **BOS Sponsor Talk** - TBA
 
