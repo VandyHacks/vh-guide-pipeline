@@ -13,7 +13,9 @@ const App = props => {
       source={md}
       escapeHtml={false}
       transformImageUri={transformImageUri}
-      linkTarget= {(url, text, title) => url.indexOf('#') > -1 ? undefined : '_blank'}
+      linkTarget={(url, text, title) =>
+        url.indexOf("#") > -1 ? undefined : "_blank"
+      }
     />
   );
 };

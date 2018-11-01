@@ -5,11 +5,14 @@ let path = require("path"),
 
 module.exports = {
   context: path.join(__dirname, "/src/client"),
-  entry: "./main.js",
+  entry: {
+    "public/js/main": "./hacker-guide.js",
+    "mentor/js/main": "./mentor-guide.js"
+  },
   mode: "production",
   output: {
-    filename: "[name].js",
-    path: path.resolve(__dirname, "public/js")
+    path: path.resolve(__dirname),
+    filename: "[name].js"
   },
   module: {
     rules: [
