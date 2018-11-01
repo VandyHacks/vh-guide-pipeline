@@ -153,7 +153,7 @@ In order to receive travel reimbursement, you must have already been contacted a
 
 # <a name="parking"></a>Parking
 
-Parking will be provided free of charge at the 25th Avenue Parking Garage located at 2461 Highland Ave, Nashville, TN 37212. Please use the Highland Avenue entrance, located along Highland Ave between 25th Ave S and 24th Ave S. Park in any non-reserved Zone 3 parking space.
+Parking will be provided free of charge at the 25th Avenue Parking Garage located at 2461 Highland Ave, Nashville, TN 37212. Please use the Highland Avenue entrance, located along Highland Ave between 25th Ave S and 24th Ave S. Park in any non-reserved Zone 3 parking space [tentative].
 
 ![Parking Garage](./images/25th-parking.jpg)
 
@@ -167,7 +167,7 @@ VandyHacks will be hosted in The Wond’ry and Vanderbilt’s Engineering and Sc
 
 # <a name="code-of-conduct"></a>Code of Conduct
 
-By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, ours can be found [here](), and MLH's can be found [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). If at any time you feel uncomfortable, please contact an organizer or talk to our MLH coach.
+By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, ours can be found [here](https://docs.google.com/document/d/1lL9MBT2NNkMBI1673tEcIa6JPxNlDyoWeHo0sfjuvs0), and MLH's can be found [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). If at any time you feel uncomfortable, please contact an organizer or talk to our MLH coach.
 
 # <a name="event-descriptions"></a>Event Descriptions
 
