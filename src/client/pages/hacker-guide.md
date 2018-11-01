@@ -2,7 +2,7 @@ This guide is a list of everything you need to know to have the best possible we
 
 ## Dear Hacker,
 
-We’re super excited to have you at VandyHacks V from [November 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, hardware/API/credits, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
+We’re super excited to have you at VandyHacks V from [November 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
 
 Our live schedule page is coming soon! In the meantime, we've created a Google Calendar at [calendar.vandyhacks.org](https://calendar.vandyhacks.org). Please note that this guide is still a work in progress. Now, let's jump right into things!
 
@@ -79,7 +79,7 @@ You can request a mentor anytime by submitting a help ticket. Then, just wait fo
 
 # <a name="wifi-electronics-&-hardware"></a>Wifi, Electronics, & Hardware
 
-You can use our WiFi by connecting to the network with SSID “vummiv”. If you’re having trouble, check out [Vanderbilt's IT site](https://it.vanderbilt.edu/services/network/wireless/vu-guests.php) for troubleshooting. We will also have power strips and ethernet cords available at our hardware desk for checkout. Ethernet ports will be active on the second floor.
+You can use our WiFi by connecting to the network “vummiv”. Note that this is a hidden network, so you'll have to manually enter in the SSID. If you’re having trouble, check out [Vanderbilt's IT site](https://it.vanderbilt.edu/services/network/wireless/vu-guests.php) for troubleshooting. We will also have power strips and ethernet cords available at our hardware desk for checkout. Ethernet ports will be active on the second floor.
 
 A list of available hardware can be found [here](https://hardware.mlh.io/).
 
@@ -114,13 +114,15 @@ Closing ceremony will be held in the [Student Life Center](https://goo.gl/maps/U
 
 # <a name="prizes"></a>Prizes
 
-Pro-Grammy (best overall) and Rising Star (best overall runner up) will be selected from the top five projects, which will be presented during closing ceremony. Each team member for all awards will receive a prize, unless otherwise noted. Here are our prize categories:
+Shining Star (best overall) and Rising Star (best overall runner up) will be selected from the top five projects, which will be presented during closing ceremony. Each team member for all awards will receive a prize, unless otherwise noted. Here are our prize categories:
 
-- **Pro-Grammy** - DJI Spark Drones. Awarded to the best project all around.
+- **Shining Star** - DJI Spark Drones. Awarded to the best project all around.
 
-- **Rising Star** - JBL Flip 4 Speakers. Awarded to the second best project all around.
+- **Rising Star** - GoPro HERO7's. Awarded to the second best project all around.
 
-- **Workshop Warrior** - 1MORE Triple Drivers. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
+- **Pro-Grammy** - 1MORE Triple Drivers. Awarded to the best musical hack.
+
+- **Workshop Warrior** - JBL Flip 4 Speakers. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
 
 - **Zero to Hero** - Amazon Echoes. Awarded to the best hack from a team with minimal to none prior experience.
 
