@@ -155,7 +155,7 @@ In order to receive travel reimbursement, you must have already been contacted a
 
 Parking will be provided free of charge at the 25th Avenue Parking Garage located at 2461 Highland Ave, Nashville, TN 37212. Please use the Highland Avenue entrance, located along Highland Ave between 25th Ave S and 24th Ave S. Park in any non-reserved Zone 3 parking space.
 
-![Parking Garage](./assets/25th-parking.jpg)
+![Parking Garage](./images/25th-parking.jpg)
 
 # <a name="venue"></a>Venue
 
@@ -163,7 +163,7 @@ VandyHacks will be hosted in The Wond’ry and Vanderbilt’s Engineering and Sc
 
 2414 Highland Avenue Nashville, TN, 37212
 
-![The Wond'ry](./assets/wondry.jpg)
+![The Wond'ry](./images/wondry.jpg)
 
 # <a name="code-of-conduct"></a>Code of Conduct
 
