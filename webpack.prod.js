@@ -6,8 +6,8 @@ let path = require("path"),
 module.exports = {
   context: path.join(__dirname, "/src/client"),
   entry: {
-    "public/js/main": "./main.js",
-    "mentor/js/main": "./main.js"
+    "public/js/main": "./hacker-guide.js",
+    "mentor/js/main": "./mentor-guide.js"
   },
   mode: "production",
   output: {
