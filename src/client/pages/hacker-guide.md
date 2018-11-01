@@ -16,7 +16,7 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 4, so you will need to set you
 
 ## Table of Contents
 
-- [What is a Hackathon?](#what-is-a-hackathon?)
+- [What is a Hackathon?](#what-is-a-hackathon)
 - [What to Bring](#what-to-bring)
 - [How to Prepare](#how-to-prepare)
 - [Finding a Team](#finding-a-team)
