@@ -1,9 +1,9 @@
 import React from "react";
 import { render } from "react-dom";
 import ReactMarkdown from "react-markdown";
+import "./css/main.css";
 import hacker_md from "./pages/hacker-guide.md";
 import mentor_md from "./pages/mentor-guide.md";
-import "./css/main.css";
 
 const transformImageUri = uri => {
   return uri;
