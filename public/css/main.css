@@ -1,11 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Lato");
 .title {
   color: #07889b;
   font-size: 40px;
   margin: 30px;
   text-align: center;
-  font-family: "Open Sans"
+  font-family: "Open Sans";
+}
+
+img {
+  max-width: 100%;
+}
+
+img::before {
+  text-indent: 0;
 }
 
 strong {
@@ -66,7 +74,7 @@ a img {
   border: none;
 }
 p {
-  margin-bottom: .7em;
+  margin-bottom: 0.7em;
   color: #1a1a1a;
   text-indent: 3em;
   line-height: 1.5em;
@@ -83,7 +91,7 @@ li a {
 }
 
 li p {
-  margin: .5em;
+  margin: 0.5em;
   padding: 0;
   text-indent: 0;
 }
@@ -209,7 +217,7 @@ sup {
     margin-top: 1.3em;
   }
   p {
-    font-size: .8em;
+    font-size: 0.8em;
   }
 }
 @media print {

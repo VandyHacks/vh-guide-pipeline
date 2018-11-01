@@ -1,9 +1,10 @@
 This guide is a list of everything you need to know to have the best possible weekend here at VandyHacks!
+
 ## Dear Hacker,
 
 We’re super excited to have you at VandyHacks V from [November 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, hardware/API/credits, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
 
-Our live schedule page is coming soon! In the meantime, we've created a Google Calendar at [calendar.vandyhacks.org](https://calendar.vandyhacks.org). Please note that this  guide is still a work in progress. Now, let's jump right into things!
+Our live schedule page is coming soon! In the meantime, we've created a Google Calendar at [calendar.vandyhacks.org](https://calendar.vandyhacks.org). Please note that this guide is still a work in progress. Now, let's jump right into things!
 
 _NOTE: Daylight Savings Time ends on Sunday, Nov. 4, so you will need to set your clocks back an hour at 2:00 AM._
 
@@ -154,7 +155,7 @@ In order to receive travel reimbursement, you must have already been contacted a
 
 Parking will be provided free of charge at the 25th Avenue Parking Garage located at 2461 Highland Ave, Nashville, TN 37212. Please use the Highland Avenue entrance, located along Highland Ave between 25th Ave S and 24th Ave S. Park in any non-reserved Zone 3 parking space.
 
-![Parking Garage](./images/25th-parking.jpg)
+![Parking Garage](./assets/25th-parking.jpg)
 
 # <a name="venue"></a>Venue
 
@@ -162,7 +163,7 @@ VandyHacks will be hosted in The Wond’ry and Vanderbilt’s Engineering and Sc
 
 2414 Highland Avenue Nashville, TN, 37212
 
-![The Wond'ry](./images/wondry.jpg)
+![The Wond'ry](./assets/wondry.jpg)
 
 # <a name="code-of-conduct"></a>Code of Conduct
 
