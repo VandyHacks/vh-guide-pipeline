@@ -1,3 +1,9 @@
+/** 
+ * 
+ * Rendering pipeline from markdown --> React, shared by all .md file conversions.
+ * 
+ */
+
 import React from "react";
 import { render } from "react-dom";
 import ReactMarkdown from "react-markdown";

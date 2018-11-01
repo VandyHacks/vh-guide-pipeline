@@ -1,3 +1,5 @@
+/* Common CSS, shared by all .md file conversions */
+
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 @import url("https://fonts.googleapis.com/css?family=Lato");
 .title {
