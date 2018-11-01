@@ -2,6 +2,7 @@ import React from "react";
 import { render } from "react-dom";
 import ReactMarkdown from "react-markdown";
 import md from "./pages/hacker-guide.md";
+import "./css/main.css";
 
 const transformImageUri = uri => {
   return uri;
