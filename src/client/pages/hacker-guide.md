@@ -167,7 +167,7 @@ VandyHacks will be hosted in The Wond’ry and Vanderbilt’s Engineering and Sc
 
 # <a name="code-of-conduct"></a>Code of Conduct
 
-By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, ours can be found [here](https://docs.google.com/document/d/1lL9MBT2NNkMBI1673tEcIa6JPxNlDyoWeHo0sfjuvs0), and MLH's can be found [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). If at any time you feel uncomfortable, please contact an organizer or talk to our MLH coach.
+By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, ours can be found [here](https://docs.google.com/document/u/1/d/e/2PACX-1vTp2I1khNKtBcwRYmfhmeetPBLvaSt4GpFA2jxpQgzA5y85yQ7TMRtZelaoxVr-L9z2zL-8iawg8-h8/pub), and MLH's can be found [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). If at any time you feel uncomfortable, please contact an organizer or talk to our MLH coach.
 
 # <a name="event-descriptions"></a>Event Descriptions
 
