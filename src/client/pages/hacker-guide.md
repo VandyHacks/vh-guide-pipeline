@@ -29,6 +29,7 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 4, so you will need to set you
 - [Prizes](#prizes)
 - [Submitting Your Project](#submitting-your-project)
 - [Presenting Your Project](#presenting-your-project)
+- [Buses](#buses)
 - [Reimbursements](#reimbursements)
 - [Parking](#parking)
 - [Venue](#venue)
@@ -146,6 +147,18 @@ After everyone has submitted their project, you will get a chance to present you
 In order to encourage people to check out other teams’ projects, we require that only one team member be at the table each time. Walk around, check out other projects, and ask them questions! Plan with your team how you want to rotate shifts. If your presentation absolutely needs more than one member at a time, please talk to an organizer first.
 
 During the expo, judges will be walking around to score your project. This is when they will pick the prize category winners for the weekend (and winners of our sponsor categories), so be friendly, have a demo ready, and be prepared to answer any questions they ask you!
+
+# <a name="buses"></a>Buses
+
+This year, we have three bus routes, which are:
+
+- Route A: Illinois Institute of Technology → Purdue University → Vanderbilt University
+- Route B: UIUC → WashU → Vanderbilt University
+- Route C: University of Florida -> Georgia Tech -> Nashville
+
+Although all reserved seats are full, we have a limited amount of walk-on seats that will be distributed first come, first served on Friday.
+
+The official bus schedule can be found [here](https://www.bus.com/event-summary/484659946-vandy-hacks-2018-november-2nd?access-token=73a2bc44-3979-45cf-802e-cdd1f95fee04). If you have any questions, email us at [travel@vandyhacks.org](mailto:travel@vandyhacks.org).
 
 # <a name="reimbursements"></a>Reimbursements
 
