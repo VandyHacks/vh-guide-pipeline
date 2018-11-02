@@ -2,7 +2,7 @@ This guide is a list of everything you need to know to have the best possible we
 
 ## Dear Hacker,
 
-We’re super excited to have you at VandyHacks V from [November 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, hardware/API/credits, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
+We’re super excited to have you at VandyHacks V from [November 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
 
 Our live schedule page is coming soon! In the meantime, we've created a Google Calendar at [calendar.vandyhacks.org](https://calendar.vandyhacks.org). Please note that this guide is still a work in progress. Now, let's jump right into things!
 
@@ -44,7 +44,7 @@ A hackathon is a sprint of innovation. The purpose is to meet new friends, learn
 
 # <a name="what-to-bring"></a>What to Bring
 
-We’ll have a sleeping room with sleeping bags and mats, so bring a pillow! We also have showers available at our venue to use on Saturday, so make sure you have a towel and any shower supplies. If you want to rent any hardware, a government-issued ID is required, no exceptions. Please do not bring weapons, drugs, or alcohol. If you’re not sure, please ask us ahead of time!
+We’ll have a sleeping room (434) with sleeping bags and mats, so bring a pillow! We also have showers available at our venue to use on Saturday, so make sure you have a towel and any shower supplies. If you want to rent any hardware, a government-issued ID is required, no exceptions. Please do not bring weapons, drugs, or alcohol. If you’re not sure, please ask us ahead of time!
 
 - **Student ID** (required) + government ID
 - Laptop and Phone
@@ -79,17 +79,17 @@ You can request a mentor anytime by submitting a help ticket. Then, just wait fo
 
 # <a name="wifi-electronics-&-hardware"></a>Wifi, Electronics, & Hardware
 
-You can use our WiFi by connecting to the network with SSID “vummiv”. If you’re having trouble, check out [Vanderbilt's IT site](https://it.vanderbilt.edu/services/network/wireless/vu-guests.php) for troubleshooting. We will also have power strips and ethernet cords available at our hardware desk for checkout. Ethernet ports will be active on the second floor.
+You can use our WiFi by connecting to the network “vummiv”. Note that this is a hidden network, so you'll have to manually enter in the SSID. If you’re having trouble, check out [Vanderbilt's IT site](https://it.vanderbilt.edu/services/network/wireless/vu-guests.php) for troubleshooting. We will also have power strips and ethernet cords available at our hardware desk for checkout. Ethernet ports will be active on the second floor.
 
 A list of available hardware can be found [here](https://hardware.mlh.io/).
 
 # <a name="sleeping-eating-&-showering"></a>Sleeping, Eating, & Showering
 
-We will have a sleeping room on the fourth floor of the building with sleeping bags, so bring a pillow!
+We will have a sleeping room (434) on the fourth floor of the building with sleeping bags, so bring a pillow!
 
 Free food and drink will be provided. If you have any dietary restrictions, please confirm with an organizer or volunteer before getting meals. Those with dietary restrictions will eat first, so please be there early if you need special accommodation.
 
-Showers will be provided at our venue on Saturday afternoon on each floor. Shampoo and body wash will be provided inside each shower.
+Showers will be provided at our venue on Saturday afternoon on each floor. Signup sheets will be posted on the doors. Shampoo and body wash will be provided inside each shower. Shower times will be limited to 15 minutes.
 
 # <a name="composting"></a>Composting
 
@@ -114,13 +114,15 @@ Closing ceremony will be held in the [Student Life Center](https://goo.gl/maps/U
 
 # <a name="prizes"></a>Prizes
 
-Pro-Grammy (best overall) and Rising Star (best overall runner up) will be selected from the top five projects, which will be presented during closing ceremony. Each team member for all awards will receive a prize, unless otherwise noted. Here are our prize categories:
+Shining Star (best overall) and Rising Star (best overall runner up) will be selected from the top five projects, which will be presented during closing ceremony. Each team member for all awards will receive a prize, unless otherwise noted. Here are our prize categories:
 
-- **Pro-Grammy** - DJI Spark Drones. Awarded to the best project all around.
+- **Shining Star** - DJI Spark Drones. Awarded to the best project all around.
 
-- **Rising Star** - JBL Flip 4 Speakers. Awarded to the second best project all around.
+- **Rising Star** - GoPro HERO7's. Awarded to the second best project all around.
 
-- **Workshop Warrior** - 1MORE Triple Drivers. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
+- **Pro-Grammy** - 1MORE Triple Drivers. Awarded to the best musical hack.
+
+- **Workshop Warrior** - JBL Flip 4 Speakers. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
 
 - **Zero to Hero** - Amazon Echoes. Awarded to the best hack from a team with minimal to none prior experience.
 
@@ -158,11 +160,11 @@ This year, we have three bus routes, which are:
 
 Although all reserved seats are full, we have a limited amount of walk-on seats that will be distributed first come, first served on Friday.
 
-The official bus schedule can be found [here](https://www.bus.com/event-summary/484659946-vandy-hacks-2018-november-2nd?access-token=73a2bc44-3979-45cf-802e-cdd1f95fee04). If you have any questions, email us at [travel@vandyhacks.org](mailto:travel@vandyhacks.org).
+The official bus departure times and pickup locations can be found [here](https://www.bus.com/event-summary/484659946-vandy-hacks-2018-november-2nd?access-token=73a2bc44-3979-45cf-802e-cdd1f95fee04). If you have any questions, email us at [travel@vandyhacks.org](mailto:travel@vandyhacks.org).
 
 # <a name="reimbursements"></a>Reimbursements
 
-In order to receive travel reimbursement, you must have already been contacted and had the reimbursement confirmed. You will also need to fill out a form on Saturday at the event, so make sure you’ve filled it out before you leave. You will need to know your social security number to complete the form, so have it ready to go. Check out our travel reimbursement policy at [travel.vandyhacks.org](https://travel.vandyhacks.org).
+In order to receive travel reimbursement, you must have already been contacted and had the reimbursement confirmed. You will also need to fill out a form on Saturday during our Reimbursement Open House from , so make sure you’ve filled it out before you leave. You will need to know your social security number to complete the form, so have it ready to go. Check out our travel reimbursement policy at [travel.vandyhacks.org](https://travel.vandyhacks.org).
 
 # <a name="parking"></a>Parking
 

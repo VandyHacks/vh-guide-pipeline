@@ -29,6 +29,8 @@ First of all, thank you so much for dedicating your time to being a mentor! We w
 
 - In case of an emergency, please contact an organizer immediately. Emergency information can be found at the end of this document.
 
+- We've got a special gift for you, so reach out to Nidhi or Mahek before you leave!
+
 # Slack Channels (#mentors and #help)
 
 Make sure to join our Slack at [slack.vandyhacks.org](https://slack.vandyhacks.org), and keep notifications turned on for our event. This will be your main method of communicating with hackers and organizers. The #mentors channel is a private channel for discussions between mentors and organizers. Feel free to reach out here if you're unsure about anything! The #help channel is for any hacker to reach out requesting help from a mentor. Please keep an eye on this channel for anything you may be able to help out with!
