@@ -139,7 +139,7 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 - **Centene** - Echo Spot.
 
-- **Tractor Supply Co.** - Samsung 2 in 1 Chromebook Tablet (4 for winning team).
+- **Tractor Supply Co.** - Samsung 2 in 1 Chromebook Tablet (4 for winning team).  Awarded for best combined use of public and Tractor Supply data from an analytics perspective.
 
 - **Red Ventures** - Apple TV for each team member. Red Ventures' Choice Award.
 
