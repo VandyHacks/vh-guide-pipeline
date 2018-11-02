@@ -143,7 +143,7 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 - **Red Ventures** - Apple TV for each team member. Red Ventures' Choice Award.
 
-- **BOS** - TBA. BOS Built for Business Award.
+- **BOS** - Sony Wireless Headphones (WH-CH400). BOS Built for Business Award.
 
 - **Capital One** - $250 Amazon Gift Card (for each member). Awarded for best financial hack.
 
@@ -217,7 +217,7 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 - **Centene Sponsor Talk** - _How to Be a Differentiator: Technology & Team Skills_. Learn what tech we use to support over 13 million lives, what it takes to get involved, how to be a talent differentiator, and what hiring managers are looking for in new recruits.
 
-- **Tractor Supply Co Sponsor Talk** - _Tractor Supply Data Overview_. TBA.
+- **Tractor Supply Co Sponsor Talk** - _Tractor Supply Data Overview_. Join us for a company overview and a discussion of the kinds of data our engineers work with everyday.
 
 - **BNY Mellon Sponsor Talk** - _Donâ€™t Git Spooked: Demystifying the Troublesome VCS_. Join us as we discuss the inner mechanics of Git and useful commands for everyday use!
 
