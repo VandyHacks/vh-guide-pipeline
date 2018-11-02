@@ -125,7 +125,7 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 - **Workshop Warrior** - JBL Flip 4 Speakers. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
 
-- **Zero to Hero** - Amazon Echoes. Awarded to the best hack from a team with minimal to none prior experience.
+- **Zero to Hero** - Amazon Echoes. Awarded to the best hack from a team with minimal or no prior experience.
 
 - **Code For Good** - Nimble Portable Chargers + $30 to a charity of your choice. Awarded to the best hack dedicated to social good. _VandyHacks reserves the right to decline donations to certain charities._
 
@@ -175,7 +175,7 @@ This year, we have three bus routes, which are:
 
 - Route A: Illinois Institute of Technology → Purdue University → Vanderbilt University
 - Route B: UIUC → WashU → Vanderbilt University
-- Route C: University of Florida -> Georgia Tech -> Nashville
+- Route C: University of Florida -> Georgia Tech -> Vanderbilt University
 
 Although all reserved seats are full, we have a limited amount of walk-on seats that will be distributed first come, first served on Friday.
 
