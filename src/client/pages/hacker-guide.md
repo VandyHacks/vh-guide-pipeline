@@ -136,8 +136,6 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 - **MicroStrategy** - Nintendo Switch, Swag Backpack. Awarded for best use of MicroStrategy (Usher, Embedded Analytics or both!).
 
-- **Fulcrum GT** - TBA.
-
 - **Centene** - Echo Spot.
 
 - **Tractor Supply Co.** - Samsung 2 in 1 Chromebook Tablet (4 for winning team).
