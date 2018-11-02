@@ -73,7 +73,8 @@ We will be providing a Slack channel (#teamfinding) to help facilitate team crea
 
 # <a name="getting-help"></a>Getting Help
 
-This year, we're implementing a help queue to help hackers find help. At the event, you'll be able to login to the help queue at [help.vandyhacks.org](https://help.vandyhacks.org) with your email as your username and your phone number as your password. This will let you reach out to mentors for help!
+This year, we're implementing a help queue to help hackers find help. At the event, you'll be able to login to the help queue at [help.vandyhacks.org](https://help.vandyhacks.org). Your username is your email, with the `@` replaced with `-`, and your password is `default` followed by the first letter of your name.
+(For example, if your name is `Bob Smith` with an email of `bob@school.edu`, your username would be `bob-school.edu` and your password would be `defaultb`). We understand this may be a bit unusual, but please bear with us. This will let you reach out to mentors for help!
 
 You can request a mentor anytime by submitting a help ticket. Then, just wait for an available mentor to show up or contact you! Please note that you can only have one active ticket at a time. You may also cancel your ticket if you no longer need help.
 
