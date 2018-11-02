@@ -10,9 +10,9 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 4, so you will need to set you
 
 ## Expected Weather (high/low)
 
-- Nov. 2nd: 56°F / 45°F, chance of AM showers
-- Nov. 3rd: 61°F / 42°F, sunny
-- Nov. 4th: 66°F / 42°F, cloudy
+- Nov. 2nd: 56°F / 40°F, cloudy
+- Nov. 3rd: 64°F / 49°F, sunny
+- Nov. 4th: 67°F / 52°F, chance of showers
 
 ## Table of Contents
 
@@ -81,7 +81,7 @@ You can request a mentor anytime by submitting a help ticket. Then, just wait fo
 
 You can use our WiFi by connecting to the network “vummiv”. Note that this is a hidden network, so you'll have to manually enter in the SSID. If you’re having trouble, check out [Vanderbilt's IT site](https://it.vanderbilt.edu/services/network/wireless/vu-guests.php) for troubleshooting. We will also have power strips and ethernet cords available at our hardware desk for checkout. Ethernet ports will be active on the second floor.
 
-A list of available hardware can be found [here](https://hardware.mlh.io/).
+A list of available hardware can be found [here](https://hardware.mlh.io).
 
 # <a name="sleeping-eating-&-showering"></a>Sleeping, Eating, & Showering
 
@@ -132,9 +132,29 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 - **#VandyHacks** - Fujifilm Polaroid Camera. Awarded to the best individual social media post (make sure to post with #VandyHacks and #VH5 and tag @VandyHacks). _Single winner only._
 
-- **MicroStrategy** - Nintendo Switch, Swag Backpack. Awarded to best use of MicroStrategy (Usher, Embedded Analytics or both!).
+---
 
-- **Other Sponsor Prizes** - TBA.
+- **MicroStrategy** - Nintendo Switch, Swag Backpack. Awarded for best use of MicroStrategy (Usher, Embedded Analytics or both!).
+
+- **Fulcrum GT** - TBA.
+
+- **Centene** - Echo Spot.
+
+- **Tractor Supply Co.** - Samsung 2 in 1 Chromebook Tablet (4 for winning team).
+
+- **Red Ventures** - Apple TV for each team member. Red Ventures' Choice Award.
+
+- **BOS** - TBA. BOS Built for Business Award.
+
+- **Capital One** - $250 Amazon Gift Card (for each member). Awarded for best financial hack.
+
+- **Dollar General** - TBA.
+
+- **Eventbrite** - Samsung Galaxy Tab A, Swag. Awarded for best use of Eventbrite API.
+
+- **Contrary Capital** - Office Hours with a Contrary Capital managing partner. Awarded for most business viable hack.
+
+---
 
 - **Major League Hacking Prizes** - [hack.mlh.io/prizes](https://hack.mlh.io/prizes/)
 
@@ -188,39 +208,37 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you�
 
 # <a name="event-descriptions"></a>Event Descriptions
 
-- **Pitch Session** - Meet with other hackers and form teams
+- **Pitch Session** - Meet with other hackers and form teams.
 
-- **Beginner Workshop** - Learn about a variety of tools and skills to take VandyHacks by storm! We'll cover hackathon basics, getting started and finding teammates, project examples, and how to use Git and Github to collaborate with your teammates
+- **Beginner Workshop** - Learn about a variety of tools and skills to take VandyHacks by storm! We'll cover hackathon basics, getting started and finding teammates, project examples, and how to use Git and Github to collaborate with your teammates.
 
-- **Tech Talks** - Come learn something new or brush up your hacking skills. Sessions will be held on: Data Science, Front End, [Flask](http://flask.pocoo.org/), [Node.js](https://nodejs.org/en/), [Unity](https://unity3d.com/)/VR, and Cryptography
+- **Tech Talks** - Come learn something new or brush up your hacking skills. Sessions will be held on: Data Science, Front End, [Flask](http://flask.pocoo.org/), [Node.js](https://nodejs.org/en/), [Unity](https://unity3d.com/)/VR, and Cryptography.
 
-- **BOS Sponsor Talk** - TBA
+- **BOS Sponsor Talk** - _Turn Your Hackathon App Into Business-Ready Software_. Come learn about our framework of APIs and how you can turn your hack idea into a product that's ready for the market.
 
-- **Centene Sponsor Talk** - TBA
+- **Centene Sponsor Talk** - _How to Be a Differentiator: Technology & Team Skills_. Learn what tech we use to support over 13 million lives, what it takes to get involved, how to be a talent differentiator, and what hiring managers are looking for in new recruits.
 
 - **Tractor Supply Co Sponsor Talk** - TBA
 
-- **BNY Mellon Sponsor Talk** - TBA
+- **BNY Mellon Sponsor Talk** - _Don’t Git Spooked: Demystifying the Troublesome VCS_. Join us as we discuss the inner mechanics of Git and useful commands for everyday use!
 
-- **MicroStrategy Sponsor Talk** - TBA
+- **MicroStrategy Sponsor Talk** - _Predict Flight Delays With Machine Learning and R_. Scott Rigney, the presenter, will be posting workshop materials on a Dropbox page. Please install the latest versions of R and RStudio (both free) on your computer before attending the session.
 
-- **Fulcrum GT Sponsor Talk** - TBA
+- **Fulcrum GT Sponsor Talk** - _Building Web Applications with ReactJS_. We’ll cover the fundamental features of React JS and go over development of your own React app. Presented By: Peter Iordanov
 
-- **L3 ForceX Sponsor Talk** - TBA
+- **Red Ventures Sponsor Talk** - _Intro to Go_. Learn how to build an HTTP API in Go.
 
-- **Red Ventures Sponsor Talk** - TBA
+- **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa.
 
-- **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa
+- **Cup Stacking** - Compete to build the tallest cup tower! Hosted by MLH and the VandyHacks team.
 
-- **Cup Stacking** - Compete to build the tallest cup tower! Hosted by MLH and the VandyHacks team
-
-- **Lightning Talks** - Stop by to hear talks given by other hackers on a large variety of topics
+- **Lightning Talks** - Stop by to hear talks given by other hackers on a large variety of topics.
 
 - **Women in Computing Meetup** - Come meet up with Vanderbilt's Women in Computing group for a smoothie night!
 
-- **Karaoke Night** - Let your inner rock star shine
+- **Karaoke Night** - Let your inner rock star shine!
 
-- **How to Demo Talk** - Learn how to present your project’s best face before demoing
+- **How to Demo Talk** - Learn how to present your project’s best face before demoing.
 
 # <a name="resources"></a>Resources
 
@@ -234,4 +252,4 @@ While we don’t expect any serious problems, if you should see anything that re
 
 <br>
 
-_Last Updated: October 31st, 2018_
+_Last Updated: November 2nd, 2018_
