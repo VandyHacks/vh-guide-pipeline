@@ -145,6 +145,8 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 - **BOS** - Sony Wireless Headphones (WH-CH400). BOS Built for Business Award.
 
+- **The Home Depot** - 4 Apple TVs (32GB). Awarded for most fun hack.
+
 - **Capital One** - $250 Amazon Gift Card (for each member). Awarded for best financial hack.
 
 - **Dollar General** - TBA.
