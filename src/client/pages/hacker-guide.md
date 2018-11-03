@@ -137,7 +137,7 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 - **MicroStrategy** - Nintendo Switch, Swag Backpack. Awarded for best use of MicroStrategy (Usher, Embedded Analytics or both!).
 
-- **Centene** - Echo Spot.
+- **Centene** - Echo Spot. Awarded for the best Social Determinants of Health hack. Social determinants of health are conditions in the environments in which people are born, live, learn, work, play, worship, and age that affect a wide range of health, functioning, and quality-of-life outcomes and risks.
 
 - **Tractor Supply Co.** - Samsung 2 in 1 Chromebook Tablet (4 for winning team).  Awarded for best combined use of public and Tractor Supply data from an analytics perspective.
 
@@ -149,7 +149,7 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 - **Capital One** - $250 Amazon Gift Card (for each member). Awarded for best financial hack.
 
-- **Dollar General** - TBA.
+- **Dollar General** - Airpods.
 
 - **Eventbrite** - Samsung Galaxy Tab A, Swag. Awarded for best use of Eventbrite API.
 
