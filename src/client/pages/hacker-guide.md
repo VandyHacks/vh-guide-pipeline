@@ -129,7 +129,7 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 - **Code For Good** - Nimble Portable Chargers + $30 to a charity of your choice. Awarded to the best hack dedicated to social good. _VandyHacks reserves the right to decline donations to certain charities._
 
-- **A(lan)esthetic** - Wacom Intuos Tablet. Awarded to the best individual design incorporating the letters "VH". _Single winner only. Does not need to be associated with a project. Dedicated to our Director of Design, Alan._
+- **A(lan)esthetic** - Wacom Intuos Tablet. Awarded to the best individual design incorporating the letters "VH". Submit your design [here](https://goo.gl/forms/yB1k1yjXFZnJDaC62). _Single winner only. Does not need to be associated with a project. Dedicated to our Director of Design, Alan._
 
 - **#VandyHacks** - Fujifilm Polaroid Camera. Awarded to the best individual social media post (make sure to post with #VandyHacks and #VH5 and tag @VandyHacks). _Single winner only._
 
