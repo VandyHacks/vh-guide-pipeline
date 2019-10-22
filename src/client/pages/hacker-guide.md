@@ -2,7 +2,7 @@ This guide is a list of everything you need to know to have the best possible we
 
 ## Dear Hacker,
 
-We’re super excited to have you at VandyHacks V from [November 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
+We’re super excited to have you at VandyHacks VI from [November 1st-3rd](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
 
 Our live schedule page is coming soon! In the meantime, we've created a Google Calendar at [calendar.vandyhacks.org](https://calendar.vandyhacks.org). Please note that this guide is still a work in progress. Now, let's jump right into things!
 
@@ -10,9 +10,9 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 4, so you will need to set you
 
 ## Expected Weather (high/low)
 
-- Nov. 2nd: 56°F / 40°F, cloudy
-- Nov. 3rd: 64°F / 49°F, sunny
-- Nov. 4th: 67°F / 52°F, chance of showers
+- Nov. 1st: 59°F / 36°F, sunny
+- Nov. 2nd: 59°F / 37°F, cloudy
+- Nov. 3rd: 60°F / 39°F, sunny
 
 ## Table of Contents
 
