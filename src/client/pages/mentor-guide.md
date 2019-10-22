@@ -1,6 +1,6 @@
 ## Dear Mentor,
 
-We’re very excited to have you join us this weekend at VandyHacks V from November 2nd-4th! In this document, we’ve included everything you need to get the most out of your experience at VandyHacks. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
+We’re very excited to have you join us this weekend at VandyHacks VI from November 1nd-3rd! In this document, we’ve included everything you need to get the most out of your experience at VandyHacks. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
 
 For a live schedule and important info, head over to our [day-of page](https://dayof.vandyhacks.org). Now, let's jump right into things!
 
