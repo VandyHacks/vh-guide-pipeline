@@ -60,7 +60,7 @@ We’ll have a sleeping room (434) with sleeping bags and mats, so bring a pillo
 
 - Join the VandyHacks Facebook event [here](https://www.facebook.com/events/1000805890262918/). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends. The event page is here.
 
-- Join our Slack at [slack.vandyhacks.org](https://vandyhacksvi.slack.com). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
+- Join our Slack at [vandyhacksvi.slack.com](https://vandyhacksvi.slack.com). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
 
 - Look at previous projects. All of the projects from VandyHacks I, II, III, IV, and V can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), and [VHV](https://vandyhacksv.devpost.com/submissions).
 
