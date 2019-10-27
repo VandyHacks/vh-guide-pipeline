@@ -21,7 +21,7 @@ For a live schedule and important info, head over to our [day-of page](https://d
 
 First of all, thank you so much for dedicating your time to being a mentor! We want to ensure that our hackers get the best possible experience to create something amazing. Here are a few key points:
 
-- Join our Slack [here](https://slack.vandyhacks.org). All announcements will be made here, and you'll be connecting with students who may need help in the #help channel. Contact Nidhi Mehta or Mahek Mehta on Slack to be added to the #mentors private channel.
+- Join our Slack [here](https://vandyhacksvi.slack.com). All announcements will be made here, and you'll be connecting with students who may need help in the #help channel. Contact Nidhi Mehta or Mahek Mehta on Slack to be added to the #mentors private channel.
 
 - Access the Help Queue [here](https://help.vandyhacks.org). You'll be able to login with your email and phone number. This is our main method of connecting hackers with mentors. Hackers will submit tickets for help here, where you'll be able to claim tickets and get more details on their problems.
 
@@ -33,7 +33,7 @@ First of all, thank you so much for dedicating your time to being a mentor! We w
 
 # Slack Channels (#mentors and #help)
 
-Make sure to join our Slack at [slack.vandyhacks.org](https://slack.vandyhacks.org), and keep notifications turned on for our event. This will be your main method of communicating with hackers and organizers. The #mentors channel is a private channel for discussions between mentors and organizers. Feel free to reach out here if you're unsure about anything! The #help channel is for any hacker to reach out requesting help from a mentor. Please keep an eye on this channel for anything you may be able to help out with!
+Make sure to join our Slack at [vandyhacksvi.slack.com](https://vandyhacksvi.slack.com), and keep notifications turned on for our event. This will be your main method of communicating with hackers and organizers. The #mentors channel is a private channel for discussions between mentors and organizers. Feel free to reach out here if you're unsure about anything! The #help channel is for any hacker to reach out requesting help from a mentor. Please keep an eye on this channel for anything you may be able to help out with!
 
 If you have any additional questions or need to be added to the #mentor channel, please reach out to Nidhi Mehta or Mahek Mehta.
 
