@@ -10,9 +10,9 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 4, so you will need to set you
 
 ## Expected Weather (high/low)
 
-- Nov. 1st: 59°F / 36°F, sunny
-- Nov. 2nd: 59°F / 37°F, cloudy
-- Nov. 3rd: 60°F / 39°F, sunny
+- Nov. 1st: 52°F / 33°F, cloudy
+- Nov. 2nd: 56°F / 33°F, sunny
+- Nov. 3rd: 58°F / 36°F, sunny
 
 ## Table of Contents
 
@@ -47,6 +47,7 @@ A hackathon is a sprint of innovation. The purpose is to meet new friends, learn
 We’ll have a sleeping room (434) with sleeping bags and mats, so bring a pillow! We also have showers available at our venue to use on Saturday, so make sure you have a towel and any shower supplies. If you want to rent any hardware, a government-issued ID is required, no exceptions. Please do not bring weapons, drugs, or alcohol. If you’re not sure, please ask us ahead of time!
 
 - **Student ID** (required) + government ID
+- **Water bottle**
 - Laptop and Phone
 - Chargers
 - Extra clothes (bring lots of layers!)
@@ -57,11 +58,11 @@ We’ll have a sleeping room (434) with sleeping bags and mats, so bring a pillo
 
 - Read this guide completely. Make sure you understand the schedule and venue. You don’t want any logistics to distract you while you’re “in the zone” this weekend, so get all of your the questions out of the way beforehand!
 
-- Join the VandyHacks Facebook event [here](https://www.facebook.com/events/270869640227150/). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends. The event page is here.
+- Join the VandyHacks Facebook event [here](https://www.facebook.com/events/1000805890262918/). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends. The event page is here.
 
-- Join our Slack at [slack.vandyhacks.org](https://slack.vandyhacks.org). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
+- Join our Slack at [slack.vandyhacks.org](https://vandyhacksvi.slack.com). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
 
-- Look at previous projects. All of the projects from VandyHacks I, II, III, and IV can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), and [VHIV](https://vandyhacksiv.devpost.com/submissions).
+- Look at previous projects. All of the projects from VandyHacks I, II, III, IV, and V can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), and [VHV](https://vandyhacksv.devpost.com/submissions).
 
 - Get your homework done. This may sound silly, but double-check that you have all of your work done for Monday. You’ll be exhausted, so make sure to do it before or earlier in the weekend.
 
@@ -69,7 +70,7 @@ We’ll have a sleeping room (434) with sleeping bags and mats, so bring a pillo
 
 There are a couple of ways to find a team. If you join our Facebook event, listed above, you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
 
-We will be providing a Slack channel (#teamfinding) to help facilitate team creation, as well as a meetup session right after the opening ceremony.
+We will be providing a Slack channel (#teamfinding) and a Facebook [group](https://www.facebook.com/groups/723097038207924/members/?notif_id=1572121836380496&notif_t=groups_member_joined&__xts__[0]=68.ARA0ClGIVFSjpb9_WWPg1_4WpZLag3XH6DRTX5NyogwlBt4Uxg2whxc-qVRI_kHpugt-ZMREa8StBM0-O5KaNQZ6RVEgqut7umc8P527Uu5h1bP_yybDMkl_RhnveudhI0-O07gghPQcQCvi2DOsjQ3PyoQr2LI8pJoYKoduvcu3hPbN-fJ4BSNqXg3smRkm7lOGXax4N0IY4tJXkNvP4AIHxYC2RjYj5_AziNoYU9rrDDKK6fe1tRb1ceACFWXVhwvFLYo0tvTFycbfl4_c3uV2cwyfUaV-w0rxRixGzoQIY0rcsk-iUCU95iKCSNDxwSRV&__tn__=-UK-R) to help facilitate team creation. There will also be a meetup session right after the opening ceremony.
 
 # <a name="getting-help"></a>Getting Help
 
