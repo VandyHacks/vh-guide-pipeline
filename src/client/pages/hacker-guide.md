@@ -176,9 +176,9 @@ During the expo, judges will be walking around to score your project. This is wh
 
 This year, we have three bus routes, which are:
 
-- Route A: Illinois Institute of Technology → Purdue University → Vanderbilt University
-- Route B: UIUC → WashU → Vanderbilt University
-- Route C: University of Florida -> Georgia Tech -> Vanderbilt University
+- Route A: Illinois Institute of Technology → University of Illinois Urbana-Champaign → Vanderbilt University
+- Route B: Purdue → Vanderbilt University
+- Route C: Georgia Tech -> Vanderbilt University
 
 Although all reserved seats are full, we have a limited amount of walk-on seats that will be distributed first come, first served on Friday.
 
