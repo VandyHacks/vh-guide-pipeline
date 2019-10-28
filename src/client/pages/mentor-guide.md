@@ -23,13 +23,11 @@ First of all, thank you so much for dedicating your time to being a mentor! We w
 
 - Join our Slack [here](https://vandyhacksvi.slack.com). All announcements will be made here, and you'll be connecting with students who may need help in the #help channel. Contact Nidhi Mehta or Mahek Mehta on Slack to be added to the #mentors private channel.
 
-- Access the Help Queue [here](https://help.vandyhacks.org). You'll be able to login with your email and phone number. This is our main method of connecting hackers with mentors. Hackers will submit tickets for help here, where you'll be able to claim tickets and get more details on their problems.
-
 - Have fun! For many of our hackers, this is their first introduction to the hacking culture, and if you’re having a blast, so will they! If there’s anything we can do for you or them, feel free to reach out on the #mentor slack channel, or find an organizer.
 
 - In case of an emergency, please contact an organizer immediately. Emergency information can be found at the end of this document.
 
-- We've got a special gift for you, so reach out to Nidhi or Mahek before you leave!
+- We've got a special gift for you, so reach out to Alec Cuc before you leave!
 
 # Slack Channels (#mentors and #help)
 
@@ -39,7 +37,7 @@ If you have any additional questions or need to be added to the #mentor channel,
 
 # [IMPORTANT] Help Queue
 
-This year, we're implementing a help queue to help hackers find help. You can login to the help queue at [help.vandyhacks.org](https://help.vandyhacks.org) with your email as your username and your phone number as your password. This will be used as the main method for connecting hackers with mentors.
+This year, we've implemented a bot in our Slack that will be used as the main method for connecting hackers with mentors.
 
 Once hackers put in requests into the queue, you can claim a ticket and get more detailed information. This will notify the hacker that you're on your way! You can then contact the hacker through slack and head over to their location to help them with their problems. Please note that you can only claim one ticket at a time, and please mark the ticket as complete when you are finished. You can also choose to reopen the ticket if you think another mentor may be able to provide more assistance with the problem.
 
