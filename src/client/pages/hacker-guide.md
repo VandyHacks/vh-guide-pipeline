@@ -2,7 +2,7 @@ This guide is a list of everything you need to know to have the best possible we
 
 ## Dear Hacker,
 
-We’re super excited to have you at VandyHacks VI from [November 1st-3rd](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org) or message us on [Facebook](https://www.facebook.com/vandyhacks)
+We’re super excited to have you at VandyHacks VI from [November 1st-3rd](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org) or message us on [Facebook](https://www.facebook.com/vandyhacks).
 
 Our live schedule page is coming soon! In the meantime, we've created a Google Calendar at [calendar.vandyhacks.org](https://calendar.vandyhacks.org). Please note that this guide is still a work in progress. Now, let's jump right into things!
 
@@ -163,7 +163,7 @@ Shining Star (best overall) and Rising Star (best overall runner up) will be sel
 
 # <a name="submitting-your-project"></a>Submitting Your Project
 
-You have a project, mock up, slide deck, demo, anything! You will be submitting hard work online via [Devpost](https://vandyhacksv.devpost.com). All submissions are due by 9AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project, along with what prizes your project is eligible to win. Remember, this is something you can show off to recruiters, family, and friends in the future!
+You have a project, mock up, slide deck, demo, anything! You will be submitting hard work online via [Devpost](https://vandyhacksvi.devpost.com). All submissions are due by 9AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project, along with what prizes your project is eligible to win. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
 # <a name="presenting-your-project"></a>Presenting Your Project
 
@@ -181,7 +181,7 @@ This year, we have three bus routes, which are:
 - Route B: Purdue → Vanderbilt University
 - Route C: Georgia Tech -> Vanderbilt University
 
-Although all reserved seats are full, we have a limited amount of walk-on seats that will be distributed first come, first served on Friday.
+We will not be allowing any walk-ins this year.
 
 The official bus departure times and pickup locations can be found [here](https://www.bus.com/event-summary/484659946-vandy-hacks-2018-november-2nd?access-token=73a2bc44-3979-45cf-802e-cdd1f95fee04). If you have any questions, email us at [travel@vandyhacks.org](mailto:travel@vandyhacks.org).
 
@@ -255,4 +255,4 @@ While we don’t expect any serious problems, if you should see anything that re
 
 <br>
 
-_Last Updated: November 2nd, 2018_
+_Last Updated: October 28th, 2019_
