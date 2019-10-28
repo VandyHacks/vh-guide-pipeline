@@ -2,11 +2,11 @@ This guide is a list of everything you need to know to have the best possible we
 
 ## Dear Hacker,
 
-We’re super excited to have you at VandyHacks VI from [November 1st-3rd](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
+We’re super excited to have you at VandyHacks VI from [November 1st-3rd](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org) or message us on [Facebook](https://www.facebook.com/vandyhacks)
 
 Our live schedule page is coming soon! In the meantime, we've created a Google Calendar at [calendar.vandyhacks.org](https://calendar.vandyhacks.org). Please note that this guide is still a work in progress. Now, let's jump right into things!
 
-_NOTE: Daylight Savings Time ends on Sunday, Nov. 4, so you will need to set your clocks back an hour at 2:00 AM._
+_NOTE: Daylight Savings Time ends on Sunday, Nov. 3, so you will need to set your clocks back an hour at 2:00 AM._
 
 ## Expected Weather (high/low)
 
@@ -68,9 +68,9 @@ We’ll have a sleeping room (434) with sleeping bags and mats, so bring a pillo
 
 # <a name="finding-a-team"></a>Finding a Team
 
-There are a couple of ways to find a team. If you join our Facebook event, listed above, you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
+There are a couple of ways to find a team. You can join our [Team Finding Group on Facebook] (https://www.facebook.com/groups/723097038207924/)and you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
 
-We will be providing a Slack channel (#teamfinding) and a Facebook [group](https://www.facebook.com/groups/723097038207924/members/?notif_id=1572121836380496&notif_t=groups_member_joined&__xts__[0]=68.ARA0ClGIVFSjpb9_WWPg1_4WpZLag3XH6DRTX5NyogwlBt4Uxg2whxc-qVRI_kHpugt-ZMREa8StBM0-O5KaNQZ6RVEgqut7umc8P527Uu5h1bP_yybDMkl_RhnveudhI0-O07gghPQcQCvi2DOsjQ3PyoQr2LI8pJoYKoduvcu3hPbN-fJ4BSNqXg3smRkm7lOGXax4N0IY4tJXkNvP4AIHxYC2RjYj5_AziNoYU9rrDDKK6fe1tRb1ceACFWXVhwvFLYo0tvTFycbfl4_c3uV2cwyfUaV-w0rxRixGzoQIY0rcsk-iUCU95iKCSNDxwSRV&__tn__=-UK-R) to help facilitate team creation. There will also be a meetup session right after the opening ceremony.
+We will also be providing a Slack channel (#teamfinding) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
 
 # <a name="getting-help"></a>Getting Help
 
@@ -81,7 +81,8 @@ You can request a mentor anytime by submitting a help ticket. Then, just wait fo
 
 # <a name="wifi-electronics-&-hardware"></a>Wifi, Electronics, & Hardware
 
-You can use our WiFi by connecting to the network “vummiv”. Note that this is a hidden network, so you'll have to manually enter in the SSID. If you’re having trouble, check out [Vanderbilt's IT site](https://it.vanderbilt.edu/services/network/wireless/vu-guests.php) for troubleshooting. We will also have power strips and ethernet cords available at our hardware desk for checkout. Ethernet ports will be active on the second floor.
+You can use the "vuGuest" or "eduroam" WiFi.
+You can also use the alternate WiFi by connecting to the network “vummiv”. Note that this is a hidden network, so you'll have to manually enter in the SSID. If you’re having trouble, check out [Vanderbilt's IT site](https://it.vanderbilt.edu/services/network/wireless/vu-guests.php) for troubleshooting. We will also have power strips and ethernet cords available at our hardware desk for checkout. Ethernet ports will be active on the second floor.
 
 A list of available hardware can be found [here](https://hardware.mlh.io).
 
