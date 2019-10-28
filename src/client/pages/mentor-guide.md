@@ -21,7 +21,7 @@ For a live schedule and important info, head over to our [day-of page](https://d
 
 First of all, thank you so much for dedicating your time to being a mentor! We want to ensure that our hackers get the best possible experience to create something amazing. Here are a few key points:
 
-- Join our Slack [here](https://vandyhacksvi.slack.com). All announcements will be made here, and you'll be connecting with students who may need help in the #help channel. Contact Nidhi Mehta or Mahek Mehta on Slack to be added to the #mentors private channel.
+- Join our Slack [here](https://vandyhacksvi.slack.com). All announcements will be made here, and you'll be connecting with students who may need help in the #help channel. Contact Alex Cuc on Slack to be added to the #mentors private channel.
 
 - Have fun! For many of our hackers, this is their first introduction to the hacking culture, and if you’re having a blast, so will they! If there’s anything we can do for you or them, feel free to reach out on the #mentor slack channel, or find an organizer.
 
