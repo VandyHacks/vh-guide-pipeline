@@ -68,7 +68,7 @@ We’ll have a sleeping room (434) with sleeping bags and mats, so bring a pillo
 
 # <a name="finding-a-team"></a>Finding a Team
 
-There are a couple of ways to find a team. You can join our [Team Finding Group on Facebook] (https://www.facebook.com/groups/723097038207924/)and you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
+There are a couple of ways to find a team. You can join our [Team Finding Group on Facebook] (https://www.facebook.com/groups/723097038207924/) and you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
 
 We will also be providing a Slack channel (#teamfinding) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
 
