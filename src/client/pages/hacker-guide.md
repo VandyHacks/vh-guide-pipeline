@@ -43,7 +43,7 @@ A hackathon is a sprint of innovation. The purpose is to meet new friends, learn
 
 # <a name="what-to-bring"></a>What to Bring
 
-We’ll have a sleeping room (434) with sleeping bags and mats, so bring a pillow! We also have showers available at our venue to use on Saturday, so make sure you have a towel and any shower supplies. If you want to rent any hardware, a government-issued ID is required, no exceptions. Please do not bring weapons, drugs, or alcohol. If you’re not sure, please ask us ahead of time!
+We’ll have two sleeping rooms (434 and 462) with sleeping bags and mats, so bring a pillow! We also have showers available at our venue to use on Saturday, so make sure you have a towel and any shower supplies. If you want to rent any hardware, a government-issued ID is required, no exceptions. Please do not bring weapons, drugs, or alcohol. If you’re not sure, please ask us ahead of time!
 
 - **Student ID** (required) + government ID
 - **Water bottle**
@@ -105,21 +105,17 @@ Closing ceremony will be held in the [Student Life Center](https://goo.gl/maps/U
 
 Shining Star (best overall) and Rising Star (best overall runner up) will be selected from the top five projects, which will be presented during closing ceremony. Each team member for all awards will receive a prize, unless otherwise noted. Here are our prize categories:
 
-- **Shining Star** - DJI Spark Drones. Awarded to the best project all around.
+- **Shining Star** - Osmo Pocket. Awarded to the best project all around.
 
-- **Rising Star** - GoPro HERO7's. Awarded to the second best project all around.
+- **Rising Star** - Nintendo Switch Lite, 200. Awarded to the second best project all around.
 
-- **Pro-Grammy** - 1MORE Triple Drivers. Awarded to the best musical hack.
+- **Art/Creative** - Wacom Intuos Tablet. Awarded to the best musical hack.
 
-- **Workshop Warrior** - JBL Flip 4 Speakers. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
+- **Workshop Warrior** - Tech Backpack. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
 
-- **Zero to Hero** - Amazon Echoes. Awarded to the best hack from a team with minimal or no prior experience.
+- **Zero to Hero** - Polaroid Camera. Awarded to the best hack from a team with minimal or no prior experience.
 
-- **Code For Good** - Nimble Portable Chargers + $30 to a charity of your choice. Awarded to the best hack dedicated to social good. _VandyHacks reserves the right to decline donations to certain charities._
-
-- **A(lan)esthetic** - Wacom Intuos Tablet. Awarded to the best individual design incorporating the letters "VH". Submit your design [here](https://goo.gl/forms/yB1k1yjXFZnJDaC62). _Single winner only. Does not need to be associated with a project. Dedicated to our Director of Design, Alan._
-
-- **#VandyHacks** - Fujifilm Polaroid Camera. Awarded to the best individual social media post (make sure to post with #VandyHacks and #VH5 and tag @VandyHacks). _Single winner only._
+- **Code For Good** - Donations to charity. Awarded to the best hack with the maximal positive social good impact on a marginalized community. _VandyHacks reserves the right to decline donations to certain charities._
 
 ---
 
@@ -163,21 +159,31 @@ During the expo, judges will be walking around to score your project. This is wh
 
 This year, we have three bus routes, which are:
 
-- Route A: Illinois Institute of Technology → University of Illinois Urbana-Champaign → Vanderbilt University
-- Route B: Purdue → Vanderbilt University
-- Route C: Georgia Tech -> Vanderbilt University
+Blue Bus: Purdue (West Lafayette) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76710004689)
+Red Bus: GTech (Atlanta) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76708299589)
+Green Bus: Illinois Institute of Tech (Chicago) > UIUC (Champaign) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76706281553)
+
+Code for eventbrite: vh2019b
 
 We will not be allowing any walk-ins this year.
 
-The official bus departure times and pickup locations can be found [here](https://www.bus.com/event-summary/484659946-vandy-hacks-2018-november-2nd?access-token=73a2bc44-3979-45cf-802e-cdd1f95fee04). If you have any questions, email us at [travel@vandyhacks.org](mailto:travel@vandyhacks.org).
+If you have any questions, email us at [travel@vandyhacks.org](mailto:travel@vandyhacks.org).
 
 # <a name="reimbursements"></a>Reimbursements
 
-In order to receive travel reimbursement, you must have already been contacted and had the reimbursement confirmed. You will also need to fill out a form on Saturday during our Reimbursement Open House from , so make sure you’ve filled it out before you leave. You will need to know your social security number to complete the form, so have it ready to go. Check out our travel reimbursement policy at [travel.vandyhacks.org](https://travel.vandyhacks.org).
+Getting travel reimbursement consists of filling in and submitting the vendor approval forms before the start of the event (aka 5:30pm CST November 1st) so that Vanderbilt can direct deposit the money after the event. You will be required to show us the receipt during the event.
+For the travel back you have to send in your receipts to travel@vandyhacks.org within one week of VH (by November 10th 11:59pm) along with your name and email used for your application.
+
+Instructions for W-9 form: You must print this form and fill it out because the signature must be by hand to be valid. On page 1 fill out fields 1, 3 (Individual), 5, 6, Part I (Taxpayer ID Number) with your social security number, Part II (Certification) with your signature and the date.
+Redcap is a secure web application (HIPAA certified) and only two board members will have access to the forms before they are handed over to Vanderbilt's administration. If you would prefer not to enter your SSN you can fill out and upload the rest and then email travel@vandyhacks.org to set up a time to call the person in charge of travel reimbursements so that they can write in your SSN at our end.
+
+Instructions for ACH form: You must print this form and fill it out because the signature must be by hand to be valid. In place of the EFT/EDI contact and A/R contact you simply fill in your details once again. This form is tailored to businesses, hence the repetition. You can find your ACH routing# in your checkbook.
+
+Please email travel@vandyhacks.org with any questions!
 
 # <a name="parking"></a>Parking
 
-Parking will be provided free of charge at the 25th Avenue Parking Garage located at 2461 Highland Ave, Nashville, TN 37212. Please use the Highland Avenue entrance, located along Highland Ave between 25th Ave S and 24th Ave S. Park in any non-reserved Zone 3 parking space (tentative).
+Parking will be provided free of charge at the 25th Avenue Parking Garage located at 2461 Highland Ave, Nashville, TN 37212. Please use the Highland Avenue entrance, located along Highland Ave between 25th Ave S and 24th Ave S. Park in any non-reserved Zone 3 parking space.
 
 ![Parking Garage](./images/25th-parking.jpg)
 
@@ -241,4 +247,4 @@ While we don’t expect any serious problems, if you should see anything that re
 
 <br>
 
-_Last Updated: October 28th, 2019_
+_Last Updated: October 30th, 2019_
