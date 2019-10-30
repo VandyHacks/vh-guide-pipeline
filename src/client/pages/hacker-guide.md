@@ -23,7 +23,6 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 3, so you will need to set you
 - [Getting Help](#getting-help)
 - [WiFi, Electronics, & Hardware](#wifi-electronics-&-hardware)
 - [Sleeping, Eating, & Showering](#sleeping-eating-&-showering)
-- [Composting](#composting)
 - [Opening Ceremony](#opening-ceremony)
 - [Closing Ceremony](#closing-ceremony)
 - [Prizes](#prizes)
@@ -88,24 +87,11 @@ A list of available hardware can be found [here](https://hardware.mlh.io).
 
 # <a name="sleeping-eating-&-showering"></a>Sleeping, Eating, & Showering
 
-We will have a sleeping room (434) on the fourth floor of the building with sleeping bags, so bring a pillow!
+We will have sleeping rooms (434 for females, 462 for males) on the fourth floor of the building with sleeping bags, so bring a pillow!
 
 Free food and drink will be provided. If you have any dietary restrictions, please confirm with an organizer or volunteer before getting meals. Those with dietary restrictions will eat first, so please be there early if you need special accommodation.
 
 Showers will be provided at our venue on Saturday afternoon on each floor. Signup sheets will be posted on the doors. Shampoo and body wash will be provided inside each shower. Shower times will be limited to 15 minutes.
-
-# <a name="composting"></a>Composting
-
-This year, we're super excited to have composting available! Keep an eye out for signs indicating which items can and can't be composted.
-
-Please make sure to place the following items into compost bins:
-
-- Food scraps/leftovers
-- Plates, napkins, bowls, and cutlery
-
-Please DO NOT place the following items into compost bins:
-
-- Recyclable materials (these go in recycle bins!)
 
 # <a name="opening-ceremony"></a>Opening Ceremony
 
