@@ -10,9 +10,9 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 3, so you will need to set you
 
 ## Expected Weather (high/low)
 
-- Nov. 1st: 52°F / 33°F, cloudy
-- Nov. 2nd: 56°F / 33°F, sunny
-- Nov. 3rd: 58°F / 36°F, sunny
+- Nov. 1st: 51°F / 31°F, sunny
+- Nov. 2nd: 54°F / 31°F, mostly sunny
+- Nov. 3rd: 55°F / 33°F, sunny
 
 ## Table of Contents
 
