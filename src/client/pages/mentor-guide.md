@@ -33,7 +33,7 @@ First of all, thank you so much for dedicating your time to being a mentor! We w
 
 Make sure to join our Slack at [vandyhacksvi.slack.com](https://vandyhacksvi.slack.com), and keep notifications turned on for our event. This will be your main method of communicating with hackers and organizers. The #mentors channel is a private channel for discussions between mentors and organizers. Feel free to reach out here if you're unsure about anything! The #help channel is for any hacker to reach out requesting help from a mentor. Please keep an eye on this channel for anything you may be able to help out with!
 
-If you have any additional questions or need to be added to the #mentor channel, please reach out to Nidhi Mehta or Mahek Mehta.
+If you have any additional questions or need to be added to the #mentor channel, please reach out to Gabriel Ting or Paavas Bhasin.
 
 ## [IMPORTANT] Help Queue
 
