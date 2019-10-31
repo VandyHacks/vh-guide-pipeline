@@ -213,6 +213,8 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 - **Origami-Makin'** - Join us in making/learning how to make origami!
 
+- **Morning Walk** - Whether you want to meet fellow hackers or simply enjoy the morning views, join us on a walk to Centennial park.
+
 - **Cup Stacking** - Compete to build the tallest cup tower! Hosted by MLH and the VandyHacks team.
 
 - **Lightning Talks** - Stop by to hear talks given by other hackers on a large variety of topics.
