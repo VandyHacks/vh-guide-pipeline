@@ -137,9 +137,11 @@ During the expo, judges will be walking around to score your project. This is wh
 
 This year, we have three bus routes, which are:
 
-Blue Bus: Purdue (West Lafayette) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76710004689)
-Red Bus: GTech (Atlanta) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76708299589)
-Green Bus: Illinois Institute of Tech (Chicago) > UIUC (Champaign) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76706281553)
+[Blue Bus: Purdue (West Lafayette) > Vanderbilt (Nashville)](https://www.eventbrite.com/e/76710004689)
+
+[Red Bus: GTech (Atlanta) > Vanderbilt (Nashville)](https://www.eventbrite.com/e/76708299589)
+
+[Green Bus: Illinois Institute of Tech (Chicago) > UIUC (Champaign) > Vanderbilt (Nashville)](https://www.eventbrite.com/e/76706281553)
 
 Code for eventbrite: vh2019b
 
@@ -201,7 +203,19 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 - **Red Ventures Sponsor Talk** - _Intro to Go_. Learn how to build an HTTP API in Go.
 
-- **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa. Sponsored by Red Ventures.
+- **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa.
+
+- **Zumba** - Join us as we dance our socks off, there are no judges here!
+
+- **Typing Competition** - Think you're the speediest typer around? Compete in the typing competition for a chance to win major clout-- and a prize!
+
+- **Fireside Chat** - Interested in diving deeper into topics such as minorities in CS or the meritocracy of the interview process? Whether you want to share your voice or just listen in on the discussion, we welcome all hackers to come join us during this chat!
+
+- **3D Pen Challenge** - Use a 3D pen to create a masterpiece!
+
+- **Origami-Makin'** - Join us in making/learning how to make origami!
+
+- **Morning Walk** - Whether you want to meet fellow hackers or simply enjoy the morning views, join us on a walk to Centennial park.
 
 - **Cup Stacking** - Compete to build the tallest cup tower! Hosted by MLH and the VandyHacks team.
 
