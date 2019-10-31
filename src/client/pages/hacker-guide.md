@@ -10,9 +10,9 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 3, so you will need to set you
 
 ## Expected Weather (high/low)
 
-- Nov. 1st: 51°F / 31°F, sunny
-- Nov. 2nd: 54°F / 31°F, mostly sunny
-- Nov. 3rd: 55°F / 33°F, sunny
+-   Nov. 1st: 51°F / 31°F, sunny
+-   Nov. 2nd: 54°F / 31°F, mostly sunny
+-   Nov. 3rd: 55°F / 33°F, sunny
 
 ## Table of Contents
 
@@ -48,25 +48,25 @@ A hackathon is a sprint of innovation. The purpose is to meet new friends, learn
 
 We’ll have two sleeping rooms (434 and 462) with sleeping bags and mats, so bring a pillow! We also have showers available at our venue to use on Saturday, so make sure you have a towel and any shower supplies. If you want to rent any hardware, a government-issued ID is required, no exceptions. Please do not bring weapons, drugs, or alcohol. If you’re not sure, please ask us ahead of time!
 
-- **Student ID** (required) + government ID
-- **Water bottle**
-- Laptop and Phone
-- Chargers
-- Extra clothes (bring lots of layers!)
-- Pillow
-- Toiletries (shampoo, toothbrush + toothpaste, deodorant, towel, shower shoes)
+-   **Student ID** (required) + government ID
+-   **Water bottle**
+-   Laptop and Phone
+-   Chargers
+-   Extra clothes (bring lots of layers!)
+-   Pillow
+-   Toiletries (shampoo, toothbrush + toothpaste, deodorant, towel, shower shoes)
 
 # <a name="how-to-prepare"></a>How to Prepare
 
-- Read this guide completely. Make sure you understand the schedule and venue. You don’t want any logistics to distract you while you’re “in the zone” this weekend, so get all of your the questions out of the way beforehand!
+-   Read this guide completely. Make sure you understand the schedule and venue. You don’t want any logistics to distract you while you’re “in the zone” this weekend, so get all of your the questions out of the way beforehand!
 
-- Join the VandyHacks Facebook event [here](https://www.facebook.com/events/1000805890262918/). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends. The event page is here.
+-   Join the VandyHacks Facebook event [here](https://www.facebook.com/events/1000805890262918/). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends. The event page is here.
 
-- Join our Slack at [slack.vandyhacks.org](https://slack.vandyhacks.org). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
+-   Join our Slack at [slack.vandyhacks.org](https://slack.vandyhacks.org). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
 
-- Look at previous projects. All of the projects from VandyHacks I, II, III, IV, and V can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), and [VHV](https://vandyhacksv.devpost.com/submissions).
+-   Look at previous projects. All of the projects from VandyHacks I, II, III, IV, and V can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), and [VHV](https://vandyhacksv.devpost.com/submissions).
 
-- Get your homework done. This may sound silly, but double-check that you have all of your work done for Monday. You’ll be exhausted, so make sure to do it before or earlier in the weekend.
+-   Get your homework done. This may sound silly, but double-check that you have all of your work done for Monday. You’ll be exhausted, so make sure to do it before or earlier in the weekend.
 
 # <a name="finding-a-team"></a>Finding a Team
 
@@ -77,18 +77,21 @@ We will also be providing a Slack channel (#teamfinding) to help facilitate team
 # <a name="getting-help"></a>Getting Help
 
 ## Introduction
-- This year, we have a Slackbot to help manage mentorship requests! It will live in [#help](https://app.slack.com/client/TPLEGCPGD/CPTME0AJU) and in DMs. Once you send a request, it will be sent a mentor who can claim your request. 
-![Hacker Welcome Message](./images/mentorbot_hacker_welcome.png)
-- The bot will automatically put you and your paired mentor in a DM channel for any further discussion.
-  
+
+-   This year, we have a Slackbot to help manage mentorship requests! It will live in [#help](https://app.slack.com/client/TPLEGCPGD/CPTME0AJU) and in DMs. Once you send a request, it will be sent a mentor who can claim your request.
+    ![Hacker Welcome Message](./images/mentorbot_hacker_welcome.png)
+-   The bot will automatically put you and your paired mentor in a DM channel for any further discussion.
+
 ## Getting set up
-- You can select "Direct Messages" in Slack, then [DM the Mentorship Slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU). The bot will ping you if you need help.
-- Click the I need a mentor button. A form will pop up, as shown below.
-![Hacker Welcome Mentor Form](./images/mentorbot_hacker_request.png)
+
+-   You can select "Direct Messages" in Slack, then [DM the Mentorship Slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU). The bot will ping you if you need help.
+-   Click the I need a mentor button. A form will pop up, as shown below.
+    ![Hacker Welcome Mentor Form](./images/mentorbot_hacker_request.png)
 
 ## Final Notes
-- If you have any other questions, reach out to an organizer. Happy hacking!
-This year, we're implementing a help queue to help hackers find help.
+
+-   If you have any other questions, reach out to an organizer. Happy hacking!
+    This year, we're implementing a help queue to help hackers find help.
 
 # <a name="wifi-electronics-&-hardware"></a>Wifi, Electronics, & Hardware
 
@@ -119,7 +122,7 @@ The complete list of prizes will be announced at the Opening Ceremony. Stay tune
 
 ---
 
-- **Major League Hacking Prizes** - [hack.mlh.io/prizes](https://hack.mlh.io/prizes/)
+-   **Major League Hacking Prizes** - [hack.mlh.io/prizes](https://hack.mlh.io/prizes/)
 
 # <a name="submitting-your-project"></a>Submitting Your Project
 
@@ -183,55 +186,55 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you�
 
 # <a name="event-descriptions"></a>Event Descriptions
 
-- **Pitch Session** - Meet with other hackers and form teams.
+-   **Pitch Session** - Meet with other hackers and form teams.
 
-- **Beginner Workshop** - Learn about a variety of tools and skills to take VandyHacks by storm! We'll cover hackathon basics, getting started and finding teammates, project examples, and how to use Git and Github to collaborate with your teammates.
+-   **Beginner Workshop** - Learn about a variety of tools and skills to take VandyHacks by storm! We'll cover hackathon basics, getting started and finding teammates, project examples, and how to use Git and Github to collaborate with your teammates.
 
-- **Tech Talks** - Come learn something new or brush up your hacking skills. Sessions will be held on: Data Science, Front End, [Flask](http://flask.pocoo.org/), [Node.js](https://nodejs.org/en/), [Unity](https://unity3d.com/)/VR, and Cryptography.
+-   **Tech Talks** - Come learn something new or brush up your hacking skills. Sessions will be held on: Data Science, Front End, [Flask](http://flask.pocoo.org/), [Node.js](https://nodejs.org/en/), [Unity](https://unity3d.com/)/VR, and Cryptography.
 
-- **BOS Sponsor Talk** - _Turn Your Hackathon App Into Business-Ready Software_. Come learn about our framework of APIs and how you can turn your hack idea into a product that's ready for the market.
+-   **BOS Sponsor Talk** - _Turn Your Hackathon App Into Business-Ready Software_. Come learn about our framework of APIs and how you can turn your hack idea into a product that's ready for the market.
 
-- **Centene Sponsor Talk** - _How to Be a Differentiator: Technology & Team Skills_. Learn what tech we use to support over 13 million lives, what it takes to get involved, how to be a talent differentiator, and what hiring managers are looking for in new recruits.
+-   **Centene Sponsor Talk** - _How to Be a Differentiator: Technology & Team Skills_. Learn what tech we use to support over 13 million lives, what it takes to get involved, how to be a talent differentiator, and what hiring managers are looking for in new recruits.
 
-- **Tractor Supply Co Sponsor Talk** - _Tractor Supply Data Overview_. Join us for a company overview and a discussion of the kinds of data our engineers work with everyday.
+-   **Tractor Supply Co Sponsor Talk** - _Tractor Supply Data Overview_. Join us for a company overview and a discussion of the kinds of data our engineers work with everyday.
 
-- **BNY Mellon Sponsor Talk** - _Don’t Git Spooked: Demystifying the Troublesome VCS_. Join us as we discuss the inner mechanics of Git and useful commands for everyday use!
+-   **BNY Mellon Sponsor Talk** - _Don’t Git Spooked: Demystifying the Troublesome VCS_. Join us as we discuss the inner mechanics of Git and useful commands for everyday use!
 
-- **MicroStrategy Sponsor Talk** - _Predict Flight Delays With Machine Learning and R_. Scott Rigney, the presenter, will be posting workshop materials on a Dropbox page. Please install the latest versions of R and RStudio (both free) on your computer before attending the session.
+-   **MicroStrategy Sponsor Talk** - _Predict Flight Delays With Machine Learning and R_. Scott Rigney, the presenter, will be posting workshop materials on a Dropbox page. Please install the latest versions of R and RStudio (both free) on your computer before attending the session.
 
-- **Fulcrum GT Sponsor Talk** - _Building Web Applications with ReactJS_. We’ll cover the fundamental features of React JS and go over development of your own React app. Presented By: Peter Iordanov
+-   **Fulcrum GT Sponsor Talk** - _Building Web Applications with ReactJS_. We’ll cover the fundamental features of React JS and go over development of your own React app. Presented By: Peter Iordanov
 
-- **Red Ventures Sponsor Talk** - _Intro to Go_. Learn how to build an HTTP API in Go.
+-   **Red Ventures Sponsor Talk** - _Intro to Go_. Learn how to build an HTTP API in Go.
 
-- **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa.
+-   **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa.
 
-- **Zumba** - Join us as we dance our socks off, there are no judges here!
+-   **Zumba** - Join us as we dance our socks off, there are no judges here!
 
-- **Typing Competition** - Think you're the speediest typer around? Compete in the typing competition for a chance to win major clout-- and a prize!
+-   **Typing Competition** - Think you're the speediest typer around? Compete in the typing competition for a chance to win major clout-- and a prize!
 
-- **Fireside Chat** - Interested in diving deeper into topics such as minorities in CS or the meritocracy of the interview process? Whether you want to share your voice or just listen in on the discussion, we welcome all hackers to come join us during this chat!
+-   **Fireside Chat** - Interested in diving deeper into topics such as minorities in CS or the meritocracy of the interview process? Whether you want to share your voice or just listen in on the discussion, we welcome all hackers to come join us during this chat!
 
-- **3D Pen Challenge** - Use a 3D pen to create a masterpiece!
+-   **3D Pen Challenge** - Use a 3D pen to create a masterpiece!
 
-- **Origami-Makin'** - Join us in making/learning how to make origami!
+-   **Origami-Makin'** - Join us in making/learning how to make origami!
 
-- **Morning Walk** - Whether you want to meet fellow hackers or simply enjoy the morning views, join us on a walk to Centennial park.
+-   **Morning Walk** - Whether you want to meet fellow hackers or simply enjoy the morning views, join us on a walk to Centennial park.
 
-- **Cup Stacking** - Compete to build the tallest cup tower! Hosted by MLH and the VandyHacks team.
+-   **Cup Stacking** - Compete to build the tallest cup tower! Hosted by MLH and the VandyHacks team.
 
-- **Lightning Talks** - Stop by to hear talks given by other hackers on a large variety of topics.
+-   **Lightning Talks** - Stop by to hear talks given by other hackers on a large variety of topics.
 
-- **Women in Computing Meetup** - Come meet up with Vanderbilt's Women in Computing group for a smoothie night!
+-   **Women in Computing Meetup** - Come meet up with Vanderbilt's Women in Computing group for a smoothie night!
 
-- **Karaoke Night** - Let your inner rock star shine!
+-   **Karaoke Night** - Let your inner rock star shine!
 
-- **How to Demo Talk** - Learn how to present your project’s best face before demoing.
+-   **How to Demo Talk** - Learn how to present your project’s best face before demoing.
 
 # <a name="resources"></a>Resources
 
-- [Prizes, Software, and Hardware Provided by MLH](https://hack.mlh.io/)
-- [Github Student Developer Pack](https://education.github.com/pack)
-- [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/free-account-students-faq/)
+-   [Prizes, Software, and Hardware Provided by MLH](https://hack.mlh.io/)
+-   [Github Student Developer Pack](https://education.github.com/pack)
+-   [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/free-account-students-faq/)
 
 # <a name="emergencies"></a>Emergencies
 

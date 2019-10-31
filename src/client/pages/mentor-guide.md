@@ -1,6 +1,6 @@
 ## Dear Mentor,
 
-We’re very excited to have you join us this weekend at VandyHacks VI from November 1nd-3rd! In this document, we’ve included everything you need to get the most out of your experience at VandyHacks. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
+We’re very excited to have you join us this weekend at VandyHacks VI from [November 1st-3rd](https://calendar.vandyhacks.org)! In this document, we’ve included everything you need to get the most out of your experience at VandyHacks. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org).
 
 For a live schedule and important info, head over to our [day-of page](https://dayof.vandyhacks.org). Now, let's jump right into things!
 
@@ -27,13 +27,13 @@ For a live schedule and important info, head over to our [day-of page](https://d
 
 First of all, thank you so much for dedicating your time to being a mentor! We want to ensure that our hackers get the best possible experience to create something amazing. Here are a few key points:
 
-- Join our Slack [here](https://vandyhacksvi.slack.com). All announcements will be made here, and you'll be connecting with students who may need help in the #help channel. Contact Alex Cuc on Slack to be added to the #mentors private channel.
+-   Join our Slack [here](https://vandyhacksvi.slack.com). All announcements will be made here, and you'll be connecting with students who may need help in the #help channel. Contact Alex Cuc on Slack to be added to the #mentors private channel.
 
-- Have fun! For many of our hackers, this is their first introduction to the hacking culture, and if you’re having a blast, so will they! If there’s anything we can do for you or them, feel free to reach out on the #mentor slack channel, or find an organizer.
+-   Have fun! For many of our hackers, this is their first introduction to the hacking culture, and if you’re having a blast, so will they! If there’s anything we can do for you or them, feel free to reach out on the #mentor slack channel, or find an organizer.
 
-- In case of an emergency, please contact an organizer immediately. Emergency information can be found at the end of this document.
+-   In case of an emergency, please contact an organizer immediately. Emergency information can be found at the end of this document.
 
-- We've got a special gift for you, so reach out to Alec Cuc before you leave!
+-   We've got a special gift for you, so reach out to Alec Cuc or Gabriel Ting before you leave!
 
 ## Slack Channels (#mentors and #help)
 
@@ -45,40 +45,38 @@ If you have any additional questions or need to be added to the #mentor channel,
 
 ### Introduction
 
-- This year, we have a [Slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU) to help manage mentorship requests! It will live in [#help](https://app.slack.com/client/TPLEGCPGD/CPTME0AJU), [#mentors](https://app.slack.com/client/TPLEGCPGD/GPHQS9SHG), and in DMs.
+-   This year, we have a [Slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU) to help manage mentorship requests! It will live in [#help](https://app.slack.com/client/TPLEGCPGD/CPTME0AJU), [#mentors](https://app.slack.com/client/TPLEGCPGD/GPHQS9SHG), and in DMs.
 
-###  Getting set up
+### Getting set up
 
-- You can select &quot;Direct Messages&quot; in Slack, then [DM the Mentorship_slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU). Type in `!skills help` to see a list of skills that you can select, plus instructions on how to use it.
+-   You can select &quot;Direct Messages&quot; in Slack, then [DM the Mentorship_slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU). Type in `!skills help` to see a list of skills that you can select, plus instructions on how to use it.
 
 ![Skills setting](./images/skills_setting.png)
 
-- Set your skills by typing `!skills` and then each skill, space delimited. After setting your skills, you should see the following: 
+-   Set your skills by typing `!skills` and then each skill, space delimited. After setting your skills, you should see the following:
 
 ![Skills confirmation](./images/skills_setting2.png)
 
 ### Claiming Requests
 
-- In the `#mentors` private channel, you should see the requests from users come in.
+-   In the `#mentors` private channel, you should see the requests from users come in.
 
 ![Sample request](./images/sample_request.png)
 
-- You can then `Claim` the request, which changes the menu to either `Complete`, `Surrender`, or `Delete` the request. 
-    - Please do not delete the request unless it is spam.
-    - Surrender the request if you would like any other mentor to be able to claim it.
+-   You can then `Claim` the request, which changes the menu to either `Complete`, `Surrender`, or `Delete` the request.
+    -   Please do not delete the request unless it is spam.
+    -   Surrender the request if you would like any other mentor to be able to claim it.
 
 ![Claiming a request](./images/claiming_request.png)
 
-- Once a mentor claims a session, it will automatically put you in a DM channel with you and the mentorship requestor.
+-   Once a mentor claims a session, it will automatically put you in a DM channel with you and the mentorship requestor.
 
 ![DM Channel](./images/dm_example.png)
 
-
-
 ### Final Notes
 
-- Thank you for being a mentor at VandyHacks VI! We're so excited to have you!
-- Credit to HacktheNorth for their incredible bot!
+-   Thank you for being a mentor at VandyHacks VI! We're so excited to have you!
+-   Credit to HacktheNorth for their incredible bot!
 
 ## Interacting With Hackers
 
@@ -86,7 +84,7 @@ This year, mentors will be wearing a different color shirt (purple) from the res
 
 ## When Should You Be Here?
 
-Please plan to be present at the times you signed up for. However, you’re not constrained to only be here at those times! In fact, we encourage you to stay as long as you like,  as this is a great opportunity to meet awesome hackers, see creative hacks in the works, and participate in fun activities.
+Please plan to be present at the times you signed up for. However, you’re not constrained to only be here at those times! In fact, we encourage you to stay as long as you like, as this is a great opportunity to meet awesome hackers, see creative hacks in the works, and participate in fun activities.
 
 Most students will spend Friday night thinking of their idea or mapping out their plan for the weekend. We’ll also be holding beginner workshops Friday night, so this is the time new hackers will have the most questions. In addition, if your company has a specific API you’d like to promote, this would be a great time to sell the students on its service. All throughout Saturday is when the bulk of the hacking happens, so it’s an excellent time for mentors to be present. Hackers will typically wake up around breakfast time and hack until 2-3am. Sunday morning consists of a rush to completion before the deadline. Most people need help during daylight hours (hackers need their sleep just like you do!), so don’t worry about burning the midnight oil if you don’t want to.
 
@@ -120,4 +118,4 @@ While we don’t expect any serious problems, if you should see anything that re
 
 <br>
 
-*Last Updated: October 29th, 2019*
+_Last Updated: October 31th, 2019_
