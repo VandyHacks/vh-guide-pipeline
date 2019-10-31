@@ -16,26 +16,27 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 3, so you will need to set you
 
 ## Table of Contents
 
-- [What is a Hackathon?](#what-is-a-hackathon)
-- [What to Bring](#what-to-bring)
-- [How to Prepare](#how-to-prepare)
-- [Finding a Team](#finding-a-team)
-- [Getting Help](#getting-help)
-- [Wifi, Electronics, & Hardware](#wifi-electronics-hardware)
-- [Sleeping, Eating, & Showering](#sleeping-eating-showering)
-- [Opening Ceremony](#opening-ceremony)
-- [Closing Ceremony](#closing-ceremony)
-- [Prizes](#prizes)
-- [Submitting Your Project](#submitting-your-project)
-- [Presenting Your Project](#presenting-your-project)
-- [Buses](#buses)
-- [Reimbursements](#reimbursements)
-- [Parking](#parking)
-- [Venue](#venue)
-- [Code of Conduct](#code-of-conduct)
-- [Event Descriptions](#event-descriptions)
-- [Resources](#resources)
-- [Emergencies](#emergencies)
+-   [What is a Hackathon?](#what-is-a-hackathon)
+-   [What to Bring](#what-to-bring)
+-   [How to Prepare](#how-to-prepare)
+-   [Finding a Team](#finding-a-team)
+-   [Getting Help](#getting-help)
+-   [Wifi, Electronics, & Hardware](#wifi-electronics-hardware)
+-   [Sleeping, Eating, & Showering](#sleeping-eating-showering)
+-   [Opening Ceremony](#opening-ceremony)
+-   [Closing Ceremony](#closing-ceremony)
+-   [Prizes](#prizes)
+-   [Submitting Your Project](#submitting-your-project)
+-   [Presenting Your Project](#presenting-your-project)
+-   [Buses](#buses)
+-   [Reimbursements](#reimbursements)
+-   [Parking](#parking)
+-   [Venue](#venue)
+-   [Code of Conduct](#code-of-conduct)
+-   [Event Descriptions](#event-descriptions)
+-   [Resources](#resources)
+-   [Emergencies](#emergencies)
+-   [Scavenger hunt](#scavenger-hunt)
 
 # <a name="what-is-a-hackathon"></a>What is a Hackathon?
 
@@ -236,6 +237,16 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 # <a name="emergencies"></a>Emergencies
 
 While we donâ€™t expect any serious problems, if you should see anything that requires our immediate attention, please feel free to contact our organizing team through the #emergencies channel on slack, or call us at (505) 484-2252. For extreme circumstances, call Vanderbilt Police Department at (615) 322-2745. If someone is hurt, please call 911.
+
+# <a name="scavenger-hunt"></a>Scavenger Hunt
+
+This year, we have a scavenger hunt! The winners will win special prizes. Here's a hint to get you started.
+
+_I have no beginning, I have no end,<br>
+Below a spiral of ascension, to me you descend.<br>
+Before the Wond'ry was even created, deep beneath the hard ground I waited.<br>
+A colossal fruit loop I may bring to mind,<br>
+and behind me, the first clue to the hunt will you find._
 
 <br>
 
