@@ -59,7 +59,7 @@ We’ll have two sleeping rooms (434 and 462) with sleeping bags and mats, so br
 
 - Join the VandyHacks Facebook event [here](https://www.facebook.com/events/1000805890262918/). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends. The event page is here.
 
-- Join our Slack at [vandyhacksvi.slack.com](https://vandyhacksvi.slack.com). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
+- Join our Slack at [slack.vandyhacks.org](https://slack.vandyhacks.org). We’ll be using Slack for important announcements, live updates, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
 
 - Look at previous projects. All of the projects from VandyHacks I, II, III, IV, and V can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), and [VHV](https://vandyhacksv.devpost.com/submissions).
 
@@ -87,7 +87,7 @@ A list of available hardware can be found [here](https://hardware.mlh.io).
 
 # <a name="sleeping-eating-&-showering"></a>Sleeping, Eating, & Showering
 
-We will have sleeping rooms (434 for females, 462 for males) on the fourth floor of the building with sleeping bags, so bring a pillow!
+We will have sleeping rooms (434 for females, 462 for males) on the fourth floor of the building with sleeping bags, so bring along a pillow!
 
 Free food and drink will be provided. If you have any dietary restrictions, please confirm with an organizer or volunteer before getting meals. Those with dietary restrictions will eat first, so please be there early if you need special accommodation.
 
@@ -103,41 +103,7 @@ Closing ceremony will be held in the [Student Life Center](https://goo.gl/maps/U
 
 # <a name="prizes"></a>Prizes
 
-Shining Star (best overall) and Rising Star (best overall runner up) will be selected from the top five projects, which will be presented during closing ceremony. Each team member for all awards will receive a prize, unless otherwise noted. Here are our prize categories:
-
-- **Shining Star** - Osmo Pocket. Awarded to the best project all around.
-
-- **Rising Star** - Nintendo Switch Lite, 200. Awarded to the second best project all around.
-
-- **Art/Creative** - Wacom Intuos Tablet. Awarded to the best musical hack.
-
-- **Workshop Warrior** - Tech Backpack. Awarded to the best hack utilizing a tool or tech taught in a workshop. _Winners must have attended the corresponding workshop._
-
-- **Zero to Hero** - Polaroid Camera. Awarded to the best hack from a team with minimal or no prior experience.
-
-- **Code For Good** - Donations to charity. Awarded to the best hack with the maximal positive social good impact on a marginalized community. _VandyHacks reserves the right to decline donations to certain charities._
-
----
-
-- **MicroStrategy** - Nintendo Switch, Swag Backpack. Awarded for best use of MicroStrategy (Usher, Embedded Analytics or both!).
-
-- **Centene** - Echo Spot. Awarded for the best Social Determinants of Health hack. Social determinants of health are conditions in the environments in which people are born, live, learn, work, play, worship, and age that affect a wide range of health, functioning, and quality-of-life outcomes and risks.
-
-- **Tractor Supply Co.** - Samsung 2 in 1 Chromebook Tablet (4 for winning team).  Awarded for best combined use of public and Tractor Supply data from an analytics perspective.
-
-- **Red Ventures** - Apple TV for each team member. Red Ventures' Choice Award.
-
-- **BOS** - Sony Wireless Headphones (WH-CH400). BOS Built for Business Award.
-
-- **The Home Depot** - 4 Apple TVs (32GB). Awarded for most fun hack.
-
-- **Capital One** - $250 Amazon Gift Card (for each member). Awarded for best financial hack.
-
-- **Dollar General** - Airpods.
-
-- **Eventbrite** - Samsung Galaxy Tab A, Swag. Awarded for best use of Eventbrite API.
-
-- **Contrary Capital** - Office Hours with a Contrary Capital managing partner. Awarded for most business viable hack.
+The complete list of prizes will be announced at the Opening Ceremony. Stay tuned for some amazing surprises!
 
 ---
 
@@ -247,4 +213,4 @@ While we don’t expect any serious problems, if you should see anything that re
 
 <br>
 
-_Last Updated: October 30th, 2019_
+_Last Updated: October 31st, 2019_
