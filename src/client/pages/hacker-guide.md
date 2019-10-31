@@ -16,29 +16,26 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 3, so you will need to set you
 
 ## Table of Contents
 
-- [<a name="what-is-a-hackathon"></a>What is a Hackathon?](#a-name%22what-is-a-hackathon%22awhat-is-a-hackathon)
-- [<a name="what-to-bring"></a>What to Bring](#a-name%22what-to-bring%22awhat-to-bring)
-- [<a name="how-to-prepare"></a>How to Prepare](#a-name%22how-to-prepare%22ahow-to-prepare)
-- [<a name="finding-a-team"></a>Finding a Team](#a-name%22finding-a-team%22afinding-a-team)
-- [<a name="getting-help"></a>Getting Help](#a-name%22getting-help%22agetting-help)
-  - [Introduction](#introduction)
-  - [Getting set up](#getting-set-up)
-  - [Final Notes](#final-notes)
-- [<a name="wifi-electronics-&-hardware"></a>Wifi, Electronics, & Hardware](#a-name%22wifi-electronics--hardware%22awifi-electronics--hardware)
-- [<a name="sleeping-eating-&-showering"></a>Sleeping, Eating, & Showering](#a-name%22sleeping-eating--showering%22asleeping-eating--showering)
-- [<a name="opening-ceremony"></a>Opening Ceremony](#a-name%22opening-ceremony%22aopening-ceremony)
-- [<a name="closing-ceremony"></a>Closing Ceremony](#a-name%22closing-ceremony%22aclosing-ceremony)
-- [<a name="prizes"></a>Prizes](#a-name%22prizes%22aprizes)
-- [<a name="submitting-your-project"></a>Submitting Your Project](#a-name%22submitting-your-project%22asubmitting-your-project)
-- [<a name="presenting-your-project"></a>Presenting Your Project](#a-name%22presenting-your-project%22apresenting-your-project)
-- [<a name="buses"></a>Buses](#a-name%22buses%22abuses)
-- [<a name="reimbursements"></a>Reimbursements](#a-name%22reimbursements%22areimbursements)
-- [<a name="parking"></a>Parking](#a-name%22parking%22aparking)
-- [<a name="venue"></a>Venue](#a-name%22venue%22avenue)
-- [<a name="code-of-conduct"></a>Code of Conduct](#a-name%22code-of-conduct%22acode-of-conduct)
-- [<a name="event-descriptions"></a>Event Descriptions](#a-name%22event-descriptions%22aevent-descriptions)
-- [<a name="resources"></a>Resources](#a-name%22resources%22aresources)
-- [<a name="emergencies"></a>Emergencies](#a-name%22emergencies%22aemergencies)
+- [What is a Hackathon?](#what-is-a-hackathon)
+- [What to Bring](#what-to-bring)
+- [How to Prepare](#how-to-prepare)
+- [Finding a Team](#finding-a-team)
+- [Getting Help](#getting-help)
+- [Wifi, Electronics, & Hardware](#wifi-electronics-hardware)
+- [Sleeping, Eating, & Showering](#sleeping-eating-showering)
+- [Opening Ceremony](#opening-ceremony)
+- [Closing Ceremony](#closing-ceremony)
+- [Prizes](#prizes)
+- [Submitting Your Project](#submitting-your-project)
+- [Presenting Your Project](#presenting-your-project)
+- [Buses](#buses)
+- [Reimbursements](#reimbursements)
+- [Parking](#parking)
+- [Venue](#venue)
+- [Code of Conduct](#code-of-conduct)
+- [Event Descriptions](#event-descriptions)
+- [Resources](#resources)
+- [Emergencies](#emergencies)
 
 # <a name="what-is-a-hackathon"></a>What is a Hackathon?
 
@@ -90,14 +87,14 @@ We will also be providing a Slack channel (#teamfinding) to help facilitate team
 - If you have any other questions, reach out to an organizer. Happy hacking!
 This year, we're implementing a help queue to help hackers find help.
 
-# <a name="wifi-electronics-&-hardware"></a>Wifi, Electronics, & Hardware
+# <a name="wifi-electronics-hardware"></a>Wifi, Electronics, & Hardware
 
 You can use the "vuGuest" or "eduroam" WiFi.
 You can also use the alternate WiFi by connecting to the network “vummiv”. Note that this is a hidden network, so you'll have to manually enter in the SSID. If you’re having trouble, check out [Vanderbilt's IT site](https://it.vanderbilt.edu/services/network/wireless/vu-guests.php) for troubleshooting. We will also have power strips and ethernet cords available at our hardware desk for checkout. Ethernet ports will be active on the second floor.
 
 A list of available hardware can be found [here](https://hardware.mlh.io).
 
-# <a name="sleeping-eating-&-showering"></a>Sleeping, Eating, & Showering
+# <a name="sleeping-eating-showering"></a>Sleeping, Eating, & Showering
 
 We will have sleeping rooms (434 for females, 462 for males) on the fourth floor of the building with sleeping bags, so bring along a pillow!
 
