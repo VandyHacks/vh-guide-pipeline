@@ -6,9 +6,15 @@ For a live schedule and important info, head over to our [day-of page](https://d
 
 ## Table of Contents
 
-- [tl;dr](#tl;dr)
-- [Slack Channels](#slack-channels-mentors-and-help)
-- [[IMPORTANT] Help Queue](#important-help-queue)
+- [Dear Mentor,](#dear-mentor)
+- [Table of Contents](#table-of-contents)
+- [tl;dr](#tldr)
+- [Slack Channels (#mentors and #help)](#slack-channels-mentors-and-help)
+- [[IMPORTANT] Mentorship Bot](#important-mentorship-bot)
+  - [Introduction](#introduction)
+  - [Getting set up](#getting-set-up)
+  - [Claiming Requests](#claiming-requests)
+  - [Final Notes](#final-notes)
 - [Interacting With Hackers](#interacting-with-hackers)
 - [When Should You Be Here?](#when-should-you-be-here)
 - [WiFi](#wifi)
@@ -35,11 +41,44 @@ Make sure to join our Slack at [vandyhacksvi.slack.com](https://vandyhacksvi.sla
 
 If you have any additional questions or need to be added to the #mentor channel, please reach out to Gabriel Ting or Paavas Bhasin.
 
-## [IMPORTANT] Help Queue
+## [IMPORTANT] Mentorship Bot
 
-This year, we've implemented a bot in our Slack that will be used as the main method for connecting hackers with mentors.
+### Introduction
 
-Once hackers put in requests into the queue, you can claim a ticket and get more detailed information. This will notify the hacker that you're on your way! You can then contact the hacker through slack and head over to their location to help them with their problems. Please note that you can only claim one ticket at a time, and please mark the ticket as complete when you are finished. You can also choose to reopen the ticket if you think another mentor may be able to provide more assistance with the problem.
+- This year, we have a [Slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU) to help manage mentorship requests! It will live in [#help](https://app.slack.com/client/TPLEGCPGD/CPTME0AJU), [#mentors](https://app.slack.com/client/TPLEGCPGD/GPHQS9SHG), and in DMs.
+
+###  Getting set up
+
+- You can select &quot;Direct Messages&quot; in Slack, then [DM the Mentorship_slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU). Type in `!skills help` to see a list of skills that you can select, plus instructions on how to use it.
+
+![Skills setting](./images/skills_setting.png)
+
+- Set your skills by typing `!skills` and then each skill, space delimited. After setting your skills, you should see the following: 
+
+![Skills confirmation](./images/skills_setting2.png)
+
+### Claiming Requests
+
+- In the `#mentors` private channel, you should see the requests from users come in.
+
+![Sample request](./images/sample_request.png)
+
+- You can then `Claim` the request, which changes the menu to either `Complete`, `Surrender`, or `Delete` the request. 
+    - Please do not delete the request unless it is spam.
+    - Surrender the request if you would like any other mentor to be able to claim it.
+
+![Claiming a request](./images/claiming_request.png)
+
+- Once a mentor claims a session, it will automatically put you in a DM channel with you and the mentorship requestor.
+
+![DM Channel](./images/dm_example.png)
+
+
+
+### Final Notes
+
+- Thank you for being a mentor at VandyHacks VI! We're so excited to have you!
+- Credit to HacktheNorth for their incredible bot!
 
 ## Interacting With Hackers
 
