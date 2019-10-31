@@ -16,26 +16,29 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 3, so you will need to set you
 
 ## Table of Contents
 
-- [What is a Hackathon?](#what-is-a-hackathon)
-- [What to Bring](#what-to-bring)
-- [How to Prepare](#how-to-prepare)
-- [Finding a Team](#finding-a-team)
-- [Getting Help](#getting-help)
-- [WiFi, Electronics, & Hardware](#wifi-electronics-&-hardware)
-- [Sleeping, Eating, & Showering](#sleeping-eating-&-showering)
-- [Opening Ceremony](#opening-ceremony)
-- [Closing Ceremony](#closing-ceremony)
-- [Prizes](#prizes)
-- [Submitting Your Project](#submitting-your-project)
-- [Presenting Your Project](#presenting-your-project)
-- [Buses](#buses)
-- [Reimbursements](#reimbursements)
-- [Parking](#parking)
-- [Venue](#venue)
-- [Code of Conduct](#code-of-conduct)
-- [Event Descriptions](#event-descriptions)
-- [Resources](#resources)
-- [Emergencies](#emergencies)
+- [<a name="what-is-a-hackathon"></a>What is a Hackathon?](#a-name%22what-is-a-hackathon%22awhat-is-a-hackathon)
+- [<a name="what-to-bring"></a>What to Bring](#a-name%22what-to-bring%22awhat-to-bring)
+- [<a name="how-to-prepare"></a>How to Prepare](#a-name%22how-to-prepare%22ahow-to-prepare)
+- [<a name="finding-a-team"></a>Finding a Team](#a-name%22finding-a-team%22afinding-a-team)
+- [<a name="getting-help"></a>Getting Help](#a-name%22getting-help%22agetting-help)
+  - [Introduction](#introduction)
+  - [Getting set up](#getting-set-up)
+  - [Final Notes](#final-notes)
+- [<a name="wifi-electronics-&-hardware"></a>Wifi, Electronics, & Hardware](#a-name%22wifi-electronics--hardware%22awifi-electronics--hardware)
+- [<a name="sleeping-eating-&-showering"></a>Sleeping, Eating, & Showering](#a-name%22sleeping-eating--showering%22asleeping-eating--showering)
+- [<a name="opening-ceremony"></a>Opening Ceremony](#a-name%22opening-ceremony%22aopening-ceremony)
+- [<a name="closing-ceremony"></a>Closing Ceremony](#a-name%22closing-ceremony%22aclosing-ceremony)
+- [<a name="prizes"></a>Prizes](#a-name%22prizes%22aprizes)
+- [<a name="submitting-your-project"></a>Submitting Your Project](#a-name%22submitting-your-project%22asubmitting-your-project)
+- [<a name="presenting-your-project"></a>Presenting Your Project](#a-name%22presenting-your-project%22apresenting-your-project)
+- [<a name="buses"></a>Buses](#a-name%22buses%22abuses)
+- [<a name="reimbursements"></a>Reimbursements](#a-name%22reimbursements%22areimbursements)
+- [<a name="parking"></a>Parking](#a-name%22parking%22aparking)
+- [<a name="venue"></a>Venue](#a-name%22venue%22avenue)
+- [<a name="code-of-conduct"></a>Code of Conduct](#a-name%22code-of-conduct%22acode-of-conduct)
+- [<a name="event-descriptions"></a>Event Descriptions](#a-name%22event-descriptions%22aevent-descriptions)
+- [<a name="resources"></a>Resources](#a-name%22resources%22aresources)
+- [<a name="emergencies"></a>Emergencies](#a-name%22emergencies%22aemergencies)
 
 # <a name="what-is-a-hackathon"></a>What is a Hackathon?
 
@@ -73,10 +76,19 @@ We will also be providing a Slack channel (#teamfinding) to help facilitate team
 
 # <a name="getting-help"></a>Getting Help
 
-This year, we're implementing a help queue to help hackers find help. At the event, you'll be able to login to the help queue at [help.vandyhacks.org](https://help.vandyhacks.org). Your username is your email, with the `@` replaced with `-`, and your password is `default` followed by the first letter of your name.
-(For example, if your name is `Bob Smith` with an email of `bob@school.edu`, your username would be `bob-school.edu` and your password would be `defaultb`). We understand this may be a bit unusual, but please bear with us. This will let you reach out to mentors for help!
+## Introduction
+- This year, we have a Slackbot to help manage mentorship requests! It will live in [#help](https://app.slack.com/client/TPLEGCPGD/CPTME0AJU) and in DMs. Once you send a request, it will be sent a mentor who can claim your request. 
+![Hacker Welcome Message](./images/mentorbot_hacker_welcome.png)
+- The bot will automatically put you and your paired mentor in a DM channel for any further discussion.
+  
+## Getting set up
+- You can select "Direct Messages" in Slack, then [DM the Mentorship Slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU). The bot will ping you if you need help.
+- Click the I need a mentor button. A form will pop up, as shown below.
+![Hacker Welcome Mentor Form](./images/mentorbot_hacker_request.png)
 
-You can request a mentor anytime by submitting a help ticket. Then, just wait for an available mentor to show up or contact you! Please note that you can only have one active ticket at a time. You may also cancel your ticket if you no longer need help.
+## Final Notes
+- If you have any other questions, reach out to an organizer. Happy hacking!
+This year, we're implementing a help queue to help hackers find help.
 
 # <a name="wifi-electronics-&-hardware"></a>Wifi, Electronics, & Hardware
 
