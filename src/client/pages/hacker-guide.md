@@ -201,7 +201,17 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 - **Red Ventures Sponsor Talk** - _Intro to Go_. Learn how to build an HTTP API in Go.
 
-- **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa. Sponsored by Red Ventures.
+- **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa.
+
+- **Zumba** - Join us as we dance our socks off, there are no judges here!
+
+- **Typing Competition** - Think you're the speediest typer around? Compete in the typing competition for a chance to win major clout-- and a prize!
+
+- **Fireside Chat** - Interested in diving deeper into topics such as minorities in CS or the meritocracy of the interview process? Whether you want to share your voice or just listen in on the discussion, we welcome all hackers to come join us during this chat!
+
+- **3D Pen Challenge** - Use a 3D pen to create a masterpiece!
+
+- **Origami-Makin'** - Join us in making/learning how to make origami!
 
 - **Cup Stacking** - Compete to build the tallest cup tower! Hosted by MLH and the VandyHacks team.
 
