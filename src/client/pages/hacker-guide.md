@@ -137,9 +137,11 @@ During the expo, judges will be walking around to score your project. This is wh
 
 This year, we have three bus routes, which are:
 
-Blue Bus: Purdue (West Lafayette) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76710004689)
-Red Bus: GTech (Atlanta) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76708299589)
-Green Bus: Illinois Institute of Tech (Chicago) > UIUC (Champaign) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76706281553)
+[Blue Bus: Purdue (West Lafayette) > Vanderbilt (Nashville)](https://www.eventbrite.com/e/76710004689)
+
+[Red Bus: GTech (Atlanta) > Vanderbilt (Nashville)](https://www.eventbrite.com/e/76708299589)
+
+[Green Bus: Illinois Institute of Tech (Chicago) > UIUC (Champaign) > Vanderbilt (Nashville)](https://www.eventbrite.com/e/76706281553)
 
 Code for eventbrite: vh2019b
 
