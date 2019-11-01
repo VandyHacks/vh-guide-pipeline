@@ -194,9 +194,9 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 -   **Asurion Networking Event**
 
--   **Fulcrum Workshop **
+-   **Fulcrum Workshop**
 
--   **Asurion Workshop **
+-   **Asurion Workshop**
 
 -   **BNY Workshop**
 
