@@ -6,32 +6,32 @@ For a live schedule and important info, head over to our [day-of page](https://d
 
 ## Table of Contents
 
-- [tl;dr](#tldr)
-- [Slack Channels (#mentors and #help)](#slack-channels-mentors-and-help)
-- [[IMPORTANT] Mentorship Bot](#important-mentorship-bot)
-  - [Introduction](#introduction)
-  - [Getting set up](#getting-set-up)
-  - [Claiming Requests](#claiming-requests)
-  - [Final Notes](#final-notes)
-- [Interacting With Hackers](#interacting-with-hackers)
-- [When Should You Be Here?](#when-should-you-be-here)
-- [WiFi](#wifi)
-- [Eating](#eating)
-- [Parking](#parking)
-- [Venue](#venue)
-- [Emergencies](#emergencies)
+-   [tl;dr](#tldr)
+-   [Slack Channels (#mentors and #help)](#slack-channels-mentors-and-help)
+-   [[IMPORTANT] Mentorship Bot](#important-mentorship-bot)
+    -   [Introduction](#introduction)
+    -   [Getting set up](#getting-set-up)
+    -   [Claiming Requests](#claiming-requests)
+    -   [Final Notes](#final-notes)
+-   [Interacting With Hackers](#interacting-with-hackers)
+-   [When Should You Be Here?](#when-should-you-be-here)
+-   [WiFi](#wifi)
+-   [Eating](#eating)
+-   [Parking](#parking)
+-   [Venue](#venue)
+-   [Emergencies](#emergencies)
 
 ## <a name="tldr"></a>tl;dr
 
 First of all, thank you so much for dedicating your time to being a mentor! We want to ensure that our hackers get the best possible experience to create something amazing. Here are a few key points:
 
-- Join our Slack [here](https://vandyhacksvi.slack.com). All announcements will be made here, and you'll be connecting with students who may need help in the #help channel. Contact Alex Cuc on Slack to be added to the #mentors private channel.
+-   Join our Slack [here](https://vandyhacksvi.slack.com). All announcements will be made here, and you'll be connecting with students who may need help in the #help channel. Contact Alex Cuc on Slack to be added to the #mentors private channel.
 
-- Have fun! For many of our hackers, this is their first introduction to the hacking culture, and if you’re having a blast, so will they! If there’s anything we can do for you or them, feel free to reach out on the #mentor slack channel, or find an organizer.
+-   Have fun! For many of our hackers, this is their first introduction to the hacking culture, and if you’re having a blast, so will they! If there’s anything we can do for you or them, feel free to reach out on the #mentor slack channel, or find an organizer.
 
-- In case of an emergency, please contact an organizer immediately. Emergency information can be found at the end of this document.
+-   In case of an emergency, please contact an organizer immediately. Emergency information can be found at the end of this document.
 
-- We've got a special gift for you, so reach out to Alec Cuc or Gabriel Ting before you leave!
+-   We've got a special gift for you, so reach out to Alec Cuc or Gabriel Ting before you leave!
 
 ## <a name="slack-channels-mentors-and-help"></a>Slack Channels (#mentors and #help)
 
@@ -43,38 +43,38 @@ If you have any additional questions or need to be added to the #mentor channel,
 
 ### <a name="introduction"></a>Introduction
 
-- This year, we have a [Slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU) to help manage mentorship requests! It will live in [#help](https://app.slack.com/client/TPLEGCPGD/CPTME0AJU), [#mentors](https://app.slack.com/client/TPLEGCPGD/GPHQS9SHG), and in DMs.
+-   This year, we have a [Slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU) to help manage mentorship requests! It will live in [#help](https://app.slack.com/client/TPLEGCPGD/CPTME0AJU), [#mentors](https://app.slack.com/client/TPLEGCPGD/GPHQS9SHG), and in DMs.
 
 ### <a name="getting-set-up"></a>Getting set up
 
-- You can select &quot;Direct Messages&quot; in Slack, then [DM the Mentorship_slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU). Type in `!skills help` to see a list of skills that you can select, plus instructions on how to use it.
+-   You can select &quot;Direct Messages&quot; in Slack, then [DM the Mentorship_slackbot](https://app.slack.com/client/TPLEGCPGD/DPW0DHSDU). Type in `!skills help` to see a list of skills that you can select, plus instructions on how to use it.
 
 ![Skills setting](./images/skills_setting.png)
 
-- Set your skills by typing `!skills` and then each skill, space delimited. After setting your skills, you should see the following:
+-   Set your skills by typing `!skills` and then each skill, space delimited. After setting your skills, you should see the following:
 
 ![Skills confirmation](./images/skills_setting2.png)
 
 ### <a name="claiming-requests"></a>Claiming Requests
 
-- In the `#mentors` private channel, you should see the requests from users come in.
+-   In the `#mentors` private channel, you should see the requests from users come in.
 
 ![Sample request](./images/sample_request.png)
 
-- You can then `Claim` the request, which changes the menu to either `Complete`, `Surrender`, or `Delete` the request.
-  - Please do not delete the request unless it is spam.
-  - Surrender the request if you would like any other mentor to be able to claim it.
+-   You can then `Claim` the request, which changes the menu to either `Complete`, `Surrender`, or `Delete` the request.
+    -   Please do not delete the request unless it is spam.
+    -   Surrender the request if you would like any other mentor to be able to claim it.
 
 ![Claiming a request](./images/claiming_request.png)
 
-- Once a mentor claims a session, it will automatically put you in a DM channel with you and the mentorship requestor.
+-   Once a mentor claims a session, it will automatically put you in a DM channel with you and the mentorship requestor.
 
 ![DM Channel](./images/dm_example.png)
 
 ### <a name="final-notes"></a>Final Notes
 
-- Thank you for being a mentor at VandyHacks VI! We're so excited to have you!
-- Credit to HacktheNorth for their incredible bot!
+-   Thank you for being a mentor at VandyHacks VI! We're so excited to have you!
+-   Credit to HacktheNorth for their incredible bot!
 
 ## <a name="interacting-with-hackers"></a>Interacting With Hackers
 
@@ -98,7 +98,7 @@ Free food and drink will be provided. If you have any dietary restrictions, plea
 
 Parking will be provided free of charge at the 25th Avenue Parking Garage located at 2461 Highland Ave, Nashville, TN 37212. Please use the Highland Avenue entrance, located along Highland Ave between 25th Ave S and 24th Ave S. Park in any non-reserved Zone 3 parking space.
 
-![Parking Garage]()
+![Parking Garage](./images/25th-parking.jpg)
 
 ## <a name="venue"></a>Venue
 
@@ -112,4 +112,4 @@ While we don’t expect any serious problems, if you should see anything that re
 
 <br>
 
-_Last Updated: October 31th, 2019_
+_Last Updated: November 1st, 2019_

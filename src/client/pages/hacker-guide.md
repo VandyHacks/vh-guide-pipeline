@@ -79,6 +79,7 @@ We will also be providing a Slack channel (#teamfinding) to help facilitate team
 -   This year, we have a Slackbot to help manage mentorship requests! It will live in [#help](https://app.slack.com/client/TPLEGCPGD/CPTME0AJU) and in DMs. Once you send a request, it will be sent a mentor who can claim your request.
     ![Hacker Welcome Message](./images/mentorbot_hacker_welcome.png)
 -   The bot will automatically put you and your paired mentor in a DM channel for any further discussion.
+    ![DM Channel](./images/dm_example.png)
 
 ## Getting set up
 
@@ -225,7 +226,6 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 -   **Red Ventures Workshop**
 
-
 # <a name="resources"></a>Resources
 
 -   [Prizes, Software, and Hardware Provided by MLH](https://hack.mlh.io/)
@@ -248,4 +248,4 @@ and behind me, the first clue to the hunt will you find._
 
 <br>
 
-_Last Updated: October 31st, 2019_
+_Last Updated: November 1st, 2019_
