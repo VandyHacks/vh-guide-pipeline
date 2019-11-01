@@ -240,7 +240,7 @@ While we don’t expect any serious problems, if you should see anything that re
 
 # <a name="scavenger-hunt"></a>Scavenger Hunt
 
-This year, we have a scavenger hunt! The winners will win special prizes. Here's a hint to get you started.
+This year, we have a scavenger hunt! The winners will win exclusive prizes. Here's a hint to get you started.
 
 _I have no beginning, I have no end,<br>
 Below a spiral of ascension, to me you descend.<br>
