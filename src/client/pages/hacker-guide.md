@@ -190,18 +190,6 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 -   **Tech Talks** - Come learn something new or brush up your hacking skills. Sessions will be held on: Data Science, Front End, [Flask](http://flask.pocoo.org/), [Node.js](https://nodejs.org/en/), [Unity](https://unity3d.com/)/VR, and Cryptography.
 
--   **AllianceBernstein Workshop**
-
--   **Asurion Networking Event**
-
--   **Fulcrum Workshop**
-
--   **Asurion Workshop**
-
--   **BNY Workshop**
-
--   **Red Ventures Workshop**
-
 -   **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa.
 
 -   **Zumba** - Join us as we dance our socks off, there are no judges here!
@@ -225,6 +213,18 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 -   **Karaoke Night** - Let your inner rock star shine!
 
 -   **How to Demo Talk** - Learn how to present your projectâ€™s best face before demoing.
+-   **AllianceBernstein Workshop**
+
+-   **Asurion Networking Event**
+
+-   **Fulcrum Workshop**
+
+-   **Asurion Workshop**
+
+-   **BNY Workshop**
+
+-   **Red Ventures Workshop**
+
 
 # <a name="resources"></a>Resources
 
