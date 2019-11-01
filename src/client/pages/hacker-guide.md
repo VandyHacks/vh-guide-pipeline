@@ -190,19 +190,17 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you�
 
 -   **Tech Talks** - Come learn something new or brush up your hacking skills. Sessions will be held on: Data Science, Front End, [Flask](http://flask.pocoo.org/), [Node.js](https://nodejs.org/en/), [Unity](https://unity3d.com/)/VR, and Cryptography.
 
--   **BOS Sponsor Talk** - _Turn Your Hackathon App Into Business-Ready Software_. Come learn about our framework of APIs and how you can turn your hack idea into a product that's ready for the market.
+-   **AllianceBernstein Workshop**
 
--   **Centene Sponsor Talk** - _How to Be a Differentiator: Technology & Team Skills_. Learn what tech we use to support over 13 million lives, what it takes to get involved, how to be a talent differentiator, and what hiring managers are looking for in new recruits.
+-   **Asurion Networking Event**
 
--   **Tractor Supply Co Sponsor Talk** - _Tractor Supply Data Overview_. Join us for a company overview and a discussion of the kinds of data our engineers work with everyday.
+-   **Fulcrum Workshop**
 
--   **BNY Mellon Sponsor Talk** - _Don’t Git Spooked: Demystifying the Troublesome VCS_. Join us as we discuss the inner mechanics of Git and useful commands for everyday use!
+-   **Asurion Workshop**
 
--   **MicroStrategy Sponsor Talk** - _Predict Flight Delays With Machine Learning and R_. Scott Rigney, the presenter, will be posting workshop materials on a Dropbox page. Please install the latest versions of R and RStudio (both free) on your computer before attending the session.
+-   **BNY Workshop**
 
--   **Fulcrum GT Sponsor Talk** - _Building Web Applications with ReactJS_. We’ll cover the fundamental features of React JS and go over development of your own React app. Presented By: Peter Iordanov
-
--   **Red Ventures Sponsor Talk** - _Intro to Go_. Learn how to build an HTTP API in Go.
+-   **Red Ventures Workshop**
 
 -   **Wellness Night** - Join the VandyHacks team for a relaxing night of massages and a hand spa.
 
