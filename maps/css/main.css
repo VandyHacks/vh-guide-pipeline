@@ -1,0 +1,233 @@
+/* Common CSS, shared by all .md file conversions */
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+.title {
+  color: #2A3D85;
+  font-size: 40px;
+  margin: 30px;
+  text-align: center;
+  font-family: "Open Sans";
+}
+
+img {
+  max-width: 100%;
+}
+
+img::before {
+  text-indent: 0;
+}
+
+strong {
+  /* color: #2A3D85; */
+  font-weight: bold;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+p,
+blockquote,
+table,
+pre {
+  margin: 15px 0;
+  line-height: 1.3;
+}
+
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 1.14rem;
+  background-color: #f9f1e4;
+  margin: 10px 13px 10px 13px;
+}
+table {
+  margin: 10px 0 15px 0;
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid #ddd;
+  padding: 3px 10px;
+}
+th {
+  padding: 5px 10px;
+}
+
+a {
+  /* color: #1a1a1a; */
+  color: #2A3D85;
+  font-weight: bold;
+}
+a:hover {
+  /* color: #1a1a1a; */
+  color: #2A3D85;
+  text-decoration: none;
+}
+a img {
+  border: none;
+}
+p {
+  margin-bottom: 1em;
+  color: #1a1a1a;
+  line-height: 1.5em;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+li a {
+  /* color: #1a1a1a; */
+  color: #2A3D85;
+  /* font-weight: bold; */
+}
+
+li p {
+  margin: 0.5em;
+  padding: 0;
+}
+
+li {
+  line-height: 1.3;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", Arial, sans-serif;
+  line-height: 36px;
+  color: rgb(130, 153, 236);
+}
+h1 {
+  margin-bottom: 18px;
+  font-size: 30px;
+  margin-top: 1.3em;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 18px;
+}
+h4 {
+  font-size: 16px;
+}
+h5 {
+  font-size: 14px;
+}
+h6 {
+  font-size: 13px;
+}
+hr {
+  margin: 0 0 19px;
+  border: 0;
+  border-bottom: 1px solid #ccc;
+}
+blockquote {
+  padding: 13px 13px 21px 15px;
+  margin-bottom: 18px;
+  font-family: georgia, serif;
+  font-style: italic;
+}
+blockquote:before {
+  content: "\201C";
+  font-size: 40px;
+  margin-left: -10px;
+  font-family: georgia, serif;
+  color: #eee;
+}
+blockquote p {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 18px;
+  margin-bottom: 0;
+  font-style: italic;
+}
+code,
+pre {
+  font-family: Monaco, Andale Mono, Courier New, monospace;
+}
+code {
+  background-color: #fee9cc;
+  color: rgba(0, 0, 0, 0.75);
+  padding: 1px 3px;
+  font-size: 12px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+pre {
+  display: block;
+  padding: 14px;
+  margin: 0 0 18px;
+  line-height: 16px;
+  font-size: 11px;
+  border: 1px solid #d9d9d9;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+pre code {
+  background-color: #fff;
+  color: #737373;
+  font-size: 11px;
+  padding: 0;
+}
+sup {
+  font-size: 0.83em;
+  vertical-align: super;
+  line-height: 0;
+}
+* {
+  -webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+  body {
+    width: 854px;
+    margin: 10px auto;
+  }
+}
+
+/* smaller font on mobile */
+@media screen and (max-width: 640px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Lato", Arial, sans-serif;
+    color: #2A3D85;
+    line-height: 30px;
+  }
+  h1 {
+    margin-bottom: 18px;
+    font-size: 24px;
+    margin-top: 1.3em;
+  }
+  p {
+    font-size: 0.8em;
+  }
+}
+@media print {
+  table,
+  pre {
+    page-break-inside: avoid;
+  }
+}
+
+footer {
+  padding: 15px 0;
+}
+
