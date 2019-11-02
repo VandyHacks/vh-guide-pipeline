@@ -117,7 +117,24 @@ Closing ceremony will be held in the [Student Life Center](https://goo.gl/maps/U
 
 # <a name="prizes"></a>Prizes
 
-The complete list of prizes will be announced at the Opening Ceremony. Stay tuned for some amazing surprises!
+The complete list of prizes is coming soon. Stay tuned for some amazing surprises!
+
+-   **Masterpiece (4)** - 4K OSMO Pocket: a smarter, better version of the GoPro; awarded to the best project all around.
+
+-   **Runner Up Masterpiece (4)** - Nintendo Switch Lite, awarded to the second best project all around.
+
+-   **A Code of Art (4)** - One by Wacom Graphic Drawing Tablet, awarded to the most stylistically inspiring project.
+
+-   **Workshop Warrior (4)** - KOPACK Lightweight Laptop Backpack, awarded to the best hack utilizing a tool or tech taught in a workshop. Winners must have attended the corresponding workshop.
+
+-   **Code For Good (4)** - Awarded to the best hack dedicated to social good, these hackers can pick their charity of choice to donate to.
+
+-   **Zero to Hero (4)** - Polaroid Camera (Fujifilm Instax Mini 9 Instant Camera), awarded to the best hack from a team with minimal to no prior experience.
+
+-   **Scavenger Hunt Winners (10)** - These winners will receive *artful* prizes for their zeal and dedication to completing the scavenger hunt!
+
+-   **The "We Couldn't Think of Design Name" Prize** - Tech case organizer; come to the typing competition at noon on Saturday, November 2nd for a chance at winning this prize!
+
 
 ---
 
