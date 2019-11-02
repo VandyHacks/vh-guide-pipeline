@@ -173,6 +173,8 @@ Closing ceremony will be held in the [Student Life Center](https://goo.gl/maps/U
 
 You have a project, mock up, slide deck, demo, anything! You will be submitting hard work online via [Devpost](https://vandyhacksvi.devpost.com). All submissions are due by 9AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project, along with what prizes your project is eligible to win. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
+To submit your design for Best design incorporating a VH logo, please fill out this [form](https://forms.gle/zjMF9N9tyWTbD3pZ8)
+
 # <a name="presenting-your-project"></a>Presenting Your Project
 
 After everyone has submitted their project, you will get a chance to present yours during the expo round! The expo will take place in the Wond’ry starting at 10:00 AM on Sunday. Your team will be assigned a table number, so make sure you get to your table early so that you can smooth out any technical difficulties. We’ll have power strips ready for you, but be sure to have a demo and your pitch planned out. If you’re not sure how to demo, don’t worry! We’ll be hosting a "How To Demo" talk from 9-10 AM Sunday teaching you how to present your project to judges and other hackers.
