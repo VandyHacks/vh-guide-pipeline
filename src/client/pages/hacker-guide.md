@@ -117,8 +117,6 @@ Closing ceremony will be held in the [Student Life Center](https://goo.gl/maps/U
 
 # <a name="prizes"></a>Prizes
 
-The complete list of prizes is coming soon. Stay tuned for some amazing surprises!
-
 -   **Masterpiece (4)** - 4K OSMO Pocket: a smarter, better version of the GoPro; awarded to the best project all around.
 
 -   **Runner Up Masterpiece (4)** - Nintendo Switch Lite, awarded to the second best project all around.
@@ -135,6 +133,37 @@ The complete list of prizes is coming soon. Stay tuned for some amazing surprise
 
 -   **The "We Couldn't Think of Design Name" Prize** - Tech case organizer; come to the typing competition at noon on Saturday, November 2nd for a chance at winning this prize!
 
+-   **Most Innovative Use of Public Info for Sustainbility Goals, Presented by AllianceBernstein (4)** - Awarded to the Most Innovative Use of Public Information to rank companies on their progress toward the UN sustainable development goals. Winners get $50 gift cards and guaranteed interviews. 
+
+-   **Best Expo Pitch, Presented by Macy's Tech (4)** - Awarded to the best prsentation at the exposition. Winners get $100 Macy's gift card. 
+
+
+-   **Hillman's Hardware Challenge, Presented by Hillman (4)** - Using Hillman's prototype hand scanner (which you can check out from their sponsor booth), build a scanner for measuring hand size for Hillman's personal-protection gloves product line, using machine learning. Winners get Raspberry Pi 4 kit. 
+
+-   **Best Financial Literacy Hack, Presented by Vanguard (4)** - Build a technology to help increase financial literacy to educate low-income families on their financial health. Winners get Vanguard blankets. 
+
+-   **Most Outside the Box Hardware Hack, Presented by BNY Mellon (4)** - Build the most creative and outside the box hardware hack. Winners get Raspberry Pi kits. 
+
+-   **Best Use of GIPHY SDK, Presented by GIPHY Engineering (4)** -Build the best project using GIPHY SDK. Winners get 3D printing pen. 
+
+-   **Best Geospatial Application, Presented by L3 ForceX** - Awarded to the best project with the geospatial applications. Winners get L3 backpacks with swag. 
+
+-   **Reimagine Banking Challenge, Presented by Capital One (4)** - Awarded to the most innovative banking application. Winners get $250 Amazon gift cards.
+
+-   **Stop by Fulcrum Booth on the 2nd Floor - Raffle Prizes** - Stop by the Fulcrum booth on the 2nd floor to enter a raffle to win the following:
+
+    Grand Prize - Boosted Board Mini X
+    2nd Place - 64GB iPhone 11 Pro Max
+    3rd Place - Sony Wireless Stereo Headsets
+    4th Place - Silver Apple Watch
+    5th Place - Google Pixel 4 XL
+    6th Place - Google Pixel 4
+    7th Place - iPhone 11
+
+-   **Best Domain Name from Domain.com** - Domain.com branded backpack for each team member. 
+
+-   **Stop by RedVenture's Booth on the 1st Floor - Raffle Prizes!** - Check in at RV's booth to enter their raffle to win Amazon Echoes or Google Home Minis!
+ 
 
 ---
 
