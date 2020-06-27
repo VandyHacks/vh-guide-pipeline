@@ -31,7 +31,7 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 3, so you will need to set you
 - [<a name="prizes"></a>Prizes](#a-name%22prizes%22aprizes)
 - [<a name="submitting-your-project"></a>Submitting Your Project](#a-name%22submitting-your-project%22asubmitting-your-project)
 - [<a name="presenting-your-project"></a>Presenting Your Project](#a-name%22presenting-your-project%22apresenting-your-project)
-- [<a name="buses"></a>Buses](#a-name%22buses%22abuses)
+- [<a name="nonprofits"></a>Non-profit Externship](#nonprofits)
 - [<a name="reimbursements"></a>Reimbursements](#a-name%22reimbursements%22areimbursements)
 - [<a name="parking"></a>Parking](#a-name%22parking%22aparking)
 - [<a name="venue"></a>Venue](#a-name%22venue%22avenue)
@@ -105,6 +105,35 @@ Free food and drink will be provided. If you have any dietary restrictions, plea
 
 Showers will be provided at our venue on Saturday afternoon on each floor. Signup sheets will be posted on the doors. Shampoo and body wash will be provided inside each shower. Shower times will be limited to 15 minutes.
 
+
+# <a name="nonprofits" id="nonprofits"></a>Hack-for-Good Non-profit Externships
+
+VandyHacks helps developers and non-profits collaborate in the form of an externship to solve non-profit’s problem.  Externship would be an excellent summer opportunity to build a meaningful project that would benefit the community. Hackers will start working on projects during the hackathon and will be judged on progress made on one of the projects during the weekend. After the hackathon, hackers will be working on completing the project to the production level for chosen non-profit. This year, we are partnering with the following non-profit organizations to match chosen hackers with real-life projects: 
+
+<hr/>
+
+## Nashville Entrepreneurship Center
+Nashville Entrepreneurship Center is a non-profit, working towards building a robust entrepreneurial network in Nashville. The project they need help with is building a centralized database of resources in Nashville and an automated recommendation system for local start-ups.
+
+## Nashville Public Library Foundation
+The Nashville Public Library Foundation raises funds for the local public library system in order to ensure equitable literacy for all. Their project involves building a user-friendly data visualization tool and dashboard that allows them to better track their online engagement metrics.
+
+## The Next Door
+The Next Door offers a safe place for women to receive treatment for drug and alcohol abuse. Their project involves building a new event-tracking software such that they can better track information about their volunteer and sponsor networks.
+
+## Hands-On Nashville
+Hands on Nashville connects volunteers to opportunities supporting 100+ non-profits, schools, and other civic organizations. They are looking to build a platform to easily communicate with and manage volunteers and track attendance of their events. 
+
+## Sexual Assault Center
+The Sexual Assault Center is dedicated to providing healing for children, adults, and families affected by sexual assault. They are looking for 1) a dashboard application for entering and compiling data and 2) a mobile app for appointment check-ins and paperwork.
+
+<hr/>
+
+An externship with a non-profit is a great chance to get professional experience of solving a problem of an organization and developing a fully functional solution. By directly communicating with the end user (the non-profit), you will enhance your skills of understanding the problem and finding creative ways to tackle the issue. The software you will develop and the collaboration with the non-profit will be great things to add into your portfolio and resume. With all of this, your work significantly benefits the community!
+
+If you are interested in proceeding with a non-profit project and an externship matching process, please fully read this [detailed explanation](https://docs.google.com/document/d/13WCPxi8P0_-wx7Cuo60SUuLI1GTgyR2rY379GzL583A/edit?usp=sharing) and reach out to one of the organizers (Saydolim#5874) in our Discord. We will provide a detailed description of each project to chosen hackers, as well as have a video-conference with non-profit representatives. 
+
+
 # <a name="opening-ceremony"></a>Opening Ceremony
 
 Opening ceremony will be held at [Langford Auditorium](https://goo.gl/maps/JXk7dR27UZ22). You’ll hear from our sponsors and get all of the logistics for the weekend. We’ll cover what a hackathon is, how to get the most out of your weekend, prizes, mentors, and hardware. By the end of the opening ceremony, you’ll have everything you need to get hacking!
@@ -133,19 +162,7 @@ In order to encourage people to check out other teams’ projects, we require th
 
 During the expo, judges will be walking around to score your project. This is when they will pick the prize category winners for the weekend (and winners of our sponsor categories), so be friendly, have a demo ready, and be prepared to answer any questions they ask you!
 
-# <a name="buses"></a>Buses
 
-This year, we have three bus routes, which are:
-
-Blue Bus: Purdue (West Lafayette) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76710004689)
-Red Bus: GTech (Atlanta) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76708299589)
-Green Bus: Illinois Institute of Tech (Chicago) > UIUC (Champaign) > Vanderbilt (Nashville) [Details here](https://www.eventbrite.com/e/76706281553)
-
-Code for eventbrite: vh2019b
-
-We will not be allowing any walk-ins this year.
-
-If you have any questions, email us at [travel@vandyhacks.org](mailto:travel@vandyhacks.org).
 
 # <a name="reimbursements"></a>Reimbursements
 
