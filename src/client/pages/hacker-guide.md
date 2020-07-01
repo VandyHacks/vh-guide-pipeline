@@ -111,9 +111,9 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 -   **Skribbl.io** - Have some mad drawing and/or guessing skills? Or don't? Either way, join us for a fun game of Skribbl!
 
--   **Open-saurus Rex** - Want to learn about Open Source and JavaScript through the Chrome Dino game? Come to the beginner-level workshop to learn about web technology and make a game in the process! Learn more at: [Workshops & Hackpacks | VandyHacks VI](https://learn.vandyhacks.org/)
+-   **Open-saurus Rex** - Want to learn about Open Source and JavaScript through the Chrome Dino game? Come to the beginner-level workshop to learn about web technology and make a game in the process! Learn more at: [Workshops & Hackpacks](https://learn.vandyhacks.org/)
 
--   **SlackBot Workshop** - Come by to learn about auth, registration, deployment, and the creation of a SlackBot that you can use in your own workspaces. Learn more at: [Workshops & Hackpacks | VandyHacks VI](https://learn.vandyhacks.org/)
+-   **SlackBot Workshop** - Come by to learn about auth, registration, deployment, and the creation of a SlackBot that you can use in your own workspaces. Learn more at: [Workshops & Hackpacks](https://learn.vandyhacks.org/)
 
 # <a name="resources"></a>Resources
 
