@@ -39,7 +39,7 @@ If you'd like to participate in baking lemon bars, one of our mini events, pleas
 -   2 eggs
 -   1 lemon
 
-# <a name="how-to-prepare"></a>How to Prepare
+If you'd like to participate in baking lemon bars, one of our mini events, please ensure that you have these 5 ingredients:
 
 -   Read this guide completely. Make sure you go over the schedule and hop on the Discord. The Discord will be our main mode of communication, so make sure you're checking it!
 
@@ -47,20 +47,24 @@ If you'd like to participate in baking lemon bars, one of our mini events, pleas
 
 -   Join the VandyHacks Facebook event [here](https://facebook.com/events/s/vandyhacks-summer-edition/2701703253481744/?ti=icl). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends. The event page is here.
 
+
 -   Look at previous projects. All of the projects from VandyHacks I, II, III, IV, and V can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), [VHV](https://vandyhacksv.devpost.com/submissions), and [VHVI](https://vandyhacksvi.devpost.com/submissions).
 
 # <a name="finding-a-team"></a>Finding a Team
 
 There are a couple of ways to find a team. You can join our [Team Matching Group on Facebook](https://www.facebook.com/groups/723097038207924), and you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
 
+
 We will also be providing a Discord channel (#teamfinding) to help facilitate team creation or you can attend the team finding session right after the opening ceremony. 
 
 
 # <a name="non-profits" id="non-profits"></a>Hack-for-Good Non-profit Externships
 
+
 VandyHacks helps developers and non-profits collaborate in the form of an externship to solve non-profit’s problem.  Externship would be an excellent summer opportunity to build a meaningful project that would benefit the community. Hackers will start working on projects during the hackathon and will be judged on progress made on one of the projects during the weekend. After the hackathon, hackers will be working on completing the project to the production level for chosen non-profit. This year, we are partnering with the following non-profit organizations to match chosen hackers with real-life projects: 
 
 <hr/>
+
 
 ## Nashville Entrepreneurship Center
 Nashville Entrepreneurship Center is a non-profit, working towards building a robust entrepreneurial network in Nashville. The project they need help with is building a centralized database of resources in Nashville and an automated recommendation system for local start-ups.
@@ -124,6 +128,7 @@ Closing ceremony will be streamed on Twitch at 10:30 AM CT. The presentations of
 # <a name="submitting-your-project"></a>Submitting Your Project
 
 Please create no more than a 1.5 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface. Please make sure that judges will be able to throughly understand your project, as you will no have the opportunity to answer questions.
+
 
 You will be submitting your video online via [Devpost](https://vandyhacks-summer-edition.devpost.com/). All submissions are due by 8AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
