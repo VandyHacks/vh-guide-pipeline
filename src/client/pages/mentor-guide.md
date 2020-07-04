@@ -77,6 +77,7 @@ Most students will spend Friday night thinking of their idea or mapping out thei
 ## <a name="final-notes"></a>Final Notes
 
 Thank you for being a mentor at VandyHacks: Summer Edition! We're so excited to have you!
+
 Credit to eartharoid for their incredible bot! Their repository of code can be found [here](https://github.com/eartharoid/DiscordTickets).
 
 <br>
