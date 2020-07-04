@@ -66,7 +66,7 @@ INSERT ADD IMAGE
 
 ## <a name="interacting-with-hackers"></a>Interacting With Hackers
 
-This year, mentors and hackers will be given different roles on the server. To quickly check roles, click on the "Member List" button on the top-right corner of Discord. Please don’t feel confined to only assisting students who have asked for help in `#tickets`. Many students who need help won’t ask openly because they feel like their problem is “too small to bother someone with” or “embarrassingly simple.” If you find someone who might need some assistance, feel free to introduce yourself and strike up a conversation with them! As a mentor, you can refer people to the `#tickets` channel and continue to help them from there.
+This year, mentors and hackers will be given different roles on the server. To quickly check roles, click on the "Member List" button in the top-right corner of Discord. Please don’t feel confined to only assisting students who have asked for help in `#tickets`. Many students who need help won’t ask openly because they feel like their problem is “too small to bother someone with” or “embarrassingly simple.” If you find someone who might need some assistance, feel free to introduce yourself and strike up a conversation with them! As a mentor, you can refer people to the `#tickets` channel and continue to help them from there.
 
 ## <a name="when-should-you-be-here"></a>When Should You Be Here?
 
@@ -76,8 +76,8 @@ Most students will spend Friday night thinking of their idea or mapping out thei
 
 ## <a name="final-notes"></a>Final Notes
 
--   Thank you for being a mentor at VandyHacks: Summer Edition! We're so excited to have you!
--   Credit to eartharoid for their incredible bot! Their repository of code can be found [here](https://github.com/eartharoid/DiscordTickets).
+Thank you for being a mentor at VandyHacks: Summer Edition! We're so excited to have you!
+Credit to eartharoid for their incredible bot! Their repository of code can be found [here](https://github.com/eartharoid/DiscordTickets).
 
 <br>
 
