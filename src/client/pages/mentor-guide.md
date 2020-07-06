@@ -53,7 +53,7 @@ VandyHacks will be utilizing a Discord server to help organize our virtual hacka
 
 ![Individual channel](https://github.com/VandyHacks/vh-guide-pipeline/blob/summer2020/mentor_guide/mentor/images/individual_ticket_channel.png)
 
--   Once inside the desired channel, type `!claim` to let people know that the request has been claimed by you.
+-   Once inside the desired channel, type `!claim` to inform the hacker that you'll be helping them. You can also send a message in #tickets to inform other mentors that the request has been claimed.
 
 
 ### <a name="closing-requests"></a>Closing Requests
