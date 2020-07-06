@@ -12,6 +12,7 @@ Our live schedule page is coming soon! In the meantime, we've created a Google C
 -   [<a name="what-to-bring"></a>What to Have on Hand](#what-to-have-on-hand)
 -   [<a name="how-to-prepare"></a>How to Prepare](#how-to-prepare)
 -   [<a name="finding-a-team"></a>Finding a Team](#finding-a-team)
+-   [<a name="non-profits"></a>Non-profit Externship](#non-profits)
 -   [<a name="getting-help"></a>Getting Help](#getting-help)
     -   [Introduction](#introduction)
     -   [Getting set up](#getting-set-up)
@@ -31,12 +32,12 @@ A hackathon is a sprint of innovation. The purpose is to meet new friends, learn
 # <a name="what-to-bring"></a>What to Have on Hand
 
 If you'd like to participate in baking lemon bars, one of our mini events, please ensure that you have these 5 ingredients:
+
 -   1/2 cup butter
 -   1.5 cup white sugar
 -   4 tbsp all purpose flour
 -   2 eggs
 -   1 lemon
-
 
 # <a name="how-to-prepare"></a>How to Prepare
 
@@ -52,19 +53,56 @@ If you'd like to participate in baking lemon bars, one of our mini events, pleas
 
 There are a couple of ways to find a team. You can join our [Team Matching Group on Facebook](https://www.facebook.com/groups/723097038207924), and you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
 
+
+We will also be providing a Discord channel (#teamfinding) to help facilitate team creation or you can attend the team finding session right after the opening ceremony. 
+
+
+# <a name="non-profits" id="non-profits"></a>Hack-for-Good Non-profit Externships
+
+
+VandyHacks helps developers and non-profits collaborate in the form of an externship to solve non-profit’s problem.  Externship would be an excellent summer opportunity to build a meaningful project that would benefit the community. Hackers will start working on projects during the hackathon and will be judged on progress made on one of the projects during the weekend. After the hackathon, hackers will be working on completing the project to the production level for chosen non-profit. This year, we are partnering with the following non-profit organizations to match chosen hackers with real-life projects: 
+
+<hr/>
+
+
+## Nashville Entrepreneurship Center
+Nashville Entrepreneurship Center is a non-profit, working towards building a robust entrepreneurial network in Nashville. The project they need help with is building a centralized database of resources in Nashville and an automated recommendation system for local start-ups.
+
+## Nashville Public Library Foundation
+The Nashville Public Library Foundation raises funds for the local public library system in order to ensure equitable literacy for all. Their project involves building a user-friendly data visualization tool and dashboard that allows them to better track their online engagement metrics.
+
+## The Next Door
+The Next Door offers a safe place for women to receive treatment for drug and alcohol abuse. Their project involves building a new event-tracking software such that they can better track information about their volunteer and sponsor networks.
+
+## Hands-On Nashville
+Hands on Nashville connects volunteers to opportunities supporting 100+ nonprofits, schools, and other civic organizations. They are looking to build a platform to easily communicate with and manage volunteers and track attendance of their events. 
+
+## Sexual Assault Center
+The Sexual Assault Center is dedicated to providing healing for children, adults, and families affected by sexual assault. They are looking for 1) a dashboard application for entering and compiling data and 2) a mobile app for appointment check-ins and paperwork.
+
+## Water Walkers
+Water Walkers aims to bring hope to Nashville’s inner-city through watersports and education. Their project is a web-based solution to tracking attendance and storing and quickly accessing student information. 
+
+<hr/>
+
+An externship with a non-profit is a great chance to get professional experience of solving a problem of an organization and developing a fully functional solution. By directly communicating with the end user (the non-profit), you will enhance your skills of understanding the problem and finding creative ways to tackle it. The software you will develop and the collaboration with the non-profit will be great things to add into your portfolio and resume. With all of this, your work significantly benefits the community!
+
+If you are interested in proceeding with a non-profit project and an externship matching process, please fully read this [documentation](https://docs.google.com/document/d/13WCPxi8P0_-wx7Cuo60SUuLI1GTgyR2rY379GzL583A/edit?usp=sharing), gather a team, and submit an [application](https://forms.gle/UKaQ2hZdiM756XW99). We will provide a detailed description of each project to chosen hackers, as well as have a video-conference with non-profit representatives. 
+
+
 We will also be providing a Discord channel (#teamfinding) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
 
 # <a name="getting-help"></a>Getting Help
 
 ## Introduction
 
-
 -   This year, we have a Discord bot to help manage mentorship requests! It will live in #mentors and in DMs. Once you send a request, it will be sent a mentor who can claim your request.
     ![Hacker Welcome Message](./images/mentorbot_hacker_welcome.png)
 -   The bot will automatically put you and your paired mentor in a DM channel for any further discussion.
     ![DM Channel](./images/dm_example.png)
-    
- ## Getting set up
+
+## Getting set up
+
 -   You can select "Direct Messages" in Discord, then DM the Mentorship Discord bot. The bot will ping you if you need help.
 -   Click the I need a mentor button. A form will pop up, as shown below.
     ![Hacker Welcome Mentor Form](./images/mentorbot_hacker_request.png)
@@ -76,7 +114,7 @@ We will also be providing a Discord channel (#teamfinding) to help facilitate te
 # <a name="opening-ceremony"></a>Opening Ceremony
 
 
-Opening ceremony will be streamed on Twitch at 7:45 PM CT on July 10th. We will give a quick welcome to hackers and an overview of the weekend. 
+Opening ceremony will be streamed on Twitch at 7:45 PM CT on July 10th. We will give a quick welcome to hackers and an overview of this weekend.
 
 # <a name="closing-ceremony"></a>Closing Ceremony
 
@@ -90,16 +128,15 @@ Closing ceremony will be streamed on Twitch at 10:30 AM CT. The presentations of
 
 # <a name="submitting-your-project"></a>Submitting Your Project
 
-Please create no more than a 1.5 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface. Please make sure that judges will be able to throughly understand your project, as you will no have the opportunity to answer questions. 
+Please create no more than a 1.5 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface. Please make sure that judges will be able to throughly understand your project, as you will no have the opportunity to answer questions.
 
-You will be submitting your video online via [Devpost](https://vandyhacksvi.devpost.com). All submissions are due by 8 AM CST on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
+You will be submitting your video online via [Devpost](https://vandyhacks-summer-edition.devpost.com/). All submissions are due by 8 AM CST on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
 # <a name="code-of-conduct"></a>Code of Conduct
 
 By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, ours can be found [here](https://docs.google.com/document/u/1/d/e/2PACX-1vTp2I1khNKtBcwRYmfhmeetPBLvaSt4GpFA2jxpQgzA5y85yQ7TMRtZelaoxVr-L9z2zL-8iawg8-h8/pub), and MLH's can be found [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
 
 # <a name="event-descriptions"></a>Event Descriptions
-* You can find all event links in the Discord
 
 -   You can find all event links in the Discord
 
