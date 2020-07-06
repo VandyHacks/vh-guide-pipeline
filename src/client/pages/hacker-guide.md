@@ -31,12 +31,12 @@ A hackathon is a sprint of innovation. The purpose is to meet new friends, learn
 # <a name="what-to-bring"></a>What to Have on Hand
 
 If you'd like to participate in baking lemon bars, one of our mini events, please ensure that you have these 5 ingredients:
-
 -   1/2 cup butter
 -   1.5 cup white sugar
 -   4 tbsp all purpose flour
 -   2 eggs
 -   1 lemon
+
 
 # <a name="how-to-prepare"></a>How to Prepare
 
@@ -44,7 +44,7 @@ If you'd like to participate in baking lemon bars, one of our mini events, pleas
 
 -   Join our Discord [here](https://discord.gg/gJaYFas). We’ll be using Discord for important announcements, live updates, mini event coordination, connecting with non profit orgs, and connecting you with our technical mentors. This is also a great space to chat with other hackers!
 
--   Join the VandyHacks Facebook event [here](https://facebook.com/events/s/vandyhacks-summer-edition/2701703253481744/?ti=icl). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends. The event page is here.
+-   Join the VandyHacks Facebook event [here](https://facebook.com/events/s/vandyhacks-summer-edition/2701703253481744/?ti=icl). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends.
 
 -   Look at previous projects. All of the projects from VandyHacks I, II, III, IV, and V can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), [VHV](https://vandyhacksv.devpost.com/submissions), and [VHVI](https://vandyhacksvi.devpost.com/submissions).
 
@@ -58,13 +58,13 @@ We will also be providing a Discord channel (#teamfinding) to help facilitate te
 
 ## Introduction
 
+
 -   This year, we have a Discord bot to help manage mentorship requests! It will live in #mentors and in DMs. Once you send a request, it will be sent a mentor who can claim your request.
     ![Hacker Welcome Message](./images/mentorbot_hacker_welcome.png)
 -   The bot will automatically put you and your paired mentor in a DM channel for any further discussion.
     ![DM Channel](./images/dm_example.png)
-
-## Getting set up
-
+    
+ ## Getting set up
 -   You can select "Direct Messages" in Discord, then DM the Mentorship Discord bot. The bot will ping you if you need help.
 -   Click the I need a mentor button. A form will pop up, as shown below.
     ![Hacker Welcome Mentor Form](./images/mentorbot_hacker_request.png)
@@ -75,7 +75,8 @@ We will also be providing a Discord channel (#teamfinding) to help facilitate te
 
 # <a name="opening-ceremony"></a>Opening Ceremony
 
-Opening ceremony will be streamed on Twitch at 7:45 PM CT on July 10th. We will give a quick welcome to hackers and an overview of this weekend.
+
+Opening ceremony will be streamed on Twitch at 7:45 PM CT on July 10th. We will give a quick welcome to hackers and an overview of the weekend. 
 
 # <a name="closing-ceremony"></a>Closing Ceremony
 
@@ -89,15 +90,16 @@ Closing ceremony will be streamed on Twitch at 10:30 AM CT. The presentations of
 
 # <a name="submitting-your-project"></a>Submitting Your Project
 
-Please create no more than a 1.5 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface. Please make sure that judges will be able to throughly understand your project, as you will no have the opportunity to answer questions.
+Please create no more than a 1.5 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface. Please make sure that judges will be able to throughly understand your project, as you will no have the opportunity to answer questions. 
 
-You will be submitting your video online via [Devpost](https://vandyhacks-summer-edition.devpost.com/). All submissions are due by 8AM on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
+You will be submitting your video online via [Devpost](https://vandyhacksvi.devpost.com). All submissions are due by 8 AM CST on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
 # <a name="code-of-conduct"></a>Code of Conduct
 
 By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you’d like to review the Code of Conduct, ours can be found [here](https://docs.google.com/document/u/1/d/e/2PACX-1vTp2I1khNKtBcwRYmfhmeetPBLvaSt4GpFA2jxpQgzA5y85yQ7TMRtZelaoxVr-L9z2zL-8iawg8-h8/pub), and MLH's can be found [here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
 
 # <a name="event-descriptions"></a>Event Descriptions
+* You can find all event links in the Discord
 
 -   You can find all event links in the Discord
 
