@@ -35,7 +35,7 @@ VandyHacks will be utilizing a Discord server to help organize our virtual hacka
 
 ### Introduction
 
--   This year, we have a Mentorship Ticket Bot on our Discord server to help manage mentorship requests! It lives in every channel and can be DMed as well. Hackers can create help requests that will be visible to mentors in the `#tickets` channel.
+-   This year, we have a Mentorship Ticket Bot on our Discord server to help manage mentorship requests! It lives in every channel. Hackers can create help requests that will be visible to mentors in the `#tickets` channel.
 
 ### Getting Set Up
 

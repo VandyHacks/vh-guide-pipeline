@@ -101,17 +101,16 @@ If you are interested in proceeding with a non-profit project and an externship 
 
 ## Introduction
 
--   This year, we have a Discord bot to help manage mentorship requests! It will live in `#mentors` and in DMs. Once you send a request, it will be sent all mentors who can view and choose to claim the request. If you ever need a rundown of the bot's commands, type `!help`.
+-   This year, we have a Discord bot to help manage mentorship requests! It will live in `#mentors`. Once you send a request, it will be sent all mentors who can view and choose to claim the request. If you ever need a rundown of the bot's commands, type `!help`.
     ![Mentorship Bot Commands](./images/ticket_commands.png)
 
 ## Getting set up
 
--   You can select "Direct Messages" in Discord, then DM the Mentorship Discord bot. The bot will ping you if you need help.
+-   You can select `#mentors` in Discord and ping the Mentorship Discord bot.
 -   Type `!new` and summarize your issue, and the bot will automatically create a private channel for it. Any mentor can enter this channel for further discussion.
     ![Summarizing issue](./images/ticket_creation.png)
     ![Individual channel](./images/hacker_individual_ticket_channel.png)
 - <ins>Important Note:</ins> Once you and a mentor have resolved an issue, the mentor will use the `!close` command to resolve the issue. To prevent server spam, <ins>closing an issue deletes all records of the request channel</ins>. We highly suggest you take a screenshot or copy any relevant information you might need for later.
-    ![Hacker Welcome Mentor Form](./images/mentorbot_hacker_request.png)
 
 ## Final Notes
 
