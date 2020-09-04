@@ -8,7 +8,7 @@ For a live schedule and important info, head over to our [day-of page](https://s
 
 -   [tl;dr](#tldr)
 -   [Discord](#discord)
-    -   [Key Points](#key-points)
+    -   [Server Structure](#server-structure)
 -   [Interacting With Hackers](#interacting-with-hackers)
 -   [When Should You Be Here?](#when-should-you-be-here)
 -   [Final Notes](#final-notes)
@@ -25,19 +25,19 @@ First of all, thank you so much for dedicating your time to being a mentor! We w
 
 ## Discord
 
-VandyHacks will be utilizing a Discord server to help organize our virtual hackathon. If you're new to Discord, we recommend [this guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) to familiarize yourself with the application! We've also provided a few key points below.
+VandyHacks will be utilizing a Discord server to help organize our virtual hackathon. If you're new to Discord, we recommend [this guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) to familiarize yourself with the application!
 
-### Key Points
+### Server Structure
 
 -   Most of the hackers will post their questions in the `#help` channel. Feel free to respond in the channel by pinging the hacker in question.
 
--   We've also provided several voice/video rooms. Hop into one whenever you need to chat or show something to the hackers! During VandyHacks: Summer Edition, our mentors resolved many hacker questions in these rooms.
+-   We've also provided several voice/video rooms. Hop into one whenever you need to chat or show something to the hackers! During VandyHacks: Summer Edition, many mentors used this room to follow up on hacker questions.
 
 -   If you have private questions for the organizers or other fellow mentors, put them in the `#mentors-private` channel.
 
 ## Interacting With Hackers
 
-This year, mentors and hackers will be given different roles on the server. To quickly check roles, click on the "Member List" button in the top-right corner of Discord. Please don’t feel confined to only assisting students who have asked for help in `#tickets`. Many students who need help won’t ask openly because they feel like their problem is “too small to bother someone with” or “embarrassingly simple.” If you find someone who might need some assistance, feel free to introduce yourself and strike up a conversation with them! As a mentor, you can ask people to hop into a Discord room from there.
+This year, mentors and hackers will be given different roles on the server. To quickly check roles, click on the "Member List" button in the top-right corner of Discord. Please don’t feel confined to only assisting students who have asked for help in `#help`. Many students who need help won’t ask openly because they feel like their problem is “too small to bother someone with” or “embarrassingly simple.” If you find someone who might need some assistance, feel free to introduce yourself and strike up a conversation with them! As a mentor, you can ask people to hop into a Discord room from there.
 
 ## When Should You Be Here?
 
