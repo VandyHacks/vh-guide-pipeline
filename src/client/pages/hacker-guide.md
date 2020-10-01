@@ -2,7 +2,7 @@ This guide is a list of everything you need to know to have the best possible vi
 
 ## Dear Hacker,
 
-We’re super excited to have you at our VandyHacks Summer Hackathon from [October 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org) or message us on [Facebook](https://www.facebook.com/vandyhacks).
+We’re super excited to have you at VandyHacks VII: Retro Edition Hackathon from [October 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org) or message us on [Facebook](https://www.facebook.com/vandyhacks).
 
 Please note that this guide is still a work in progress. Now, let's jump right into things!
 
@@ -53,13 +53,13 @@ Icing
 
 -   Join the VandyHacks Facebook event [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fvandyhacks.org%2F%3Ffbclid%3DIwAR2m0dKbw41LrhgLNDzAzzgyTzJf4ANyT27DyNKKV-utstKi05OXMeZNrUU&h=AT1BNfLGsu4q_IPGpZV79FhnFCUyI2KwbwL5Oeqo74z8jP25rWY2Kh4UucAGExK1LSC0dU45LcxbrmJrx3Lv3XUy6U9D87y6Jy6goiVpQasRUJiwue23xFL1PRWPAea21W5Xh3UziEyBuwU-v0I). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends.
 
--   Look at previous projects. All of the projects from VandyHacks I, II, III, IV, and V can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), [VHV](https://vandyhacksv.devpost.com/submissions), [VHVI](https://vandyhacksvi.devpost.com/submissions), and [VH Summer](https://vandyhacks-summer-edition.devpost.com/).
+-   Look at previous projects. All of the projects from VandyHacks I, II, III, IV, V, VI, and Summer Edition can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), [VHV](https://vandyhacksv.devpost.com/submissions), [VHVI](https://vandyhacksvi.devpost.com/submissions), and [VH Summer](https://vandyhacks-summer-edition.devpost.com/).
 
 # <a name="finding-a-team"></a>Finding a Team
 
 There are a couple of ways to find a team. You can join our [Team Matching Group on Facebook](_____), and you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
 
-We will also be providing a Discord channel (#teamfinding) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
+We will also be providing a Discord channel (#team-matching) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
 
 # <a name="getting-help"></a>Getting Help
 
