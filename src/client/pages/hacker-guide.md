@@ -24,11 +24,11 @@ Please note that this guide is still a work in progress. Now, let's jump right i
 -   [Event Descriptions](#event-descriptions)
 -   [Resources](#resources)
 
-# <a name="what-is-a-hackathon"></a>What is a Virtual Hackathon?
+# <a name="what-is-a-virtual-hackathon"></a>What is a Virtual Hackathon?
 
 A hackathon is a sprint of innovation. The purpose is to meet new friends, learn new skills, and connect with potential employers. This still holds true whether it’s your first or 50th hackathon, whether it's online or in person. You will have 36 hours to complete a project. We've worked hard to make everything as close to an in person hackathon as possible-- there will be workshops for hackers of all levels, mini events, mentors on demand, expert judges, and prizes!
 
-# <a name="what-to-bring"></a>What to Have on Hand
+# <a name="what-to-have-on-hand"></a>What to Have on Hand
 
 If you'd like to participate in baking Nutella pies, one of our mini events, please ensure that you have these ingredients:
 
