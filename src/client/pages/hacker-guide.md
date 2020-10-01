@@ -8,21 +8,21 @@ Please note that this guide is still a work in progress. Now, let's jump right i
 
 ## Table of Contents
 
--   [<a name="what-is-a-hackathon"></a>What is a Virtual Hackathon?](#what-is-a-virtual-hackathon)
--   [<a name="what-to-bring"></a>What to Have on Hand](#what-to-have-on-hand)
--   [<a name="how-to-prepare"></a>How to Prepare](#how-to-prepare)
--   [<a name="finding-a-team"></a>Finding a Team](#finding-a-team)
--   [<a name="getting-help"></a>Getting Help](#getting-help)
+-   [What is a Virtual Hackathon?](#what-is-a-virtual-hackathon)
+-   [What to Have on Hand](#what-to-have-on-hand)
+-   [How to Prepare](#how-to-prepare)
+-   [Finding a Team](#finding-a-team)
+-   [Getting Help](#getting-help)
     -   [Introduction](#introduction)
     -   [Getting set up](#getting-set-up)
     -   [Final Notes](#final-notes)
--   [<a name="opening-ceremony"></a>Opening Ceremony](#opening-ceremony)
--   [<a name="closing-ceremony"></a>Closing Ceremony](#closing-ceremony)
--   [<a name="prizes"></a>Prizes](#prizes)
--   [<a name="submitting-your-project"></a>Submitting Your Project](#submitting-your-project)
--   [<a name="code-of-conduct"></a>Code of Conduct](#code-of-conduct)
--   [<a name="event-descriptions"></a>Event Descriptions](#event-descriptions)
--   [<a name="resources"></a>Resources](#resources)
+-   [Opening Ceremony](#opening-ceremony)
+-   [Closing Ceremony](#closing-ceremony)
+-   [Prizes](#prizes)
+-   [Submitting Your Project](#submitting-your-project)
+-   [Code of Conduct](#code-of-conduct)
+-   [Event Descriptions](#event-descriptions)
+-   [Resources](#resources)
 
 # <a name="what-is-a-hackathon"></a>What is a Virtual Hackathon?
 
@@ -122,7 +122,7 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 *   **Skribbl.io** - Have some mad drawing and/or guessing skills? Or don't? Either way, join us for a fun game of Skribbl!
 
-*   **Rubix Solvers** - Ever wanted to learn how to solve one of those bad boys? Join us for some fun tips on how to do that!
+*   **Rubik's Solvers** - Ever wanted to learn how to solve one of those bad boys? Join us for some fun tips on how to do that!
 
 # <a name="resources"></a>Resources
 
