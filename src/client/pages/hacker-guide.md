@@ -13,9 +13,7 @@ Please note that this guide is still a work in progress. Now, let's jump right i
 -   [How to Prepare](#how-to-prepare)
 -   [Finding a Team](#finding-a-team)
 -   [Getting Help](#getting-help)
-    -   [Introduction](#introduction)
-    -   [Getting set up](#getting-set-up)
-    -   [Final Notes](#final-notes)
+-   [Checking in to Events](#checking-in-to-events)
 -   [Opening Ceremony](#opening-ceremony)
 -   [Closing Ceremony](#closing-ceremony)
 -   [Prizes](#prizes)
@@ -70,6 +68,12 @@ We will also be providing a Discord channel (#team-matching) to help facilitate 
 -   Here, you'll find the `help` channel for asking for technical help.
 -   In `ask-organizers`, you can ask other questions, such as logistics. Please refer to the FAQs on our website for most questions.
 -   If you have any other questions, PM an organizer (tagged Organizer / in profile names, and visible in the sidebar). Happy hacking!
+
+# <a name="checking-in-to-events"></a>Checking in to Events
+
+- In your personal applicant portal, you will have a tab that allows you to check in to live events. By checking in, you have a chance to win more swag!
+
+![Hacker check-in](./images/hacker_check_in.png)
 
 # <a name="opening-ceremony"></a>Opening Ceremony
 
