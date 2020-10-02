@@ -63,39 +63,53 @@ We will also be providing a Discord channel (#teamfinding) to help facilitate te
 
 # <a name="getting-help"></a>Getting Help
 
-## Introduction
+-   Ask in the Help category in the sidebar.
 
--   This year, we have a Discord bot to help manage mentorship requests! It will live in `#mentors`. Once you send a request, it will be sent all mentors who can view and choose to claim the request. If you ever need a rundown of the bot's commands, type `!help`.
-    ![Mentorship Bot Commands](./images/ticket_commands.png)
+![Help sidebar](./images/help_sidebar.png)
 
-## Getting set up
-
--   You can select `#mentors` in Discord and ping the Mentorship Discord bot.
--   Type `!new` and summarize your issue, and the bot will automatically create a private channel for it. Any mentor can enter this channel for further discussion.
-    ![Summarizing issue](./images/ticket_creation.png)
-    ![Individual channel](./images/hacker_individual_ticket_channel.png)
-- <ins>Important Note:</ins> Once you and a mentor have resolved an issue, the mentor will use the `!close` command to resolve the issue. To prevent server spam, <ins>closing an issue deletes all records of the request channel</ins>. We highly suggest you take a screenshot or copy any relevant information you might need for later.
-
-## Final Notes
-
--   If you have any other questions, PM an organizer (we will have organizer tages in our profile names). Happy hacking!
+-   Here, you'll find the `help` channel for asking for technical help.
+-   In `ask-organizers`, you can ask other questions, such as logistics. Please refer to the FAQs on our website for most questions.
+-   If you have any other questions, PM an organizer (tagged Organizer / in profile names, and visible in the sidebar). Happy hacking!
 
 # <a name="opening-ceremony"></a>Opening Ceremony
 
-Opening ceremony will be streamed on Twitch at 6:20 PM CT on October 2nd. We will give a quick welcome to hackers, hear from two speakers, hear from our sponsors, and give an overview of this weekend.
+Opening ceremony will be streamed on [Twitch](https://www.twitch.tv/vandyhacks) at 6:20 PM CT on October 2nd. We will give a quick welcome to hackers, hear from two speakers, hear from our sponsors, and give an overview of this weekend.
 
 # <a name="closing-ceremony"></a>Closing Ceremony
 
-Closing ceremony will be streamed on Twitch at 3:00pm CT on October 4th. The presentations of the top teams' projects will be played at this time.
+Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/vandyhacks) at 3:00pm CT on October 4th. The presentations of the top teams' projects will be played at this time.
 
 # <a name="prizes"></a>Prizes
 
--   Best Overall: [Monitor](https://www.amazon.com/MSI-Non-Glare-FreeSync-Optix-MAG241C/dp/B07FB6SY6Z/ref=sr_1_22?dchild=1&qid=1600218060&refinements=p_n_feature_eleven_browse-bin%3A17726576011&s=pc&sr=1-22)
+-   Best Overall: [Monitor](https://www.amazon.com/MSI-Non-Glare-FreeSync-Optix-MAG241C/dp/B07FB6SY6Z/ref=sr_1_22?dchild=1&qid=1600218060&refinements=p_n_feature_eleven_browse-bin%3A17726576011&s=pc&sr=1-22), along with tickets to Pinnacle 2021.
 
 -   Runner up: [Noise Cancelling Headphones](https://www.amazon.com/SE7-Cancelling-Headphones-Bluetooth-Comfortable/dp/B07GYNSQBQ/ref=sr_1_6?crid=3GFOLBRC9FRE1&dchild=1&keywords=noise+cancelling+headphones&qid=1600009712&refinements=p_36%3A9000-12000&rnid=386442011&s=electronics&sprefix=noise+canc%2Celectronics%2C162&sr=1-6)
 
-- Sponsor prizes TBD
+## Sponsor prizes
 
+- Most creative virtual peer-to-peer collaboration engagement aid (Alliance Bernstein) 
+  - $75 Amazon Gift Card for each team member.
+- Best Career Hack (Exponent)
+  - Each winning team member will receive a lifetime membership to Exponent and lunch with the founders!
+- Best Financial Hack (Capital One)
+  - Each winning team member will receive a $200 Amazon Gift Card.
+- Most Mathematically-Involved Project (IMC)
+  - Each winning team member will receive an Oculus VR Headset.
+- Asurion
+  - Build a platform to help with managing your connected home (think outside the box with all tech gadgets that make your home smart). Each winning team member will receive a Nintendo Switch Lite.
+- L3 Harris
+  - Create an app or new technology that can give back! Whether to communities at risk, to the underprivileged or undereducated, etc, we would love to see students create something not only cool, useful, and creative, but a tool that can help others! Each winning team member will receive a Flicker Flame Bluetooth Speaker, Smart Coffee Warmer, and Lap Desk.
+- Vanguard
+  - How might we educate low income families on their financial health? (Use technology to help increase financial literacy. You or your team can create a game, an app, a tool or whatever you think is best as long as it helps teach low income families about how to manage and even grow their finances.) Each winning team member will receive a $75 Cause Card. Two teams win.
+- Best Use of Google Cloud: COVID-19 Hackathon Fund
+  - Select projects may receive an invitation to apply to the Google Cloud COVID-19 hackathon fund awarding up to $5,000 in cloud credits and guidance from Google developers.
+- Best Use of Google Cloud
+  - Each winning team member will receive a Google Cloud branded Patagonia Backpack, Google Cloud Water Bottle, and Google Cloud Trophy.
+- Best Hardware Hack (Digi-Key) (8)
+  - Using your preferred hardware or hardware emulator, build a hack for your chance to win a Grove Beginner Kit, with Arduino Uno R3 included. Each winning team member from each of the two winning teams will receive a Grove Beginner Kit.
+- Best Domain Registered with Domain.com
+  - Domain.com provides all the domain services you need from registration to hosting to SSL certificates and beyond. Each hacker will receive a FREE domain name and year of domain privacy from Domain.com for their project this weekend, in addition to Domain.com backpacks!
+  
 # <a name="submitting-your-project"></a>Submitting Your Project
 
 Please create no more than a 1.5 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface. Please make sure that judges will be able to throughly understand your project, as you will no have the opportunity to answer questions unless you are picked to demo during the closing ceremony. Only the top 4 submissions are picked to demo. 
@@ -108,7 +122,7 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 # <a name="event-descriptions"></a>Event Descriptions
 
--   You can find all event links in the Discord
+-   You can find all event links in the Discord. They will be posted prior to the event.
 
 *   ** A variety of Keynote Speakers throughout the event** 
 
@@ -126,9 +140,10 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 # <a name="resources"></a>Resources
 
+-   [VandyHacks Workshops](https://learn.vandyhacks.org/)
 -   [Github Student Developer Pack](https://education.github.com/pack)
 -   [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/free-account-students-faq/)
 
 <br>
 
-_Last Updated: September 20th, 2020_
+_Last Updated: October 1, 2020_
