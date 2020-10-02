@@ -73,11 +73,11 @@ We will also be providing a Discord channel (#teamfinding) to help facilitate te
 
 # <a name="opening-ceremony"></a>Opening Ceremony
 
-Opening ceremony will be streamed on [Twitch](https://www.twitch.tv/vandyhacks) at 6:20 PM CT on October 2nd. We will give a quick welcome to hackers, hear from two speakers, hear from our sponsors, and give an overview of this weekend.
+Opening ceremony will be streamed on [Twitch](https://www.twitch.tv/vandyhacks) at 6:00 PM CST on October 2nd. We will give a quick welcome to hackers, hear from two speakers, hear from our sponsors, and give an overview of this weekend.
 
 # <a name="closing-ceremony"></a>Closing Ceremony
 
-Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/vandyhacks) at 3:00pm CT on October 4th. The presentations of the top teams' projects will be played at this time.
+Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/vandyhacks) at 3:00 PM CST on October 4th. The presentations of the top teams' projects will be played at this time.
 
 # <a name="prizes"></a>Prizes
 
