@@ -2,7 +2,7 @@ This guide is a list of everything you need to know to have the best possible vi
 
 ## Dear Hacker,
 
-We’re super excited to have you at our VandyHacks Summer Hackathon from October 2nd-4th! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org) or message us on [Facebook](https://www.facebook.com/vandyhacks).
+We’re super excited to have you at VandyHacks VII: Retro Edition Hackathon from October 2nd-4th! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org) or message us on [Facebook](https://www.facebook.com/vandyhacks).
 
 Please note that this guide is still a work in progress. Now, let's jump right into things!
 
@@ -53,13 +53,13 @@ Icing
 
 -   Join the VandyHacks Facebook event [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fvandyhacks.org%2F%3Ffbclid%3DIwAR2m0dKbw41LrhgLNDzAzzgyTzJf4ANyT27DyNKKV-utstKi05OXMeZNrUU&h=AT1BNfLGsu4q_IPGpZV79FhnFCUyI2KwbwL5Oeqo74z8jP25rWY2Kh4UucAGExK1LSC0dU45LcxbrmJrx3Lv3XUy6U9D87y6Jy6goiVpQasRUJiwue23xFL1PRWPAea21W5Xh3UziEyBuwU-v0I). Use this event page to share ideas, ask for help, team up for adventures, and meet new friends.
 
--   Look at previous projects. All of the projects from VandyHacks I, II, III, IV, and V can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), [VHV](https://vandyhacksv.devpost.com/submissions), [VHVI](https://vandyhacksvi.devpost.com/submissions), and [VH Summer](https://vandyhacks-summer-edition.devpost.com/).
+-   Look at previous projects. All of the projects from VandyHacks I, II, III, IV, V, VI, and Summer Edition can be found here: [VHI](https://vandyhacks.devpost.com/submissions), [VHII](https://vandyhacks2.devpost.com/submissions), [VHIII](https://vandyhacks3.devpost.com/submissions), [VHIV](https://vandyhacksiv.devpost.com/submissions), [VHV](https://vandyhacksv.devpost.com/submissions), [VHVI](https://vandyhacksvi.devpost.com/submissions), and [VH Summer](https://vandyhacks-summer-edition.devpost.com/).
 
 # <a name="finding-a-team"></a>Finding a Team
 
 There are a couple of ways to find a team. You can join our [Team Matching Group on Facebook](_____), and you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
 
-We will also be providing a Discord channel (#teamfinding) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
+We will also be providing a Discord channel (#team-matching) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
 
 # <a name="getting-help"></a>Getting Help
 
@@ -114,7 +114,7 @@ Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/vandyhacks) 
 
 Please create no more than a 1.5 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface. Please make sure that judges will be able to throughly understand your project, as you will no have the opportunity to answer questions unless you are picked to demo during the closing ceremony. Only the top 4 submissions are picked to demo. 
 
-You will be submitting your video online via [Devpost](https://vandyhacks-summer-edition.devpost.com/). All submissions are due by 9:30 AM CST on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
+You will be submitting your video online via [Devpost](https://vandyhacks-retro-edn.devpost.com/). All submissions are due by 9:30 AM CST on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
 # <a name="code-of-conduct"></a>Code of Conduct
 
@@ -130,7 +130,7 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you�
 
 *   **Wellness** - Join the VandyHacks team for a relaxing meditation.
 
-*   **Zumba** - Join us as we dance our socks off (through Zoom), there are no judges here!
+*   **Zoomba** - Join us as we dance our socks off (through Zoom), there are no judges here!
 
 *   **Typing Competition** - Think you're the speediest typer around? Compete in the typing competition for a chance to win major clout!
 
@@ -141,7 +141,7 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If you�
 # <a name="resources"></a>Resources
 
 -   [VandyHacks Workshops](https://learn.vandyhacks.org/)
--   [Github Student Developer Pack](https://education.github.com/pack)
+-   [GitHub Student Developer Pack](https://education.github.com/pack)
 -   [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/free-account-students-faq/)
 
 <br>
