@@ -130,7 +130,7 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 *   **Wellness** - Join the VandyHacks team for a relaxing meditation.
 
-*   **Zumba** - Join us as we dance our socks off (through Zoom), there are no judges here!
+*   **Zoomba** - Join us as we dance our socks off (through Zoom), there are no judges here!
 
 *   **Typing Competition** - Think you're the speediest typer around? Compete in the typing competition for a chance to win major clout!
 
