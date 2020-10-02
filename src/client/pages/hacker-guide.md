@@ -2,7 +2,7 @@ This guide is a list of everything you need to know to have the best possible vi
 
 ## Dear Hacker,
 
-We’re super excited to have you at our VandyHacks Summer Hackathon from [October 2nd-4th](https://calendar.vandyhacks.org)! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org) or message us on [Facebook](https://www.facebook.com/vandyhacks).
+We’re super excited to have you at our VandyHacks Summer Hackathon from October 2nd-4th! In this document, we’ve included some basics to hackathons, logistics, event descriptions, mentor information, workshops, and prizes. Should you have any questions, feel free to email us at [info@vandyhacks.org](mailto:info@vandyhacks.org) or message us on [Facebook](https://www.facebook.com/vandyhacks).
 
 Please note that this guide is still a work in progress. Now, let's jump right into things!
 
