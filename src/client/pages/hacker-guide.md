@@ -100,7 +100,7 @@ Closing ceremony will be streamed on Twitch at 3:00pm CT on October 4th. The pre
 
 Please create no more than a 1.5 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface. Please make sure that judges will be able to throughly understand your project, as you will no have the opportunity to answer questions unless you are picked to demo during the closing ceremony. Only the top 4 submissions are picked to demo. 
 
-You will be submitting your video online via [Devpost](https://vandyhacks-summer-edition.devpost.com/). All submissions are due by 9:30 AM CST on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
+You will be submitting your video online via [Devpost](https://vandyhacks-retro-edn.devpost.com/). All submissions are due by 9:30 AM CST on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
 # <a name="code-of-conduct"></a>Code of Conduct
 
@@ -126,7 +126,7 @@ By attending VandyHacks, you agree to abide by the MLH Code of Conduct. If youâ€
 
 # <a name="resources"></a>Resources
 
--   [Github Student Developer Pack](https://education.github.com/pack)
+-   [GitHub Student Developer Pack](https://education.github.com/pack)
 -   [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/free-account-students-faq/)
 
 <br>
