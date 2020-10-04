@@ -8,20 +8,19 @@ Please note that this guide is still a work in progress. Now, let's jump right i
 
 ## Table of Contents
 
-- [<a name="what-is-a-virtual-hackathon"></a>What is a Virtual Hackathon?](#what-is-a-virtual-hackathon)
-- [<a name="what-to-have-on-hand"></a>What to Have on Hand](#what-to-have-on-hand)
-- [<a name="how-to-prepare"></a>How to Prepare](#how-to-prepare)
-- [<a name="finding-a-team"></a>Finding a Team](#finding-a-team)
-- [<a name="getting-help"></a>Getting Help](#getting-help)
-- [<a name="checking-in-to-events"></a>Checking in to Events](#checking-in-to-events)
-- [<a name="opening-ceremony"></a>Opening Ceremony](#opening-ceremony)
-- [<a name="closing-ceremony"></a>Closing Ceremony](#closing-ceremony)
-- [<a name="prizes"></a>Prizes](#prizes)
-  - [Sponsor prizes](#sponsor-prizes)
-- [<a name="submitting-your-project"></a>Submitting Your Project](#submitting-your-project)
-- [<a name="code-of-conduct"></a>Code of Conduct](#code-of-conduct)
-- [<a name="event-descriptions"></a>Event Descriptions](#event-descriptions)
-- [<a name="resources"></a>Resources](#resources)
+-   [What is a Virtual Hackathon?](#what-is-a-virtual-hackathon)
+-   [What to Have on Hand](#what-to-have-on-hand)
+-   [How to Prepare](#how-to-prepare)
+-   [Finding a Team](#finding-a-team)
+-   [Getting Help](#getting-help)
+-   [Checking in to Events](#checking-in-to-events)
+-   [Opening Ceremony](#opening-ceremony)
+-   [Closing Ceremony](#closing-ceremony)
+-   [Prizes](#prizes)
+-   [Submitting Your Project](#submitting-your-project)
+-   [Code of Conduct](#code-of-conduct)
+-   [Event Descriptions](#event-descriptions)
+-   [Resources](#resources)
 
 # <a name="what-is-a-virtual-hackathon"></a>What is a Virtual Hackathon?
 
@@ -56,7 +55,9 @@ Icing
 
 # <a name="finding-a-team"></a>Finding a Team
 
-There are a couple of ways to find a team. You can join the #team-matching channel in our Discord, and you can post to see if anyone wants to work on your idea with you. You can also join one of our team finding sessions on Glimpse. If you don’t have an idea, that’s OK too! Just say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
+There are a couple of ways to find a team. You can join our [Team Matching Group on Facebook](_____), and you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
+
+We will also be providing a Discord channel (#team-matching) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
 
 # <a name="getting-help"></a>Getting Help
 
@@ -115,7 +116,7 @@ Closing ceremony will be streamed on [Twitch](https://www.twitch.tv/vandyhacks) 
   
 # <a name="submitting-your-project"></a>Submitting Your Project
 
-Please create no more than a 2 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface, etc. Please make sure that judges will be able to thoroughly understand your project, as you will no have the opportunity to answer questions unless you are picked to demo during the closing ceremony. Only the top 4 submissions are picked to demo. 
+Please create no more than a 2 minute video explaining and/or demonstrating your project. This can be done in any way - through slides, talking, showing the code/interface. Please make sure that judges will be able to thoroughly understand your project, as you will no have the opportunity to answer questions unless you are picked to demo during the closing ceremony. Only the top 4 submissions are picked to demo. 
 
 You will be submitting your video online via [Devpost](https://vandyhacks-retro-edn.devpost.com/). All submissions are due by 9:30 AM CST on Sunday, so be aware of the time because you will not be allowed to submit afterwards. You will be asked to write a title and short description for your project. Remember, this is something you can show off to recruiters, family, and friends in the future!
 
