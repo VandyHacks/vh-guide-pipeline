@@ -12,6 +12,13 @@
     <h1 class='title'>The VandyHacks: Retro Edition Hacker Guide</h1>
     <div id="content"></div>
     <script src='./js/main.js'></script>
+    <script>
+        window.onload = () => {
+            if(window.location.hash) {
+                document.getElementsByName(window.location.hash.replace("#", ""))[0].scrollIntoView();
+            }
+        };
+    </script>
 </body>
 
 </html>

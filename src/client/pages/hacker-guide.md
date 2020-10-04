@@ -56,9 +56,7 @@ Icing
 
 # <a name="finding-a-team"></a>Finding a Team
 
-There are a couple of ways to find a team. You can join our [Team Matching Group on Facebook](_____), and you can post to see if anyone wants to work on your idea with you. If you don’t have an idea, that’s OK too! Just post and say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
-
-We will also be providing a Discord channel (#team-matching) to help facilitate team creation or you can attend the team finding session right after the opening ceremony.
+There are a couple of ways to find a team. You can join the #team-matching channel in our Discord, and you can post to see if anyone wants to work on your idea with you. You can also join one of our team finding sessions on Glimpse. If you don’t have an idea, that’s OK too! Just say your background, any languages or technical experience you have, and say you’re looking for a team. Remember that everyone is in the same boat – don’t be afraid to put yourself out there!
 
 # <a name="getting-help"></a>Getting Help
 
