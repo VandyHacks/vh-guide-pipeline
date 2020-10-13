@@ -17,9 +17,25 @@
         anchors.options = {
             icon: "¶",
             visible: "touch",
-            titleText: "Permalink to this headline"
+            titleText: "Copy link to this headline"
         }
         anchors.add('h1, h2, h3');
+
+        // set click action to copy link to clipboard
+        let anchorjsLinks = document.querySelectorAll(".anchorjs-link");
+        anchorjsLinks.forEach(el => {
+            el.addEventListener("click", async event => {
+                // event.preventDefault();
+                try {
+                    await navigator.clipboard.writeText(el.href);
+                    console.log("copied link to clipboard ez");
+                    // el.innerHTML = "copied!";
+                    // setTimeout(function () {el.innerHTML = ""}, 1000);
+                } catch (err) {
+                    console.error("Sad! something fucky wucky: ", err);
+                }
+            });
+        });
     </script>
     <script>
         window.onload = () => {
