@@ -242,3 +242,7 @@ footer {
 .anchorjs-link:hover {
   color: var(--main-text-dark);
 }
+
+*:hover > .anchorjs-link {
+  transition: color .2s linear;
+}
