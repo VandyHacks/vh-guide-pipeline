@@ -8,9 +8,25 @@
 </head>
 
 <body>
-    <h1 class='title'>The VandyHacks VI Mentor Guide</h1>
+    <h1 class='title'>The VandyHacks VII Mentor Guide</h1>
     <div id="content"></div>
     <script src='./js/main.js'></script>
+    <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
+    <script>
+      anchors.options = {
+        icon: "¶",
+        visible: "hover",
+        titleText: "Permalink to this headline"
+      }
+      anchors.add('h1, h2, h3');
+    </script>
+    <script>
+      window.onload = () => {
+        if(window.location.hash) {
+          document.getElementsByName(window.location.hash.replace("#", ""))[0].scrollIntoView();
+        }
+      };
+    </script>
 </body>
 
 </html>

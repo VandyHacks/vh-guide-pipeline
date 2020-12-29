@@ -2,8 +2,12 @@
 
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 @import url("https://fonts.googleapis.com/css?family=Lato");
+:root {
+  --main-text-dark: #2A3D85;
+}
+
 .title {
-  color: #2A3D85;
+  color: var(--main-text-dark);
   font-size: 40px;
   margin: 30px;
   text-align: center;
@@ -64,12 +68,12 @@ th {
 
 a {
   /* color: #1a1a1a; */
-  color: #2A3D85;
+  color: var(--main-text-dark);
   font-weight: bold;
 }
 a:hover {
   /* color: #1a1a1a; */
-  color: #2A3D85;
+  color: var(--main-text-dark);
   text-decoration: none;
 }
 a img {
@@ -87,7 +91,7 @@ ul {
 
 li a {
   /* color: #1a1a1a; */
-  color: #2A3D85;
+  color: var(--main-text-dark);
   /* font-weight: bold; */
 }
 
@@ -208,7 +212,7 @@ sup {
   h5,
   h6 {
     font-family: "Lato", Arial, sans-serif;
-    color: #2A3D85;
+    color: var(--main-text-dark);
     line-height: 30px;
   }
   h1 {
@@ -231,3 +235,14 @@ footer {
   padding: 15px 0;
 }
 
+.anchorjs-link {
+   color: #aaa;
+}
+
+.anchorjs-link:hover {
+  color: var(--main-text-dark);
+}
+
+*:hover > .anchorjs-link {
+  transition: color .2s linear;
+}

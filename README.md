@@ -1,5 +1,5 @@
 # vh-hacker-guide
-VandyHacks V Hacker Guide
+VandyHacks VII Hacker Guide
 
 Markdown --> HTML rendering pipeline via Webpack!
 
